@@ -1,5 +1,5 @@
-const items = require("./data/db");
+const products = require("./data/db");
 
 module.exports = {
-  items
+  products
 }
