@@ -1,5 +1,5 @@
-const phones = require("./data/db");
+const products = require("./data/db");
 
 module.exports = {
-  phones,
+  products,
 }
