@@ -9,66 +9,66 @@
     "id": 0
   },
   {
-    "name": "Samsung Galaxy A01",
-    "brand": "samsung",
-    "img": "https://texnomart.az/wp-content/uploads/2020/11/Samsung-Galaxy-A01-Red-all-600x600.jpg",
-    "ram": 2,
-    "memory": 16,
-    "price": 239,
-    "id": 1
-  },
-  {
-    "name": "Samsung A12",
-    "brand": "samsung",
-    "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-A12-32-GB-SM-A125-blue-all-600x600.jpg",
+    "name": "Xiaomi Redmi 9 Purple",
+    "brand": "xiaomi",
+    "img": "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-7ymvbgu04qepj61koc8a-300x300.jpg",
     "ram": 3,
     "memory": 32,
     "price": 329,
+    "id": 1
+  },
+  {
+    "name": "Xiaomi Redmi Note 11 Pro",
+    "brand": "xiaomi",
+    "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-jkycruxoi43mvg1wel76.jpg",
+    "ram": 8,
+    "memory": 256,
+    "price": 1099,
     "id": 2
   },
   {
-    "name": "Samsung Galaxy S21",
+    "name": "Samsung Galaxy S22",
     "brand": "samsung",
-    "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-Galaxy-S21-SM-G991-Grey-all-600x600.jpg",
+    "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-Galaxy-S22-Pink-Gold-lrv6ejxq94in8h530pko-600x600.jpg",
     "ram": 8,
     "memory": 128,
-    "price": 1899,
+    "price": 2099,
     "id": 3
   },
   {
-    "name": "Samsung Galaxy Note 20",
+    "name": "Samsung Z Flip 3",
     "brand": "samsung",
-    "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-Note-20-SM-N980-bronze-all-2-600x600.jpg",
+    "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-1-1-600x600.jpg",
     "ram": 8,
     "memory": 256,
-    "price": 1799,
+    "price": 2199,
     "id": 4
   },
   {
-    "name": "Smartfon Samsung A52",
-    "brand": "samsung",
-    "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A52-DS-SM-A525-violet-all-600x600.jpg",
-    "ram": 4,
-    "memory": 128,
-    "price": 719,
+    "name": "Xiaomi 12 Lite",
+    "brand": "xiaomi",
+    "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-koq25umiy0c7npxza1jl.jpg",
+    "ram": 8,
+    "memory": 256,
+    "price": 979,
     "id": 5
   },
   {
-    "name": "Smartfon Samsung Galaxy A32",
+    "name": "Samsung A03S",
     "brand": "samsung",
-    "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-all-600x600.jpg",
+    "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-u92a6inhk17vyfxmpc3l-600x600.jpg",
     "ram": 4,
     "memory": 64,
-    "price": 539,
+    "price": 339,
     "id": 6
   },
   {
-    "name": "Xiaomi Redmi Note 9",
+    "name": "Xiaomi Poco F4 Pro",
     "brand": "xiaomi",
-    "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9-green-all-600x600.jpg",
-    "ram": 3,
-    "memory": 64,
-    "price": 429,
+    "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-silver-9z34vkejrt86oixspman.jpg",
+    "ram": 8,
+    "memory": 256,
+    "price": 1049,
     "id": 7
   },
   {
@@ -144,7 +144,7 @@
     "id": 15
   },
   {
-    "name": "Smartfon Samsung Galaxy A32",
+    "name": "Samsung Galaxy A32",
     "brand": "samsung",
     "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-all-600x600.jpg",
     "ram": 4,
