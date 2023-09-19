@@ -264,7 +264,62 @@
       "operationTime": 240
     }
   ],
-  "laptops": [],
+  "laptops": [
+    {
+      "name": "Acer Nitro 5",
+      "brand": "acer",
+      "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-Acer-Nitro-5-AN515-57-54QC-3t95yesjozcw7miq6a1k.jpg",
+      "price": 2799,
+      "id": 0,
+      "ram": 8,
+      "memory": 512
+    },
+    {
+      "name": "Acer Aspire",
+      "brand": "acer",
+      "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-acer-NX.HZRER_.01G-N-kca9xp3ls80nyfeir4qu-300x300.jpg",
+      "price": 1549,
+      "id": 1,
+      "ram": 8,
+      "memory": "1 TB"
+    },
+    {
+      "name": "Acer EX215-31",
+      "brand": "acer",
+      "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-Acer-EX215-31-NX.EFTER_.00P-N-1-300x300.jpg",
+      "price": 819,
+      "id": 2,
+      "ram": 4,
+      "memory": 256
+    },
+    {
+      "name": "HP VICTUS 15",
+      "brand": "HP",
+      "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-HP-VICTUS-15-FA0031DX-nowky0xl53ubca9rpjis.jpg",
+      "price": 3219,
+      "id": 3,
+      "ram": 16,
+      "memory": 512
+    },
+    {
+      "name": "HP 255",
+      "brand": "HP",
+      "img": "https://texnomart.az/wp-content/uploads/2022/02/texnomart-Notebook-HP-255-AMD-Athlon-G8-2W1D4EA-1lnpqsa38r7oz4t06bck-300x300.jpg",
+      "price": 829,
+      "id": 4,
+      "ram": 4,
+      "memory": 256
+    },
+    {
+      "name": "HP Pavilion 15",
+      "brand": "HP",
+      "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-HP-Pavilion-15-eh0041ur-300x300.jpg",
+      "price": 1259,
+      "id": 5,
+      "ram": 4,
+      "memory": 256
+    }
+  ],
   "air-conditioners": [],
   "televisions": [],
   "washing-machines": [],
