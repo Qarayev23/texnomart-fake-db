@@ -196,319 +196,6 @@
       "brand": "samsung",
       "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Samsung-Galaxy-Watch-5-44mm-gray-14cw6q9lhsf8yp57oizk-300x300.jpg",
       "price": 649,
-      "id": 0,
-      "operationTime": 40
-    },
-    {
-      "name": "Samsung Galaxy Watch 4",
-      "brand": "samsung",
-      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-40mm-Black-umxprfkz4ge82c1n5wh0-300x300.jpg",
-      "price": 399,
-      "id": 1,
-      "operationTime": 40
-    },
-    {
-      "name": "Samsung Galaxy 4 Classic 46mm",
-      "brand": "samsung",
-      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-mc65x1uf04az7pkj9w3g-300x300.jpg",
-      "price": 699,
-      "id": 2,
-      "operationTime": 40
-    },
-    {
-      "name": "Samsung Galaxy 4 Classic 42mm",
-      "brand": "samsung",
-      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-mc65x1uf04az7pkj9w3g-300x300.jpg",
-      "price": 589,
-      "id": 3,
-      "operationTime": 40
-    },
-    {
-      "name": "Samsung Galaxy Watch 4 44mm",
-      "brand": "samsung",
-      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-44mm-Black-h8lqk69j1m3utn7syrgw-300x300.jpg",
-      "price": 449,
-      "id": 4,
-      "operationTime": 40
-    },
-    {
-      "name": "Huawei Band 7",
-      "brand": "huawei",
-      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Huawei-Band-7-green-t52ib1uf09mgo68cqkv4.jpg",
-      "price": 119,
-      "id": 5,
-      "operationTime": 240
-    },
-    {
-      "name": "Huawei GT 3 46mm Active",
-      "brand": "huawei",
-      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-GT-3-46mm-Active-7yuafb48th0jip3vm1ke-300x300.jpg",
-      "price": 579,
-      "id": 6,
-      "operationTime": 336
-    },
-    {
-      "name": "Huawei GT 2 Sport 46mm",
-      "brand": "huawei",
-      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-GT-2-Sport-46mm-Black-6nz8maxsk4yqr90vc2ob-300x300.jpg",
-      "price": 399,
-      "id": 7,
-      "operationTime": 336
-    },
-    {
-      "name": "Huawei Band 6",
-      "brand": "huawei",
-      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-Band-6-Black-ybhxgnzf1w8ci45vql2r-300x300.jpg",
-      "price": 139,
-      "id": 8,
-      "operationTime": 240
-    }
-  ],
-  "laptops": [
-    {
-      "name": "Acer Nitro 5",
-      "brand": "acer",
-      "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-Acer-Nitro-5-AN515-57-54QC-3t95yesjozcw7miq6a1k.jpg",
-      "price": 2799,
-      "id": 0,
-      "ram": 8,
-      "memory": 512
-    },
-    {
-      "name": "Acer EX215-31",
-      "brand": "acer",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-Acer-EX215-31-NX.EFTER_.00P-N-1-300x300.jpg",
-      "price": 819,
-      "id": 2,
-      "ram": 4,
-      "memory": 256
-    },
-    {
-      "name": "HP VICTUS 15",
-      "brand": "HP",
-      "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-HP-VICTUS-15-FA0031DX-nowky0xl53ubca9rpjis.jpg",
-      "price": 3219,
-      "id": 3,
-      "ram": 16,
-      "memory": 512
-    },
-    {
-      "name": "HP 255",
-      "brand": "HP",
-      "img": "https://texnomart.az/wp-content/uploads/2022/02/texnomart-Notebook-HP-255-AMD-Athlon-G8-2W1D4EA-1lnpqsa38r7oz4t06bck-300x300.jpg",
-      "price": 829,
-      "id": 4,
-      "ram": 4,
-      "memory": 256
-    },
-    {
-      "name": "HP Pavilion 15",
-      "brand": "HP",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-HP-Pavilion-15-eh0041ur-300x300.jpg",
-      "price": 1259,
-      "id": 5,
-      "ram": 4,
-      "memory": 256
-    }
-  ],
-  "air-conditioners": [],
-  "televisions": [],
-  "washing-machines": [],
-  "allProducts": [
-    {
-      "name": "Samsung Galaxy J2 Prime",
-      "brand": "samsung",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-J2-Prime-Black.jpg",
-      "ram": 1.5,
-      "memory": 8,
-      "price": 149,
-      "id": 0
-    },
-    {
-      "name": "Xiaomi Redmi 9 Purple",
-      "brand": "xiaomi",
-      "img": "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-7ymvbgu04qepj61koc8a-300x300.jpg",
-      "ram": 3,
-      "memory": 32,
-      "price": 329,
-      "id": 1
-    },
-    {
-      "name": "Xiaomi Redmi Note 11 Pro",
-      "brand": "xiaomi",
-      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-jkycruxoi43mvg1wel76.jpg",
-      "ram": 8,
-      "memory": 256,
-      "price": 1099,
-      "id": 2
-    },
-    {
-      "name": "Samsung Galaxy S22",
-      "brand": "samsung",
-      "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-Galaxy-S22-Pink-Gold-lrv6ejxq94in8h530pko-600x600.jpg",
-      "ram": 8,
-      "memory": 128,
-      "price": 2099,
-      "id": 3
-    },
-    {
-      "name": "Samsung Z Flip 3",
-      "brand": "samsung",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-1-1-600x600.jpg",
-      "ram": 8,
-      "memory": 256,
-      "price": 2199,
-      "id": 4
-    },
-    {
-      "name": "Xiaomi 12 Lite",
-      "brand": "xiaomi",
-      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-koq25umiy0c7npxza1jl.jpg",
-      "ram": 8,
-      "memory": 256,
-      "price": 979,
-      "id": 5
-    },
-    {
-      "name": "Samsung A03S",
-      "brand": "samsung",
-      "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-u92a6inhk17vyfxmpc3l-600x600.jpg",
-      "ram": 4,
-      "memory": 64,
-      "price": 339,
-      "id": 6
-    },
-    {
-      "name": "Xiaomi Poco F4 Pro",
-      "brand": "xiaomi",
-      "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-silver-9z34vkejrt86oixspman.jpg",
-      "ram": 8,
-      "memory": 256,
-      "price": 1049,
-      "id": 7
-    },
-    {
-      "name": "Xiaomi Redmi Note 9S",
-      "brand": "xiaomi",
-      "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9S-blue-all-600x600.jpg",
-      "ram": 4,
-      "memory": 64,
-      "price": 519,
-      "id": 8
-    },
-    {
-      "name": "Xiaomi Poco X3",
-      "brand": "xiaomi",
-      "img": "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-all-1-600x600.jpg",
-      "ram": 6,
-      "memory": 128,
-      "price": 699,
-      "id": 9
-    },
-    {
-      "name": "Xiaomi POCO X3 Pro",
-      "brand": "xiaomi",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-600x600.jpg",
-      "ram": 6,
-      "memory": 128,
-      "price": 849,
-      "id": 10
-    },
-    {
-      "name": "Samsung Galaxy A01",
-      "brand": "samsung",
-      "img": "https://texnomart.az/wp-content/uploads/2020/11/Samsung-Galaxy-A01-Red-all-600x600.jpg",
-      "ram": 2,
-      "memory": 16,
-      "price": 239,
-      "id": 11
-    },
-    {
-      "name": "Samsung A12",
-      "brand": "samsung",
-      "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-A12-32-GB-SM-A125-blue-all-600x600.jpg",
-      "ram": 3,
-      "memory": 32,
-      "price": 329,
-      "id": 12
-    },
-    {
-      "name": "Samsung Galaxy S21",
-      "brand": "samsung",
-      "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-Galaxy-S21-SM-G991-Grey-all-600x600.jpg",
-      "ram": 8,
-      "memory": 128,
-      "price": 1899,
-      "id": 13
-    },
-    {
-      "name": "Samsung Galaxy Note 20",
-      "brand": "samsung",
-      "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-Note-20-SM-N980-bronze-all-2-600x600.jpg",
-      "ram": 8,
-      "memory": 256,
-      "price": 1799,
-      "id": 14
-    },
-    {
-      "name": "Smartfon Samsung A52",
-      "brand": "samsung",
-      "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A52-DS-SM-A525-violet-all-600x600.jpg",
-      "ram": 4,
-      "memory": 128,
-      "price": 719,
-      "id": 15
-    },
-    {
-      "name": "Samsung Galaxy A32",
-      "brand": "samsung",
-      "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-all-600x600.jpg",
-      "ram": 4,
-      "memory": 64,
-      "price": 539,
-      "id": 16
-    },
-    {
-      "name": "Xiaomi Redmi Note 9",
-      "brand": "xiaomi",
-      "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9-green-all-600x600.jpg",
-      "ram": 3,
-      "memory": 64,
-      "price": 429,
-      "id": 17
-    },
-    {
-      "name": "Xiaomi Redmi Note 9S",
-      "brand": "xiaomi",
-      "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9S-blue-all-600x600.jpg",
-      "ram": 4,
-      "memory": 64,
-      "price": 519,
-      "id": 18
-    },
-    {
-      "name": "Xiaomi Poco X3",
-      "brand": "xiaomi",
-      "img": "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-all-1-600x600.jpg",
-      "ram": 6,
-      "memory": 128,
-      "price": 699,
-      "id": 19
-    },
-    {
-      "name": "Xiaomi POCO X3 Pro",
-      "brand": "xiaomi",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-600x600.jpg",
-      "ram": 6,
-      "memory": 128,
-      "price": 849,
-      "id": 20
-    },
-    {
-      "name": "Samsung Galaxy Watch 5",
-      "brand": "samsung",
-      "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Samsung-Galaxy-Watch-5-44mm-gray-14cw6q9lhsf8yp57oizk-300x300.jpg",
-      "price": 649,
       "id": 21,
       "operationTime": 40
     },
@@ -575,7 +262,9 @@
       "price": 139,
       "id": 29,
       "operationTime": 240
-    },
+    }
+  ],
+  "laptops": [
     {
       "name": "Acer Nitro 5",
       "brand": "acer",
@@ -617,7 +306,318 @@
       "brand": "HP",
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-HP-Pavilion-15-eh0041ur-300x300.jpg",
       "price": 1259,
-      "id": 5,
+      "id": 34,
+      "ram": 4,
+      "memory": 256
+    }
+  ],
+  "air-conditioners": [],
+  "televisions": [],
+  "washing-machines": [],
+  "allProducts": [
+    {
+      "name": "Samsung Galaxy J2 Prime",
+      "brand": "samsung",
+      "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-J2-Prime-Black.jpg",
+      "ram": 1.5,
+      "memory": 8,
+      "price": 149,
+      "id": 35
+    },
+    {
+      "name": "Xiaomi Redmi 9 Purple",
+      "brand": "xiaomi",
+      "img": "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-7ymvbgu04qepj61koc8a-300x300.jpg",
+      "ram": 3,
+      "memory": 32,
+      "price": 329,
+      "id": 36
+    },
+    {
+      "name": "Xiaomi Redmi Note 11 Pro",
+      "brand": "xiaomi",
+      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-jkycruxoi43mvg1wel76.jpg",
+      "ram": 8,
+      "memory": 256,
+      "price": 1099,
+      "id": 37
+    },
+    {
+      "name": "Samsung Galaxy S22",
+      "brand": "samsung",
+      "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-Galaxy-S22-Pink-Gold-lrv6ejxq94in8h530pko-600x600.jpg",
+      "ram": 8,
+      "memory": 128,
+      "price": 2099,
+      "id": 38
+    },
+    {
+      "name": "Samsung Z Flip 3",
+      "brand": "samsung",
+      "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-1-1-600x600.jpg",
+      "ram": 8,
+      "memory": 256,
+      "price": 2199,
+      "id": 39
+    },
+    {
+      "name": "Xiaomi 12 Lite",
+      "brand": "xiaomi",
+      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-koq25umiy0c7npxza1jl.jpg",
+      "ram": 8,
+      "memory": 256,
+      "price": 979,
+      "id": 40
+    },
+    {
+      "name": "Samsung A03S",
+      "brand": "samsung",
+      "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-u92a6inhk17vyfxmpc3l-600x600.jpg",
+      "ram": 4,
+      "memory": 64,
+      "price": 339,
+      "id": 41
+    },
+    {
+      "name": "Xiaomi Poco F4 Pro",
+      "brand": "xiaomi",
+      "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-silver-9z34vkejrt86oixspman.jpg",
+      "ram": 8,
+      "memory": 256,
+      "price": 1049,
+      "id": 42
+    },
+    {
+      "name": "Xiaomi Redmi Note 9S",
+      "brand": "xiaomi",
+      "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9S-blue-all-600x600.jpg",
+      "ram": 4,
+      "memory": 64,
+      "price": 519,
+      "id": 43
+    },
+    {
+      "name": "Xiaomi Poco X3",
+      "brand": "xiaomi",
+      "img": "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-all-1-600x600.jpg",
+      "ram": 6,
+      "memory": 128,
+      "price": 699,
+      "id": 44
+    },
+    {
+      "name": "Xiaomi POCO X3 Pro",
+      "brand": "xiaomi",
+      "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-600x600.jpg",
+      "ram": 6,
+      "memory": 128,
+      "price": 849,
+      "id": 45
+    },
+    {
+      "name": "Samsung Galaxy A01",
+      "brand": "samsung",
+      "img": "https://texnomart.az/wp-content/uploads/2020/11/Samsung-Galaxy-A01-Red-all-600x600.jpg",
+      "ram": 2,
+      "memory": 16,
+      "price": 239,
+      "id": 46
+    },
+    {
+      "name": "Samsung A12",
+      "brand": "samsung",
+      "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-A12-32-GB-SM-A125-blue-all-600x600.jpg",
+      "ram": 3,
+      "memory": 32,
+      "price": 329,
+      "id": 47
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "brand": "samsung",
+      "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-Galaxy-S21-SM-G991-Grey-all-600x600.jpg",
+      "ram": 8,
+      "memory": 128,
+      "price": 1899,
+      "id": 48
+    },
+    {
+      "name": "Samsung Galaxy Note 20",
+      "brand": "samsung",
+      "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-Note-20-SM-N980-bronze-all-2-600x600.jpg",
+      "ram": 8,
+      "memory": 256,
+      "price": 1799,
+      "id": 49
+    },
+    {
+      "name": "Smartfon Samsung A52",
+      "brand": "samsung",
+      "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A52-DS-SM-A525-violet-all-600x600.jpg",
+      "ram": 4,
+      "memory": 128,
+      "price": 719,
+      "id": 50
+    },
+    {
+      "name": "Samsung Galaxy A32",
+      "brand": "samsung",
+      "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-all-600x600.jpg",
+      "ram": 4,
+      "memory": 64,
+      "price": 539,
+      "id": 51
+    },
+    {
+      "name": "Xiaomi Redmi Note 9",
+      "brand": "xiaomi",
+      "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9-green-all-600x600.jpg",
+      "ram": 3,
+      "memory": 64,
+      "price": 429,
+      "id": 52
+    },
+    {
+      "name": "Xiaomi Redmi Note 9S",
+      "brand": "xiaomi",
+      "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9S-blue-all-600x600.jpg",
+      "ram": 4,
+      "memory": 64,
+      "price": 519,
+      "id": 53
+    },
+    {
+      "name": "Xiaomi Poco X3",
+      "brand": "xiaomi",
+      "img": "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-all-1-600x600.jpg",
+      "ram": 6,
+      "memory": 128,
+      "price": 699,
+      "id": 54
+    },
+    {
+      "name": "Xiaomi POCO X3 Pro",
+      "brand": "xiaomi",
+      "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-600x600.jpg",
+      "ram": 6,
+      "memory": 128,
+      "price": 849,
+      "id": 55
+    },
+    {
+      "name": "Samsung Galaxy Watch 5",
+      "brand": "samsung",
+      "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Samsung-Galaxy-Watch-5-44mm-gray-14cw6q9lhsf8yp57oizk-300x300.jpg",
+      "price": 649,
+      "id": 56,
+      "operationTime": 40
+    },
+    {
+      "name": "Samsung Galaxy Watch 4",
+      "brand": "samsung",
+      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-40mm-Black-umxprfkz4ge82c1n5wh0-300x300.jpg",
+      "price": 399,
+      "id": 57,
+      "operationTime": 40
+    },
+    {
+      "name": "Samsung Galaxy 4 Classic 46mm",
+      "brand": "samsung",
+      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-mc65x1uf04az7pkj9w3g-300x300.jpg",
+      "price": 699,
+      "id": 58,
+      "operationTime": 40
+    },
+    {
+      "name": "Samsung Galaxy 4 Classic 42mm",
+      "brand": "samsung",
+      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-mc65x1uf04az7pkj9w3g-300x300.jpg",
+      "price": 589,
+      "id": 59,
+      "operationTime": 40
+    },
+    {
+      "name": "Samsung Galaxy Watch 4 44mm",
+      "brand": "samsung",
+      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-44mm-Black-h8lqk69j1m3utn7syrgw-300x300.jpg",
+      "price": 449,
+      "id": 60,
+      "operationTime": 40
+    },
+    {
+      "name": "Huawei Band 7",
+      "brand": "huawei",
+      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Huawei-Band-7-green-t52ib1uf09mgo68cqkv4.jpg",
+      "price": 119,
+      "id": 61,
+      "operationTime": 240
+    },
+    {
+      "name": "Huawei GT 3 46mm Active",
+      "brand": "huawei",
+      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-GT-3-46mm-Active-7yuafb48th0jip3vm1ke-300x300.jpg",
+      "price": 579,
+      "id": 62,
+      "operationTime": 336
+    },
+    {
+      "name": "Huawei GT 2 Sport 46mm",
+      "brand": "huawei",
+      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-GT-2-Sport-46mm-Black-6nz8maxsk4yqr90vc2ob-300x300.jpg",
+      "price": 399,
+      "id": 63,
+      "operationTime": 336
+    },
+    {
+      "name": "Huawei Band 6",
+      "brand": "huawei",
+      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-Band-6-Black-ybhxgnzf1w8ci45vql2r-300x300.jpg",
+      "price": 139,
+      "id": 64,
+      "operationTime": 240
+    },
+    {
+      "name": "Acer Nitro 5",
+      "brand": "acer",
+      "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-Acer-Nitro-5-AN515-57-54QC-3t95yesjozcw7miq6a1k.jpg",
+      "price": 2799,
+      "id": 65,
+      "ram": 8,
+      "memory": 512
+    },
+    {
+      "name": "Acer EX215-31",
+      "brand": "acer",
+      "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-Acer-EX215-31-NX.EFTER_.00P-N-1-300x300.jpg",
+      "price": 819,
+      "id": 66,
+      "ram": 4,
+      "memory": 256
+    },
+    {
+      "name": "HP VICTUS 15",
+      "brand": "HP",
+      "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-HP-VICTUS-15-FA0031DX-nowky0xl53ubca9rpjis.jpg",
+      "price": 3219,
+      "id": 67,
+      "ram": 16,
+      "memory": 512
+    },
+    {
+      "name": "HP 255",
+      "brand": "HP",
+      "img": "https://texnomart.az/wp-content/uploads/2022/02/texnomart-Notebook-HP-255-AMD-Athlon-G8-2W1D4EA-1lnpqsa38r7oz4t06bck-300x300.jpg",
+      "price": 829,
+      "id": 68,
+      "ram": 4,
+      "memory": 256
+    },
+    {
+      "name": "HP Pavilion 15",
+      "brand": "HP",
+      "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-HP-Pavilion-15-eh0041ur-300x300.jpg",
+      "price": 1259,
+      "id": 69,
       "ram": 34,
       "memory": 256
     }
