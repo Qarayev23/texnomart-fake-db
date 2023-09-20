@@ -105,6 +105,7 @@
       "brand": "xiaomi",
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-600x600.jpg",
       "ram": 6,
+      "category": "smartphones",
       "memory": 128,
       "price": 849,
       "id": 10
@@ -286,7 +287,7 @@
     },
     {
       "name": "HP VICTUS 15",
-      "brand": "HP",
+      "brand": "hp",
       "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-HP-VICTUS-15-FA0031DX-nowky0xl53ubca9rpjis.jpg",
       "price": 3219,
       "id": 32,
@@ -296,7 +297,7 @@
     },
     {
       "name": "HP 255",
-      "brand": "HP",
+      "brand": "hp",
       "img": "https://texnomart.az/wp-content/uploads/2022/02/texnomart-Notebook-HP-255-AMD-Athlon-G8-2W1D4EA-1lnpqsa38r7oz4t06bck-300x300.jpg",
       "price": 829,
       "id": 33,
@@ -306,7 +307,7 @@
     },
     {
       "name": "HP Pavilion 15",
-      "brand": "HP",
+      "brand": "hp",
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-HP-Pavilion-15-eh0041ur-300x300.jpg",
       "price": 1259,
       "id": 34,
@@ -424,6 +425,7 @@
       "brand": "xiaomi",
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-600x600.jpg",
       "ram": 6,
+      "category": "smartphones",
       "memory": 128,
       "price": 849,
       "id": 10
@@ -601,7 +603,7 @@
     },
     {
       "name": "HP VICTUS 15",
-      "brand": "HP",
+      "brand": "hp",
       "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-HP-VICTUS-15-FA0031DX-nowky0xl53ubca9rpjis.jpg",
       "price": 3219,
       "id": 32,
@@ -611,7 +613,7 @@
     },
     {
       "name": "HP 255",
-      "brand": "HP",
+      "brand": "hp",
       "img": "https://texnomart.az/wp-content/uploads/2022/02/texnomart-Notebook-HP-255-AMD-Athlon-G8-2W1D4EA-1lnpqsa38r7oz4t06bck-300x300.jpg",
       "price": 829,
       "id": 33,
@@ -621,7 +623,7 @@
     },
     {
       "name": "HP Pavilion 15",
-      "brand": "HP",
+      "brand": "hp",
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-HP-Pavilion-15-eh0041ur-300x300.jpg",
       "price": 1259,
       "id": 34,
