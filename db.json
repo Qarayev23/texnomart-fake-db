@@ -6,6 +6,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-J2-Prime-Black.jpg",
       "price": 149,
       "brand": "samsung",
+      "memory": 8,
+      "ram": 1.5,
       "filterItems": {
         "brand": "samsung",
         "memory": 8,
@@ -18,6 +20,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-7ymvbgu04qepj61koc8a-300x300.jpg",
       "category": "smartphones",
       "brand": "xiaomi",
+      "memory": 32,
+      "ram": 3,
       "filterItems": {
         "brand": "xiaomi",
         "memory": 32,
@@ -31,6 +35,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-jkycruxoi43mvg1wel76.jpg",
       "category": "smartphones",
       "brand": "xiaomi",
+      "memory": 256,
+      "ram": 8,
       "filterItems": {
         "brand": "xiaomi",
         "memory": 256,
@@ -44,6 +50,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-Galaxy-S22-Pink-Gold-lrv6ejxq94in8h530pko-600x600.jpg",
       "category": "smartphones",
       "brand": "samsung",
+      "memory": 128,
+      "ram": 8,
       "filterItems": {
         "brand": "samsung",
         "memory": 128,
@@ -57,6 +65,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-1-1-600x600.jpg",
       "category": "smartphones",
       "brand": "samsung",
+      "memory": 256,
+      "ram": 8,
       "filterItems": {
         "brand": "samsung",
         "memory": 256,
@@ -70,6 +80,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-koq25umiy0c7npxza1jl.jpg",
       "category": "smartphones",
       "brand": "xiaomi",
+      "memory": 256,
+      "ram": 8,
       "filterItems": {
         "brand": "xiaomi",
         "memory": 256,
@@ -83,6 +95,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-u92a6inhk17vyfxmpc3l-600x600.jpg",
       "category": "smartphones",
       "brand": "samsung",
+      "memory": 64,
+      "ram": 4,
       "filterItems": {
         "brand": "samsung",
         "memory": 64,
@@ -96,6 +110,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-silver-9z34vkejrt86oixspman.jpg",
       "category": "smartphones",
       "brand": "xiaomi",
+      "memory": 256,
+      "ram": 8,
       "filterItems": {
         "brand": "xiaomi",
         "memory": 256,
@@ -109,6 +125,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9S-blue-all-600x600.jpg",
       "category": "smartphones",
       "brand": "xiaomi",
+      "memory": 64,
+      "ram": 4,
       "filterItems": {
         "brand": "xiaomi",
         "memory": 64,
@@ -122,6 +140,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-all-1-600x600.jpg",
       "category": "smartphones",
       "brand": "xiaomi",
+      "memory": 128,
+      "ram": 6,
       "filterItems": {
         "brand": "xiaomi",
         "memory": 128,
@@ -135,6 +155,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-600x600.jpg",
       "category": "smartphones",
       "brand": "xiaomi",
+      "memory": 256,
+      "ram": 6,
       "filterItems": {
         "brand": "xiaomi",
         "memory": 256,
@@ -148,6 +170,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2020/11/Samsung-Galaxy-A01-Red-all-600x600.jpg",
       "price": 239,
       "brand": "samsung",
+      "memory": 16,
+      "ram": 2,
       "filterItems": {
         "brand": "samsung",
         "memory": 16,
@@ -161,6 +185,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-A12-32-GB-SM-A125-blue-all-600x600.jpg",
       "price": 329,
       "brand": "samsung",
+      "memory": 32,
+      "ram": 3,
       "filterItems": {
         "brand": "samsung",
         "memory": 32,
@@ -174,6 +200,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-Galaxy-S21-SM-G991-Grey-all-600x600.jpg",
       "price": 1899,
       "brand": "samsung",
+      "memory": 128,
+      "ram": 8,
       "filterItems": {
         "brand": "samsung",
         "memory": 128,
@@ -187,6 +215,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-Note-20-SM-N980-bronze-all-2-600x600.jpg",
       "price": 1799,
       "brand": "samsung",
+      "memory": 256,
+      "ram": 8,
       "filterItems": {
         "brand": "samsung",
         "memory": 256,
@@ -200,6 +230,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A52-DS-SM-A525-violet-all-600x600.jpg",
       "price": 719,
       "brand": "samsung",
+      "memory": 128,
+      "ram": 4,
       "filterItems": {
         "brand": "samsung",
         "memory": 128,
@@ -213,6 +245,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-all-600x600.jpg",
       "price": 539,
       "brand": "samsung",
+      "memory": 64,
+      "ram": 4,
       "filterItems": {
         "brand": "samsung",
         "memory": 64,
@@ -226,6 +260,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9-green-all-600x600.jpg",
       "price": 429,
       "brand": "xiaomi",
+      "memory": 64,
+      "ram": 3,
       "filterItems": {
         "brand": "xiaomi",
         "memory": 64,
@@ -242,6 +278,7 @@
       "price": 649,
       "id": 21,
       "brand": "samsung",
+      "operationTime": 40,
       "filterItems": {
         "brand": "samsung",
         "operationTime": 40
@@ -254,6 +291,7 @@
       "price": 399,
       "id": 22,
       "brand": "samsung",
+      "operationTime": 40,
       "filterItems": {
         "brand": "samsung",
         "operationTime": 40
@@ -266,6 +304,7 @@
       "price": 699,
       "id": 23,
       "brand": "samsung",
+      "operationTime": 40,
       "filterItems": {
         "brand": "samsung",
         "operationTime": 40
@@ -278,6 +317,7 @@
       "price": 589,
       "id": 24,
       "brand": "samsung",
+      "operationTime": 40,
       "filterItems": {
         "brand": "samsung",
         "operationTime": 40
@@ -290,6 +330,7 @@
       "price": 449,
       "id": 25,
       "brand": "samsung",
+      "operationTime": 40,
       "filterItems": {
         "brand": "samsung",
         "operationTime": 40
@@ -302,6 +343,7 @@
       "price": 119,
       "id": 26,
       "brand": "huawei",
+      "operationTime": 240,
       "filterItems": {
         "brand": "huawei",
         "operationTime": 240
@@ -314,6 +356,7 @@
       "price": 579,
       "id": 27,
       "brand": "huawei",
+      "operationTime": 336,
       "filterItems": {
         "brand": "huawei",
         "operationTime": 336
@@ -326,6 +369,7 @@
       "price": 399,
       "id": 28,
       "brand": "huawei",
+      "operationTime": 336,
       "filterItems": {
         "brand": "huawei",
         "operationTime": 336
@@ -338,6 +382,7 @@
       "price": 139,
       "id": 29,
       "brand": "huawei",
+      "operationTime": 240,
       "filterItems": {
         "brand": "huawei",
         "operationTime": 240
@@ -353,10 +398,12 @@
       "id": 30,
       "category": "laptops",
       "brand": "acer",
+      "memory": 512,
+      "ram": 8,
       "filterItems": {
-        "ram": 8,
+        "brand": "acer",
         "memory": 512,
-        "brand": "acer"
+        "ram": 8
       }
     },
     {
@@ -366,10 +413,12 @@
       "price": 819,
       "id": 31,
       "category": "laptops",
+      "memory": 256,
+      "ram": 4,
       "filterItems": {
-        "ram": 4,
+        "brand": "acer",
         "memory": 256,
-        "brand": "acer"
+        "ram": 4
       }
     },
     {
@@ -377,12 +426,14 @@
       "brand": "hp",
       "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-HP-VICTUS-15-FA0031DX-nowky0xl53ubca9rpjis.jpg",
       "price": 3219,
+      "memory": 512,
+      "ram": 16,
       "id": 32,
       "category": "laptops",
       "filterItems": {
-        "ram": 16,
+        "brand": "hp",
         "memory": 512,
-        "brand": "hp"
+        "ram": 16
       }
     },
     {
@@ -392,10 +443,12 @@
       "price": 829,
       "id": 33,
       "category": "laptops",
+      "memory": 256,
+      "ram": 4,
       "filterItems": {
-        "ram": 4,
+        "brand": "hp",
         "memory": 256,
-        "brand": "hp"
+        "ram": 4
       }
     },
     {
@@ -404,11 +457,13 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-HP-Pavilion-15-eh0041ur-300x300.jpg",
       "price": 1259,
       "id": 34,
+      "memory": 256,
+      "ram": 4,
       "category": "laptops",
       "filterItems": {
-        "ram": 4,
+        "brand": "hp",
         "memory": 256,
-        "brand": "hp"
+        "ram": 4
       }
     }
   ],
@@ -422,6 +477,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-J2-Prime-Black.jpg",
       "price": 149,
       "brand": "samsung",
+      "memory": 8,
+      "ram": 1.5,
       "filterItems": {
         "brand": "samsung",
         "memory": 8,
@@ -434,6 +491,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-7ymvbgu04qepj61koc8a-300x300.jpg",
       "category": "smartphones",
       "brand": "xiaomi",
+      "memory": 32,
+      "ram": 3,
       "filterItems": {
         "brand": "xiaomi",
         "memory": 32,
@@ -447,6 +506,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-jkycruxoi43mvg1wel76.jpg",
       "category": "smartphones",
       "brand": "xiaomi",
+      "memory": 256,
+      "ram": 8,
       "filterItems": {
         "brand": "xiaomi",
         "memory": 256,
@@ -460,6 +521,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-Galaxy-S22-Pink-Gold-lrv6ejxq94in8h530pko-600x600.jpg",
       "category": "smartphones",
       "brand": "samsung",
+      "memory": 128,
+      "ram": 8,
       "filterItems": {
         "brand": "samsung",
         "memory": 128,
@@ -473,6 +536,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-1-1-600x600.jpg",
       "category": "smartphones",
       "brand": "samsung",
+      "memory": 256,
+      "ram": 8,
       "filterItems": {
         "brand": "samsung",
         "memory": 256,
@@ -486,6 +551,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-koq25umiy0c7npxza1jl.jpg",
       "category": "smartphones",
       "brand": "xiaomi",
+      "memory": 256,
+      "ram": 8,
       "filterItems": {
         "brand": "xiaomi",
         "memory": 256,
@@ -499,6 +566,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-u92a6inhk17vyfxmpc3l-600x600.jpg",
       "category": "smartphones",
       "brand": "samsung",
+      "memory": 64,
+      "ram": 4,
       "filterItems": {
         "brand": "samsung",
         "memory": 64,
@@ -512,6 +581,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-silver-9z34vkejrt86oixspman.jpg",
       "category": "smartphones",
       "brand": "xiaomi",
+      "memory": 256,
+      "ram": 8,
       "filterItems": {
         "brand": "xiaomi",
         "memory": 256,
@@ -525,6 +596,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9S-blue-all-600x600.jpg",
       "category": "smartphones",
       "brand": "xiaomi",
+      "memory": 64,
+      "ram": 4,
       "filterItems": {
         "brand": "xiaomi",
         "memory": 64,
@@ -538,6 +611,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-all-1-600x600.jpg",
       "category": "smartphones",
       "brand": "xiaomi",
+      "memory": 128,
+      "ram": 6,
       "filterItems": {
         "brand": "xiaomi",
         "memory": 128,
@@ -551,6 +626,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-600x600.jpg",
       "category": "smartphones",
       "brand": "xiaomi",
+      "memory": 256,
+      "ram": 6,
       "filterItems": {
         "brand": "xiaomi",
         "memory": 256,
@@ -564,6 +641,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2020/11/Samsung-Galaxy-A01-Red-all-600x600.jpg",
       "price": 239,
       "brand": "samsung",
+      "memory": 16,
+      "ram": 2,
       "filterItems": {
         "brand": "samsung",
         "memory": 16,
@@ -577,6 +656,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-A12-32-GB-SM-A125-blue-all-600x600.jpg",
       "price": 329,
       "brand": "samsung",
+      "memory": 32,
+      "ram": 3,
       "filterItems": {
         "brand": "samsung",
         "memory": 32,
@@ -590,6 +671,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-Galaxy-S21-SM-G991-Grey-all-600x600.jpg",
       "price": 1899,
       "brand": "samsung",
+      "memory": 128,
+      "ram": 8,
       "filterItems": {
         "brand": "samsung",
         "memory": 128,
@@ -603,6 +686,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-Note-20-SM-N980-bronze-all-2-600x600.jpg",
       "price": 1799,
       "brand": "samsung",
+      "memory": 256,
+      "ram": 8,
       "filterItems": {
         "brand": "samsung",
         "memory": 256,
@@ -616,6 +701,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A52-DS-SM-A525-violet-all-600x600.jpg",
       "price": 719,
       "brand": "samsung",
+      "memory": 128,
+      "ram": 4,
       "filterItems": {
         "brand": "samsung",
         "memory": 128,
@@ -629,6 +716,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-all-600x600.jpg",
       "price": 539,
       "brand": "samsung",
+      "memory": 64,
+      "ram": 4,
       "filterItems": {
         "brand": "samsung",
         "memory": 64,
@@ -642,6 +731,8 @@
       "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9-green-all-600x600.jpg",
       "price": 429,
       "brand": "xiaomi",
+      "memory": 64,
+      "ram": 3,
       "filterItems": {
         "brand": "xiaomi",
         "memory": 64,
@@ -656,6 +747,7 @@
       "price": 649,
       "id": 21,
       "brand": "samsung",
+      "operationTime": 40,
       "filterItems": {
         "brand": "samsung",
         "operationTime": 40
@@ -668,6 +760,7 @@
       "price": 399,
       "id": 22,
       "brand": "samsung",
+      "operationTime": 40,
       "filterItems": {
         "brand": "samsung",
         "operationTime": 40
@@ -680,6 +773,7 @@
       "price": 699,
       "id": 23,
       "brand": "samsung",
+      "operationTime": 40,
       "filterItems": {
         "brand": "samsung",
         "operationTime": 40
@@ -692,6 +786,7 @@
       "price": 589,
       "id": 24,
       "brand": "samsung",
+      "operationTime": 40,
       "filterItems": {
         "brand": "samsung",
         "operationTime": 40
@@ -704,6 +799,7 @@
       "price": 449,
       "id": 25,
       "brand": "samsung",
+      "operationTime": 40,
       "filterItems": {
         "brand": "samsung",
         "operationTime": 40
@@ -716,6 +812,7 @@
       "price": 119,
       "id": 26,
       "brand": "huawei",
+      "operationTime": 240,
       "filterItems": {
         "brand": "huawei",
         "operationTime": 240
@@ -728,6 +825,7 @@
       "price": 579,
       "id": 27,
       "brand": "huawei",
+      "operationTime": 336,
       "filterItems": {
         "brand": "huawei",
         "operationTime": 336
@@ -740,6 +838,7 @@
       "price": 399,
       "id": 28,
       "brand": "huawei",
+      "operationTime": 336,
       "filterItems": {
         "brand": "huawei",
         "operationTime": 336
@@ -752,6 +851,7 @@
       "price": 139,
       "id": 29,
       "brand": "huawei",
+      "operationTime": 240,
       "filterItems": {
         "brand": "huawei",
         "operationTime": 240
@@ -765,10 +865,12 @@
       "id": 30,
       "category": "laptops",
       "brand": "acer",
+      "memory": 512,
+      "ram": 8,
       "filterItems": {
-        "ram": 8,
+        "brand": "acer",
         "memory": 512,
-        "brand": "acer"
+        "ram": 8
       }
     },
     {
@@ -778,10 +880,12 @@
       "price": 819,
       "id": 31,
       "category": "laptops",
+      "memory": 256,
+      "ram": 4,
       "filterItems": {
-        "ram": 4,
+        "brand": "acer",
         "memory": 256,
-        "brand": "acer"
+        "ram": 4
       }
     },
     {
@@ -789,12 +893,14 @@
       "brand": "hp",
       "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-HP-VICTUS-15-FA0031DX-nowky0xl53ubca9rpjis.jpg",
       "price": 3219,
+      "memory": 512,
+      "ram": 16,
       "id": 32,
       "category": "laptops",
       "filterItems": {
-        "ram": 16,
+        "brand": "hp",
         "memory": 512,
-        "brand": "hp"
+        "ram": 16
       }
     },
     {
@@ -804,10 +910,12 @@
       "price": 829,
       "id": 33,
       "category": "laptops",
+      "memory": 256,
+      "ram": 4,
       "filterItems": {
-        "ram": 4,
+        "brand": "hp",
         "memory": 256,
-        "brand": "hp"
+        "ram": 4
       }
     },
     {
@@ -816,11 +924,13 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-HP-Pavilion-15-eh0041ur-300x300.jpg",
       "price": 1259,
       "id": 34,
+      "memory": 256,
+      "ram": 4,
       "category": "laptops",
       "filterItems": {
-        "ram": 4,
+        "brand": "hp",
         "memory": 256,
-        "brand": "hp"
+        "ram": 4
       }
     }
   ]
