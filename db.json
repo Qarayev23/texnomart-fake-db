@@ -564,12 +564,12 @@
       "price": 1849,
       "id": 41,
       "category": "televisions",
-      "screen-permission": "4K UHD",
-      "screen-size": "55 (140 sm)",
+      "screenPermission": "4K UHD",
+      "screenSize": "55 (140 sm)",
       "filterItems": {
         "brand": "lg",
-        "screen-permission": "4K UHD",
-        "screen-size": "55 (140 sm)"
+        "screenPermission": "4K UHD",
+        "screenSize": "55 (140 sm)"
       }
     },
     {
@@ -579,12 +579,12 @@
       "price": 1499,
       "id": 49,
       "category": "televisions",
-      "screen-permission": "4K UHD",
-      "screen-size": "55 (139 sm)",
+      "screenPermission": "4K UHD",
+      "screenSize": "55 (139 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screen-permission": "4K UHD",
-        "screen-size": "55 (139 sm)"
+        "screenPermission": "4K UHD",
+        "screenSize": "55 (139 sm)"
       }
     },
     {
@@ -594,12 +594,12 @@
       "price": 599,
       "id": 42,
       "category": "televisions",
-      "screen-permission": "HD",
-      "screen-size": "32 (81 sm)",
+      "screenPermission": "HD",
+      "screenSize": "32 (81 sm)",
       "filterItems": {
         "brand": "lg",
-        "screen-permission": "HD",
-        "screen-size": "32 (81 sm)"
+        "screenPermission": "HD",
+        "screenSize": "32 (81 sm)"
       }
     },
     {
@@ -609,12 +609,12 @@
       "price": 999,
       "id": 48,
       "category": "televisions",
-      "screen-permission": "FHD",
-      "screen-size": "43 (108 sm)",
+      "screenPermission": "FHD",
+      "screenSize": "43 (108 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screen-permission": "FHD",
-        "screen-size": "43 (108 sm)"
+        "screenPermission": "FHD",
+        "screenSize": "43 (108 sm)"
       }
     },
     {
@@ -624,12 +624,12 @@
       "price": 649,
       "id": 45,
       "category": "televisions",
-      "screen-permission": "FHD",
-      "screen-size": "32 (81 sm)",
+      "screenPermission": "FHD",
+      "screenSize": "32 (81 sm)",
       "filterItems": {
         "brand": "lg",
-        "screen-permission": "FHD",
-        "screen-size": "32 (81 sm)"
+        "screenPermission": "FHD",
+        "screenSize": "32 (81 sm)"
       }
     },
     {
@@ -639,12 +639,12 @@
       "price": 1049,
       "id": 43,
       "category": "televisions",
-      "screen-permission": "FHD",
-      "screen-size": "43 (109 sm)",
+      "screenPermission": "FHD",
+      "screenSize": "43 (109 sm)",
       "filterItems": {
         "brand": "lg",
-        "screen-permission": "FHD",
-        "screen-size": "43 (109 sm)"
+        "screenPermission": "FHD",
+        "screenSize": "43 (109 sm)"
       }
     },
     {
@@ -654,12 +654,12 @@
       "price": 2099,
       "id": 44,
       "category": "televisions",
-      "screen-permission": "4K UHD",
-      "screen-size": "55 (140 sm)",
+      "screenPermission": "4K UHD",
+      "screenSize": "55 (140 sm)",
       "filterItems": {
         "brand": "lg",
-        "screen-permission": "4K UHD",
-        "screen-size": "55 (140 sm)"
+        "screenPermission": "4K UHD",
+        "screenSize": "55 (140 sm)"
       }
     },
     {
@@ -669,12 +669,12 @@
       "price": 2099,
       "id": 44,
       "category": "televisions",
-      "screen-permission": "4K UHD",
-      "screen-size": "55 (140 sm)",
+      "screenPermission": "4K UHD",
+      "screenSize": "55 (140 sm)",
       "filterItems": {
         "brand": "lg",
-        "screen-permission": "4K UHD",
-        "screen-size": "55 (140 sm)"
+        "screenPermission": "4K UHD",
+        "screenSize": "55 (140 sm)"
       }
     },
     {
@@ -684,12 +684,12 @@
       "price": 649,
       "id": 46,
       "category": "televisions",
-      "screen-permission": "HD",
-      "screen-size": "32 (81 sm)",
+      "screenPermission": "HD",
+      "screenSize": "32 (81 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screen-permission": "HD",
-        "screen-size": "32 (81 sm)"
+        "screenPermission": "HD",
+        "screenSize": "32 (81 sm)"
       }
     },
     {
@@ -699,12 +699,12 @@
       "price": 1999,
       "id": 47,
       "category": "televisions",
-      "screen-permission": "4K UHD",
-      "screen-size": "65 (165 sm)",
+      "screenPermission": "4K UHD",
+      "screenSize": "65 (165 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screen-permission": "4K UHD",
-        "screen-size": "65 (165 sm)"
+        "screenPermission": "4K UHD",
+        "screenSize": "65 (165 sm)"
       }
     },
     {
@@ -714,12 +714,12 @@
       "price": 499,
       "id": 50,
       "category": "televisions",
-      "screen-permission": "FHD",
-      "screen-size": "40 (102 sm)",
+      "screenPermission": "FHD",
+      "screenSize": "40 (102 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screen-permission": "FHD",
-        "screen-size": "40 (102 sm)"
+        "screenPermission": "FHD",
+        "screenSize": "40 (102 sm)"
       }
     }
   ],
@@ -1282,12 +1282,12 @@
       "price": 1849,
       "id": 41,
       "category": "televisions",
-      "screen-permission": "4K UHD",
-      "screen-size": "55 (140 sm)",
+      "screenPermission": "4K UHD",
+      "screenSize": "55 (140 sm)",
       "filterItems": {
         "brand": "lg",
-        "screen-permission": "4K UHD",
-        "screen-size": "55 (140 sm)"
+        "screenPermission": "4K UHD",
+        "screenSize": "55 (140 sm)"
       }
     },
     {
@@ -1297,12 +1297,12 @@
       "price": 1499,
       "id": 49,
       "category": "televisions",
-      "screen-permission": "4K UHD",
-      "screen-size": "55 (139 sm)",
+      "screenPermission": "4K UHD",
+      "screenSize": "55 (139 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screen-permission": "4K UHD",
-        "screen-size": "55 (139 sm)"
+        "screenPermission": "4K UHD",
+        "screenSize": "55 (139 sm)"
       }
     },
     {
@@ -1312,12 +1312,12 @@
       "price": 599,
       "id": 42,
       "category": "televisions",
-      "screen-permission": "HD",
-      "screen-size": "32 (81 sm)",
+      "screenPermission": "HD",
+      "screenSize": "32 (81 sm)",
       "filterItems": {
         "brand": "lg",
-        "screen-permission": "HD",
-        "screen-size": "32 (81 sm)"
+        "screenPermission": "HD",
+        "screenSize": "32 (81 sm)"
       }
     },
     {
@@ -1327,12 +1327,12 @@
       "price": 999,
       "id": 48,
       "category": "televisions",
-      "screen-permission": "FHD",
-      "screen-size": "43 (108 sm)",
+      "screenPermission": "FHD",
+      "screenSize": "43 (108 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screen-permission": "FHD",
-        "screen-size": "43 (108 sm)"
+        "screenPermission": "FHD",
+        "screenSize": "43 (108 sm)"
       }
     },
     {
@@ -1342,12 +1342,12 @@
       "price": 649,
       "id": 45,
       "category": "televisions",
-      "screen-permission": "FHD",
-      "screen-size": "32 (81 sm)",
+      "screenPermission": "FHD",
+      "screenSize": "32 (81 sm)",
       "filterItems": {
         "brand": "lg",
-        "screen-permission": "FHD",
-        "screen-size": "32 (81 sm)"
+        "screenPermission": "FHD",
+        "screenSize": "32 (81 sm)"
       }
     },
     {
@@ -1357,12 +1357,12 @@
       "price": 1049,
       "id": 43,
       "category": "televisions",
-      "screen-permission": "FHD",
-      "screen-size": "43 (109 sm)",
+      "screenPermission": "FHD",
+      "screenSize": "43 (109 sm)",
       "filterItems": {
         "brand": "lg",
-        "screen-permission": "FHD",
-        "screen-size": "43 (109 sm)"
+        "screenPermission": "FHD",
+        "screenSize": "43 (109 sm)"
       }
     },
     {
@@ -1372,12 +1372,12 @@
       "price": 2099,
       "id": 44,
       "category": "televisions",
-      "screen-permission": "4K UHD",
-      "screen-size": "55 (140 sm)",
+      "screenPermission": "4K UHD",
+      "screenSize": "55 (140 sm)",
       "filterItems": {
         "brand": "lg",
-        "screen-permission": "4K UHD",
-        "screen-size": "55 (140 sm)"
+        "screenPermission": "4K UHD",
+        "screenSize": "55 (140 sm)"
       }
     },
     {
@@ -1387,12 +1387,12 @@
       "price": 2099,
       "id": 44,
       "category": "televisions",
-      "screen-permission": "4K UHD",
-      "screen-size": "55 (140 sm)",
+      "screenPermission": "4K UHD",
+      "screenSize": "55 (140 sm)",
       "filterItems": {
         "brand": "lg",
-        "screen-permission": "4K UHD",
-        "screen-size": "55 (140 sm)"
+        "screenPermission": "4K UHD",
+        "screenSize": "55 (140 sm)"
       }
     },
     {
@@ -1402,12 +1402,12 @@
       "price": 649,
       "id": 46,
       "category": "televisions",
-      "screen-permission": "HD",
-      "screen-size": "32 (81 sm)",
+      "screenPermission": "HD",
+      "screenSize": "32 (81 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screen-permission": "HD",
-        "screen-size": "32 (81 sm)"
+        "screenPermission": "HD",
+        "screenSize": "32 (81 sm)"
       }
     },
     {
@@ -1417,12 +1417,12 @@
       "price": 1999,
       "id": 47,
       "category": "televisions",
-      "screen-permission": "4K UHD",
-      "screen-size": "65 (165 sm)",
+      "screenPermission": "4K UHD",
+      "screenSize": "65 (165 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screen-permission": "4K UHD",
-        "screen-size": "65 (165 sm)"
+        "screenPermission": "4K UHD",
+        "screenSize": "65 (165 sm)"
       }
     },
     {
@@ -1432,12 +1432,12 @@
       "price": 499,
       "id": 50,
       "category": "televisions",
-      "screen-permission": "FHD",
-      "screen-size": "40 (102 sm)",
+      "screenPermission": "FHD",
+      "screenSize": "40 (102 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screen-permission": "FHD",
-        "screen-size": "40 (102 sm)"
+        "screenPermission": "FHD",
+        "screenSize": "40 (102 sm)"
       }
     }
   ]
