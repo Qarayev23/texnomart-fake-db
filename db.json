@@ -1,741 +1,713 @@
 {
-  "smartphones": {
-    "products": [
-      {
-        "name": "Samsung Galaxy J2 Prime",
-        "category": "smartphones",
-        "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-J2-Prime-Black.jpg",
-        "price": 149,
+  "smartphones": [
+    {
+      "name": "Samsung Galaxy J2 Prime",
+      "category": "smartphones",
+      "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-J2-Prime-Black.jpg",
+      "price": 149,
+      "brand": "samsung",
+      "memory": "8 GB",
+      "ram": "1.5 GB",
+      "filterItems": {
         "brand": "samsung",
         "memory": "8 GB",
-        "ram": "1.5 GB",
-        "filterItems": {
-          "brand": "samsung",
-          "memory": "8 GB",
-          "ram": "1.5 GB"
-        },
-        "id": 0
+        "ram": "1.5 GB"
       },
-      {
-        "name": "Xiaomi Redmi 9 Purple",
-        "img": "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-7ymvbgu04qepj61koc8a-300x300.jpg",
-        "category": "smartphones",
+      "id": 0
+    },
+    {
+      "name": "Xiaomi Redmi 9 Purple",
+      "img": "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-7ymvbgu04qepj61koc8a-300x300.jpg",
+      "category": "smartphones",
+      "brand": "xiaomi",
+      "memory": "32 GB",
+      "ram": "3 GB",
+      "filterItems": {
         "brand": "xiaomi",
         "memory": "32 GB",
-        "ram": "3 GB",
-        "filterItems": {
-          "brand": "xiaomi",
-          "memory": "32 GB",
-          "ram": "3 GB"
-        },
-        "price": 329,
-        "id": 1
+        "ram": "3 GB"
       },
-      {
-        "name": "Xiaomi Redmi Note 11 Pro",
-        "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-jkycruxoi43mvg1wel76.jpg",
-        "category": "smartphones",
+      "price": 329,
+      "id": 1
+    },
+    {
+      "name": "Xiaomi Redmi Note 11 Pro",
+      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-jkycruxoi43mvg1wel76.jpg",
+      "category": "smartphones",
+      "brand": "xiaomi",
+      "memory": "256 GB",
+      "ram": "8 GB",
+      "filterItems": {
         "brand": "xiaomi",
         "memory": "256 GB",
-        "ram": "8 GB",
-        "filterItems": {
-          "brand": "xiaomi",
-          "memory": "256 GB",
-          "ram": "8 GB"
-        },
-        "price": 1099,
-        "id": 2
+        "ram": "8 GB"
       },
-      {
-        "name": "Samsung Galaxy S22",
-        "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-Galaxy-S22-Pink-Gold-lrv6ejxq94in8h530pko-600x600.jpg",
-        "category": "smartphones",
+      "price": 1099,
+      "id": 2
+    },
+    {
+      "name": "Samsung Galaxy S22",
+      "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-Galaxy-S22-Pink-Gold-lrv6ejxq94in8h530pko-600x600.jpg",
+      "category": "smartphones",
+      "brand": "samsung",
+      "memory": "128 GB",
+      "ram": "8 GB",
+      "filterItems": {
         "brand": "samsung",
         "memory": "128 GB",
-        "ram": "8 GB",
-        "filterItems": {
-          "brand": "samsung",
-          "memory": "128 GB",
-          "ram": "8 GB"
-        },
-        "price": 2099,
-        "id": 3
+        "ram": "8 GB"
       },
-      {
-        "name": "Samsung Z Flip 3",
-        "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-1-1-600x600.jpg",
-        "category": "smartphones",
+      "price": 2099,
+      "id": 3
+    },
+    {
+      "name": "Samsung Z Flip 3",
+      "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-1-1-600x600.jpg",
+      "category": "smartphones",
+      "brand": "samsung",
+      "memory": "256 GB",
+      "ram": "8 GB",
+      "filterItems": {
         "brand": "samsung",
         "memory": "256 GB",
-        "ram": "8 GB",
-        "filterItems": {
-          "brand": "samsung",
-          "memory": "256 GB",
-          "ram": "8 GB"
-        },
-        "price": 2199,
-        "id": 4
+        "ram": "8 GB"
       },
-      {
-        "name": "Xiaomi 12 Lite",
-        "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-koq25umiy0c7npxza1jl.jpg",
-        "category": "smartphones",
+      "price": 2199,
+      "id": 4
+    },
+    {
+      "name": "Xiaomi 12 Lite",
+      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-koq25umiy0c7npxza1jl.jpg",
+      "category": "smartphones",
+      "brand": "xiaomi",
+      "memory": "256 GB",
+      "ram": "8 GB",
+      "filterItems": {
         "brand": "xiaomi",
         "memory": "256 GB",
-        "ram": "8 GB",
-        "filterItems": {
-          "brand": "xiaomi",
-          "memory": "256 GB",
-          "ram": "8 GB"
-        },
-        "price": 979,
-        "id": 5
+        "ram": "8 GB"
       },
-      {
-        "name": "Samsung A03S",
-        "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-u92a6inhk17vyfxmpc3l-600x600.jpg",
-        "category": "smartphones",
+      "price": 979,
+      "id": 5
+    },
+    {
+      "name": "Samsung A03S",
+      "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-u92a6inhk17vyfxmpc3l-600x600.jpg",
+      "category": "smartphones",
+      "brand": "samsung",
+      "memory": "64 GB",
+      "ram": "4 GB",
+      "filterItems": {
         "brand": "samsung",
         "memory": "64 GB",
-        "ram": "4 GB",
-        "filterItems": {
-          "brand": "samsung",
-          "memory": "64 GB",
-          "ram": "4 GB"
-        },
-        "price": 339,
-        "id": 6
+        "ram": "4 GB"
       },
-      {
-        "name": "Xiaomi Poco F4 Pro",
-        "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-silver-9z34vkejrt86oixspman.jpg",
-        "category": "smartphones",
+      "price": 339,
+      "id": 6
+    },
+    {
+      "name": "Xiaomi Poco F4 Pro",
+      "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-silver-9z34vkejrt86oixspman.jpg",
+      "category": "smartphones",
+      "brand": "xiaomi",
+      "memory": "256 GB",
+      "ram": "8 GB",
+      "filterItems": {
         "brand": "xiaomi",
         "memory": "256 GB",
-        "ram": "8 GB",
-        "filterItems": {
-          "brand": "xiaomi",
-          "memory": "256 GB",
-          "ram": "8 GB"
-        },
-        "price": 1049,
-        "id": 7
+        "ram": "8 GB"
       },
-      {
-        "name": "Xiaomi Redmi Note 9S",
-        "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9S-blue-all-600x600.jpg",
-        "category": "smartphones",
+      "price": 1049,
+      "id": 7
+    },
+    {
+      "name": "Xiaomi Redmi Note 9S",
+      "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9S-blue-all-600x600.jpg",
+      "category": "smartphones",
+      "brand": "xiaomi",
+      "memory": "64 GB",
+      "ram": "4 GB",
+      "filterItems": {
         "brand": "xiaomi",
         "memory": "64 GB",
-        "ram": "4 GB",
-        "filterItems": {
-          "brand": "xiaomi",
-          "memory": "64 GB",
-          "ram": "4 GB"
-        },
-        "price": 519,
-        "id": 8
+        "ram": "4 GB"
       },
-      {
-        "name": "Xiaomi Poco X3",
-        "img": "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-all-1-600x600.jpg",
-        "category": "smartphones",
+      "price": 519,
+      "id": 8
+    },
+    {
+      "name": "Xiaomi Poco X3",
+      "img": "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-all-1-600x600.jpg",
+      "category": "smartphones",
+      "brand": "xiaomi",
+      "memory": "128 GB",
+      "ram": "6 GB",
+      "filterItems": {
         "brand": "xiaomi",
         "memory": "128 GB",
-        "ram": "6 GB",
-        "filterItems": {
-          "brand": "xiaomi",
-          "memory": "128 GB",
-          "ram": "6 GB"
-        },
-        "price": 699,
-        "id": 9
+        "ram": "6 GB"
       },
-      {
-        "name": "Xiaomi POCO X3 Pro",
-        "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-600x600.jpg",
-        "category": "smartphones",
+      "price": 699,
+      "id": 9
+    },
+    {
+      "name": "Xiaomi POCO X3 Pro",
+      "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-600x600.jpg",
+      "category": "smartphones",
+      "brand": "xiaomi",
+      "memory": "256 GB",
+      "ram": "6 GB",
+      "filterItems": {
         "brand": "xiaomi",
         "memory": "256 GB",
-        "ram": "6 GB",
-        "filterItems": {
-          "brand": "xiaomi",
-          "memory": "256 GB",
-          "ram": "6 GB"
-        },
-        "price": 849,
-        "id": 10
+        "ram": "6 GB"
       },
-      {
-        "name": "Samsung Galaxy A01",
-        "img": "https://texnomart.az/wp-content/uploads/2020/11/Samsung-Galaxy-A01-Red-all-600x600.jpg",
-        "price": 239,
+      "price": 849,
+      "id": 10
+    },
+    {
+      "name": "Samsung Galaxy A01",
+      "img": "https://texnomart.az/wp-content/uploads/2020/11/Samsung-Galaxy-A01-Red-all-600x600.jpg",
+      "price": 239,
+      "brand": "samsung",
+      "memory": "16 GB",
+      "ram": "2 GB",
+      "filterItems": {
         "brand": "samsung",
         "memory": "16 GB",
-        "ram": "2 GB",
-        "filterItems": {
-          "brand": "samsung",
-          "memory": "16 GB",
-          "ram": "2 GB"
-        },
-        "category": "smartphones",
-        "id": 11
+        "ram": "2 GB"
       },
-      {
-        "name": "Samsung A12",
-        "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-A12-32-GB-SM-A125-blue-all-600x600.jpg",
-        "price": 329,
+      "category": "smartphones",
+      "id": 11
+    },
+    {
+      "name": "Samsung A12",
+      "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-A12-32-GB-SM-A125-blue-all-600x600.jpg",
+      "price": 329,
+      "brand": "samsung",
+      "memory": "32 GB",
+      "ram": "3 GB",
+      "filterItems": {
         "brand": "samsung",
         "memory": "32 GB",
-        "ram": "3 GB",
-        "filterItems": {
-          "brand": "samsung",
-          "memory": "32 GB",
-          "ram": "3 GB"
-        },
-        "category": "smartphones",
-        "id": 12
+        "ram": "3 GB"
       },
-      {
-        "name": "Samsung Galaxy S21",
-        "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-Galaxy-S21-SM-G991-Grey-all-600x600.jpg",
-        "price": 1899,
-        "brand": "samsung",
-        "memory": "128 GB",
-        "ram": "8 GB",
-        "filterItems": {
-          "brand": "samsung",
-          "memory": "128 GB",
-          "ram": "8 GB"
-        },
-        "category": "smartphones",
-        "id": 13
-      },
-      {
-        "name": "Samsung Galaxy Note 20",
-        "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-Note-20-SM-N980-bronze-all-2-600x600.jpg",
-        "price": 1799,
-        "brand": "samsung",
-        "memory": "256 GB",
-        "ram": "8 GB",
-        "filterItems": {
-          "brand": "samsung",
-          "memory": "256 GB",
-          "ram": "8 GB"
-        },
-        "category": "smartphones",
-        "id": 14
-      },
-      {
-        "name": "Smartfon Samsung A52",
-        "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A52-DS-SM-A525-violet-all-600x600.jpg",
-        "price": 719,
-        "brand": "samsung",
-        "memory": "128 GB",
-        "ram": "4 GB",
-        "filterItems": {
-          "brand": "samsung",
-          "memory": "128 GB",
-          "ram": "4 GB"
-        },
-        "category": "smartphones",
-        "id": 15
-      },
-      {
-        "name": "Samsung Galaxy A32",
-        "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-all-600x600.jpg",
-        "price": 539,
-        "brand": "samsung",
-        "memory": "64 GB",
-        "ram": "4 GB",
-        "filterItems": {
-          "brand": "samsung",
-          "memory": "64 GB",
-          "ram": "4 GB"
-        },
-        "category": "smartphones",
-        "id": 16
-      },
-      {
-        "name": "Xiaomi Redmi Note 9",
-        "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9-green-all-600x600.jpg",
-        "price": 429,
-        "brand": "xiaomi",
-        "memory": "64 GB",
-        "ram": "3 GB",
-        "filterItems": {
-          "brand": "xiaomi",
-          "memory": "64 GB",
-          "ram": "3 GB"
-        },
-        "category": "smartphones",
-        "id": 17
-      }
-    ],
-    "info": {
-      "title": "Smartfonlar",
-      "description": "Məşhur brend smartfonlar üçün “Texnomart”a müraciət etmək ən doğrusudur. Mağazamızda ən son telefon modelləri ilə tanış olaraq onları sərfəli qiymətə əldə edə bilərsiniz. Müasir dövrdə telefonlardan yalnız zənglər üçün deyil, həm də şəkillər, videolar çəkmək və internetə daxil olmaq üçün istifadə edirlər. Telefonlar gündəlik həyatımızın ayrılmaz hissəsinə çevrilib. Mobil telefonlar, telefon modelləri, ən son model smartfonların funksiyaları ilə tanış olmaq üçün “Texnomart.az” saytına baş çəkin. Mobil telefon almaq dövrümüzün ən aktual alış-verişlərindəndir. Mobil telefonlar bir-birindən funksiya, dizayn və parametrlərinə görə fərqlənir. Dünyaca məşhur brend markalar hər kəsin büdcəsini nəzərə alaraq fərqli qiymət diapazonunda smartfonlar istehsal edir. Sərfəli qiymətə telefon yeniləmək istəyirsinizsə, “Texnomart”a baş çəkin. Kiçik büdcə ilə də keyfiyyətli smartfona sahib ola bilərsiniz. Səmərəli təkliflər və sərfəli qiymətdən faydalanmağa tələsin. Mobil telefonların növləri zamanla həm fiziki, həm də məzmun baxımından dəyişdi. Bu cihazlar günümüzün qabaqcıl xüsusiyyətlərini əldə etməmişdən əvvəl daha çox düyməli olan mobil telefonlar kimi qarşımıza çıxdılar. Düyməli telefonlar çox xüsusiyyətləri olmayan, bir neçə sadə oyunu ehtiva edən və mürəkkəb olmayan məhsullar olaraq həyatımıza rəng qatdı. Zamanla inkişaf edən bu cihazlar yaşadığımız dövrdə sensorlu mobil telefonlar olaraq həyatımızı asanlaşdırır. Cari dövrdəki mobil telefon növləri,istifadəsinə görə ilk çıxan mobil telefonlara görə olduqca fərqlidir.Bu gün istifadə sahələri dəyişdiyi üçün daha geniş bir ekrana sahib olan bu smartfonlar,keçmişdə müxtəlif fiziki xüsusiyyətlərə də sahib idi.Bunlara nümunə olaraq,sürüşdürülən və qapaqlı mobil telefonları göstərmək olar.Xüsusi ilə qatlanan telefonlar ən çox seçilənlər arasında idi. Telefon istehsalçıları son zamanlar istifadəçilərin çox bəyəndiyi bu funksiyanı yeni nəsil cihazlarda istifadə etməyə başlayıb. Mobil telefon tövsiyələri ilə bağlı rəyləri oxumaq, satın almadan əvvəl meyarlarınıza uyğun olan cihazı seçməyinizə kömək edəcək. Misal üçün; əgər smartfonu iş həyatında geniş şəkildə istifadə edirsinizsə, tutum və xüsusiyyətlər baxımından daha əhatəli bir cihaz seçimi sizin xeyrinizə olacaq.Bu səbəblə daha çox yaddaş tutumlu telefon daha çox işinizi asanlaşdıracaq.",
-      "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-Smartfon-Samsung-Z-Fold-3-12-256-GB-silver-600x600-eoq7lvrn0gsawjy3fi8b.jpg"
-    }
-  },
-  "smartwatches": {
-    "info": {
-      "title": "Smart Saatlar",
-      "description": "Son zamanlar dünyada məşhurlaşan sağlam həyat tərzi trendi gündəlik rutinimizə yeni qadcetlərdən istifadəni də gətirdi. Onlardan biri smart saatdır. Smart saat almaq və gündəlik olaraq istifadə etmək sizi aktiv həyat tərzinə sövq edəcək. Ölçülən addımların sayı sizi özünüzlə rəqabətə girərək hər gün daha çox piyada gəzməyə vadar edəcək. Smart saatlar bir-birindən dizaynına, parametrlərinə və funksionallıqlarına görə fərqlənir. Fitnes qolbaq və smart saatı səhv salmamaq vacibdir! Smart saat addım sayır, nəbzi ölçür, qandakı oksigenin miqdarını göstərir, zəngləri qəbul və ya imtina edir, bildirişləri ekranda göstərir və telefon əlinizin altında deyilsə, onları cavablandırmağa yardımçı olur. Telefonunuzu məkanda itirsəniz, smart saat vasitəsilə siqnal göndərərək tapa bilərsiniz. Smart saatlar həm də gur işıq verərək fənər rolunu oynaya bilər. Dünyanın bir çox tanınmış brendləri, məsələn, Xiaomi, Apple, Samsung və s. smart saatlar istehsal edirlər. Onların qiymət aralıqları fərqlidir və hər kəs öz büdcəsinə uyğun olanını seçə bilər.",
-      "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-sm-r840nzsacis_1-bf4ukqjrnta9powxl7se.jpg"
+      "category": "smartphones",
+      "id": 12
     },
-    "products": [
-      {
-        "name": "Samsung Galaxy Watch 5",
-        "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Samsung-Galaxy-Watch-5-44mm-gray-14cw6q9lhsf8yp57oizk-300x300.jpg",
-        "price": 649,
-        "id": 21,
+    {
+      "name": "Samsung Galaxy S21",
+      "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-Galaxy-S21-SM-G991-Grey-all-600x600.jpg",
+      "price": 1899,
+      "brand": "samsung",
+      "memory": "128 GB",
+      "ram": "8 GB",
+      "filterItems": {
         "brand": "samsung",
-        "operationTime": "40 saat",
-        "filterItems": {
-          "brand": "samsung",
-          "operationTime": "40 saat"
-        },
-        "category": "smartwatches"
+        "memory": "128 GB",
+        "ram": "8 GB"
       },
-      {
-        "name": "Samsung Galaxy Watch 4",
-        "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-40mm-Black-umxprfkz4ge82c1n5wh0-300x300.jpg",
-        "price": 399,
-        "id": 22,
+      "category": "smartphones",
+      "id": 13
+    },
+    {
+      "name": "Samsung Galaxy Note 20",
+      "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-Note-20-SM-N980-bronze-all-2-600x600.jpg",
+      "price": 1799,
+      "brand": "samsung",
+      "memory": "256 GB",
+      "ram": "8 GB",
+      "filterItems": {
         "brand": "samsung",
-        "operationTime": "40 saat",
-        "filterItems": {
-          "brand": "samsung",
-          "operationTime": "40 saat"
-        },
-        "category": "smartwatches"
+        "memory": "256 GB",
+        "ram": "8 GB"
       },
-      {
-        "name": "Samsung Galaxy 4 Classic 46mm",
-        "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-mc65x1uf04az7pkj9w3g-300x300.jpg",
-        "price": 699,
-        "id": 23,
+      "category": "smartphones",
+      "id": 14
+    },
+    {
+      "name": "Smartfon Samsung A52",
+      "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A52-DS-SM-A525-violet-all-600x600.jpg",
+      "price": 719,
+      "brand": "samsung",
+      "memory": "128 GB",
+      "ram": "4 GB",
+      "filterItems": {
         "brand": "samsung",
-        "operationTime": "40 saat",
-        "filterItems": {
-          "brand": "samsung",
-          "operationTime": "40 saat"
-        },
-        "category": "smartwatches"
+        "memory": "128 GB",
+        "ram": "4 GB"
       },
-      {
-        "name": "Samsung Galaxy 4 Classic 42mm",
-        "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-mc65x1uf04az7pkj9w3g-300x300.jpg",
-        "price": 589,
-        "id": 24,
+      "category": "smartphones",
+      "id": 15
+    },
+    {
+      "name": "Samsung Galaxy A32",
+      "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-all-600x600.jpg",
+      "price": 539,
+      "brand": "samsung",
+      "memory": "64 GB",
+      "ram": "4 GB",
+      "filterItems": {
         "brand": "samsung",
-        "operationTime": "40 saat",
-        "filterItems": {
-          "brand": "samsung",
-          "operationTime": "40 saat"
-        },
-        "category": "smartwatches"
+        "memory": "64 GB",
+        "ram": "4 GB"
       },
-      {
-        "name": "Samsung Galaxy Watch 4 44mm",
-        "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-44mm-Black-h8lqk69j1m3utn7syrgw-300x300.jpg",
-        "price": 449,
-        "id": 25,
-        "brand": "samsung",
-        "operationTime": "40 saat",
-        "filterItems": {
-          "brand": "samsung",
-          "operationTime": "40 saat"
-        },
-        "category": "smartwatches"
-      },
-      {
-        "name": "Huawei Band 7",
-        "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Huawei-Band-7-green-t52ib1uf09mgo68cqkv4.jpg",
-        "price": 119,
-        "id": 26,
-        "brand": "huawei",
-        "operationTime": "240 saat",
-        "filterItems": {
-          "brand": "huawei",
-          "operationTime": "240 saat"
-        },
-        "category": "smartwatches"
-      },
-      {
-        "name": "Huawei GT 3 46mm Active",
-        "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-GT-3-46mm-Active-7yuafb48th0jip3vm1ke-300x300.jpg",
-        "price": 579,
-        "id": 27,
-        "brand": "huawei",
-        "operationTime": "336 saat",
-        "filterItems": {
-          "brand": "huawei",
-          "operationTime": "336 saat"
-        },
-        "category": "smartwatches"
-      },
-      {
-        "name": "Huawei GT 2 Sport 46mm",
-        "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-GT-2-Sport-46mm-Black-6nz8maxsk4yqr90vc2ob-300x300.jpg",
-        "price": 399,
-        "id": 28,
-        "brand": "huawei",
-        "operationTime": "336 saat",
-        "filterItems": {
-          "brand": "huawei",
-          "operationTime": "336 saat"
-        },
-        "category": "smartwatches"
-      },
-      {
-        "name": "Huawei Band 6",
-        "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-Band-6-Black-ybhxgnzf1w8ci45vql2r-300x300.jpg",
-        "price": 139,
-        "id": 29,
-        "brand": "huawei",
-        "operationTime": "240 saat",
-        "filterItems": {
-          "brand": "huawei",
-          "operationTime": "240 saat"
-        },
-        "category": "smartwatches"
-      },
-      {
-        "name": "Xiaomi Redmi Watch 2",
-        "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Xiaomi-Redmi-Watch-2-Lite-Black-g0uyiqvt3oa1el76hzfs-300x300.jpg",
-        "price": 149,
-        "id": 35,
+      "category": "smartphones",
+      "id": 16
+    },
+    {
+      "name": "Xiaomi Redmi Note 9",
+      "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9-green-all-600x600.jpg",
+      "price": 429,
+      "brand": "xiaomi",
+      "memory": "64 GB",
+      "ram": "3 GB",
+      "filterItems": {
         "brand": "xiaomi",
-        "operationTime": "240 saat",
-        "filterItems": {
-          "brand": "xiaomi",
-          "operationTime": "240 saat"
-        },
-        "category": "smartwatches"
-      }
-    ]
-  },
-  "laptops": {
-    "products": [
-      {
-        "name": "Acer Nitro 5",
-        "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-Acer-Nitro-5-AN515-57-54QC-3t95yesjozcw7miq6a1k.jpg",
-        "price": 2799,
-        "id": 30,
-        "category": "laptops",
-        "brand": "acer",
-        "memory": "512 GB",
-        "ram": "8 GB",
-        "filterItems": {
-          "brand": "acer",
-          "memory": "512 GB",
-          "ram": "8 GB"
-        }
+        "memory": "64 GB",
+        "ram": "3 GB"
       },
-      {
-        "name": "Acer EX215-31",
-        "brand": "acer",
-        "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-Acer-EX215-31-NX.EFTER_.00P-N-1-300x300.jpg",
-        "price": 819,
-        "id": 31,
-        "category": "laptops",
-        "memory": "256 GB",
-        "ram": "4 GB",
-        "filterItems": {
-          "brand": "acer",
-          "memory": "256 GB",
-          "ram": "4 GB"
-        }
-      },
-      {
-        "name": "HP VICTUS 15",
-        "brand": "hp",
-        "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-HP-VICTUS-15-FA0031DX-nowky0xl53ubca9rpjis.jpg",
-        "price": 3219,
-        "memory": "512 GB",
-        "ram": "16 GB",
-        "id": 32,
-        "category": "laptops",
-        "filterItems": {
-          "brand": "hp",
-          "memory": "512 GB",
-          "ram": "16 GB"
-        }
-      },
-      {
-        "name": "HP 255",
-        "brand": "hp",
-        "img": "https://texnomart.az/wp-content/uploads/2022/02/texnomart-Notebook-HP-255-AMD-Athlon-G8-2W1D4EA-1lnpqsa38r7oz4t06bck-300x300.jpg",
-        "price": 829,
-        "id": 33,
-        "category": "laptops",
-        "memory": "256 GB",
-        "ram": "4 GB",
-        "filterItems": {
-          "brand": "hp",
-          "memory": "256 GB",
-          "ram": "4 GB"
-        }
-      },
-      {
-        "name": "HP Pavilion 15",
-        "brand": "hp",
-        "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-HP-Pavilion-15-eh0041ur-300x300.jpg",
-        "price": 1259,
-        "id": 34,
-        "memory": "256 GB",
-        "ram": "4 GB",
-        "category": "laptops",
-        "filterItems": {
-          "brand": "hp",
-          "memory": "256 GB",
-          "ram": "4 GB"
-        }
-      },
-      {
-        "name": "Acer Aspire",
-        "brand": "acer",
-        "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-Acer-A315-57G-15.6-FHD-Core-i3-1005G1-NV-MX330-2GB-4GB-1000-GB-DOS-4-300x300.jpg",
-        "price": 1149,
-        "id": 36,
-        "memory": "1 TB",
-        "ram": "4 GB",
-        "category": "laptops",
-        "filterItems": {
-          "brand": "acer",
-          "memory": "1 TB",
-          "ram": "4 GB"
-        }
-      },
-      {
-        "name": "Acer TravelMate",
-        "brand": "acer",
-        "img": "https://texnomart.az/wp-content/uploads/2021/02/texnomart-Acer-TravelMate-TMP259-M-zxgeltv41sruw2jo937n-300x300.jpg",
-        "price": 799,
-        "id": 37,
-        "memory": "512 GB",
-        "ram": "4 GB",
-        "category": "laptops",
-        "filterItems": {
-          "brand": "acer",
-          "memory": "512 GB",
-          "ram": "4 GB"
-        }
-      },
-      {
-        "name": "Acer Aspire 3",
-        "brand": "acer",
-        "img": "https://texnomart.az/wp-content/uploads/2021/02/Acer-Aspire-3-A315-57G-NX.HZRER_.005-N-all-300x300.jpg",
-        "price": 1199,
-        "id": 38,
-        "memory": "1 TB",
-        "ram": "4 GB",
-        "category": "laptops",
-        "filterItems": {
-          "brand": "acer",
-          "memory": "1 TB",
-          "ram": "4 GB"
-        }
-      },
-      {
-        "name": "HP 250",
-        "brand": "hp",
-        "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Notebook-HP-250-G8-Core-i5-1035G1-tvs70eqz8km3f14olbij-300x300.jpg",
-        "price": 1449,
-        "id": 39,
-        "category": "laptops",
-        "memory": "500 GB",
-        "ram": "4 GB",
-        "filterItems": {
-          "brand": "hp",
-          "memory": "500 GB",
-          "ram": "4 GB"
-        }
-      },
-      {
-        "name": "HP 250",
-        "brand": "hp",
-        "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Notebook-HP-250-G8-Core-i5-1035G1-tvs70eqz8km3f14olbij-300x300.jpg",
-        "price": 1449,
-        "id": 40,
-        "category": "laptops",
-        "memory": "500 GB",
-        "ram": "4 GB",
-        "filterItems": {
-          "brand": "hp",
-          "memory": "500 GB",
-          "ram": "4 GB"
-        }
-      }
-    ],
-    "info": {
-      "title": "Noutbuklar",
-      "description": "Notbuk qiymətləri ilə maraqlanmaq üçün “Texnomart.az” saytına xoş gəlmisiniz. Notbuklar ən müasir kompüter cihazlarıdır. Stasionar, masaüstü kompüterlərdən əsas fərqi ölçüsündədir. Texnologiya inkişaf etdikcə kompüterlər və notbuklar da günü-gündən inkişaf edərək daha da yenilənir. Belə dəyişikliklər istifadəçilər üçün funksionallıq və qiymət diapazonu yaradaraq onlara seçim etmək imkanı verir. Notbuklardan fərqli peşə sahələrində istifadə olunur. Hər peşə sahəsinin iş yükünün tələblərinə uyğun funksionallıqda notbuk almaq mümkündür. Geniş çeşiddə notbuk seçimlərinə nəzər saldıqda anlamaq olur ki, artıq ən sadə sahələr üçün belə bu cihazlar mütləqdir. İnformasiya texnologiyaları sahəsində çalışan kompüter mühəndisi və ya ağır layihələr hazırlayan dizaynerlər üçün ən yüksək səviyyəli, güclü və keyfiyyətli notbuklar əldə etmək vacibdir. “Texnomart”da sizə sərfəli olan notbuku tapa biləcəksiniz.",
-      "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-notebook-qyeum1lbra8s249j5xgz.jpg"
+      "category": "smartphones",
+      "id": 17
     }
-  },
+  ],
+  "smartwatches": [
+    {
+      "name": "Samsung Galaxy Watch 5",
+      "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Samsung-Galaxy-Watch-5-44mm-gray-14cw6q9lhsf8yp57oizk-300x300.jpg",
+      "price": 649,
+      "id": 21,
+      "brand": "samsung",
+      "operationTime": "40 saat",
+      "filterItems": {
+        "brand": "samsung",
+        "operationTime": "40 saat"
+      },
+      "category": "smartwatches"
+    },
+    {
+      "name": "Samsung Galaxy Watch 4",
+      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-40mm-Black-umxprfkz4ge82c1n5wh0-300x300.jpg",
+      "price": 399,
+      "id": 22,
+      "brand": "samsung",
+      "operationTime": "40 saat",
+      "filterItems": {
+        "brand": "samsung",
+        "operationTime": "40 saat"
+      },
+      "category": "smartwatches"
+    },
+    {
+      "name": "Samsung Galaxy 4 Classic 46mm",
+      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-mc65x1uf04az7pkj9w3g-300x300.jpg",
+      "price": 699,
+      "id": 23,
+      "brand": "samsung",
+      "operationTime": "40 saat",
+      "filterItems": {
+        "brand": "samsung",
+        "operationTime": "40 saat"
+      },
+      "category": "smartwatches"
+    },
+    {
+      "name": "Samsung Galaxy 4 Classic 42mm",
+      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-mc65x1uf04az7pkj9w3g-300x300.jpg",
+      "price": 589,
+      "id": 24,
+      "brand": "samsung",
+      "operationTime": "40 saat",
+      "filterItems": {
+        "brand": "samsung",
+        "operationTime": "40 saat"
+      },
+      "category": "smartwatches"
+    },
+    {
+      "name": "Samsung Galaxy Watch 4 44mm",
+      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-44mm-Black-h8lqk69j1m3utn7syrgw-300x300.jpg",
+      "price": 449,
+      "id": 25,
+      "brand": "samsung",
+      "operationTime": "40 saat",
+      "filterItems": {
+        "brand": "samsung",
+        "operationTime": "40 saat"
+      },
+      "category": "smartwatches"
+    },
+    {
+      "name": "Huawei Band 7",
+      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Huawei-Band-7-green-t52ib1uf09mgo68cqkv4.jpg",
+      "price": 119,
+      "id": 26,
+      "brand": "huawei",
+      "operationTime": "240 saat",
+      "filterItems": {
+        "brand": "huawei",
+        "operationTime": "240 saat"
+      },
+      "category": "smartwatches"
+    },
+    {
+      "name": "Huawei GT 3 46mm Active",
+      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-GT-3-46mm-Active-7yuafb48th0jip3vm1ke-300x300.jpg",
+      "price": 579,
+      "id": 27,
+      "brand": "huawei",
+      "operationTime": "336 saat",
+      "filterItems": {
+        "brand": "huawei",
+        "operationTime": "336 saat"
+      },
+      "category": "smartwatches"
+    },
+    {
+      "name": "Huawei GT 2 Sport 46mm",
+      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-GT-2-Sport-46mm-Black-6nz8maxsk4yqr90vc2ob-300x300.jpg",
+      "price": 399,
+      "id": 28,
+      "brand": "huawei",
+      "operationTime": "336 saat",
+      "filterItems": {
+        "brand": "huawei",
+        "operationTime": "336 saat"
+      },
+      "category": "smartwatches"
+    },
+    {
+      "name": "Huawei Band 6",
+      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-Band-6-Black-ybhxgnzf1w8ci45vql2r-300x300.jpg",
+      "price": 139,
+      "id": 29,
+      "brand": "huawei",
+      "operationTime": "240 saat",
+      "filterItems": {
+        "brand": "huawei",
+        "operationTime": "240 saat"
+      },
+      "category": "smartwatches"
+    },
+    {
+      "name": "Xiaomi Redmi Watch 2",
+      "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Xiaomi-Redmi-Watch-2-Lite-Black-g0uyiqvt3oa1el76hzfs-300x300.jpg",
+      "price": 149,
+      "id": 35,
+      "brand": "xiaomi",
+      "operationTime": "240 saat",
+      "filterItems": {
+        "brand": "xiaomi",
+        "operationTime": "240 saat"
+      },
+      "category": "smartwatches"
+    }
+  ],
+  "laptops": [
+    {
+      "name": "Acer Nitro 5",
+      "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-Acer-Nitro-5-AN515-57-54QC-3t95yesjozcw7miq6a1k.jpg",
+      "price": 2799,
+      "id": 30,
+      "category": "laptops",
+      "brand": "acer",
+      "memory": "512 GB",
+      "ram": "8 GB",
+      "filterItems": {
+        "brand": "acer",
+        "memory": "512 GB",
+        "ram": "8 GB"
+      }
+    },
+    {
+      "name": "Acer EX215-31",
+      "brand": "acer",
+      "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-Acer-EX215-31-NX.EFTER_.00P-N-1-300x300.jpg",
+      "price": 819,
+      "id": 31,
+      "category": "laptops",
+      "memory": "256 GB",
+      "ram": "4 GB",
+      "filterItems": {
+        "brand": "acer",
+        "memory": "256 GB",
+        "ram": "4 GB"
+      }
+    },
+    {
+      "name": "HP VICTUS 15",
+      "brand": "hp",
+      "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-HP-VICTUS-15-FA0031DX-nowky0xl53ubca9rpjis.jpg",
+      "price": 3219,
+      "memory": "512 GB",
+      "ram": "16 GB",
+      "id": 32,
+      "category": "laptops",
+      "filterItems": {
+        "brand": "hp",
+        "memory": "512 GB",
+        "ram": "16 GB"
+      }
+    },
+    {
+      "name": "HP 255",
+      "brand": "hp",
+      "img": "https://texnomart.az/wp-content/uploads/2022/02/texnomart-Notebook-HP-255-AMD-Athlon-G8-2W1D4EA-1lnpqsa38r7oz4t06bck-300x300.jpg",
+      "price": 829,
+      "id": 33,
+      "category": "laptops",
+      "memory": "256 GB",
+      "ram": "4 GB",
+      "filterItems": {
+        "brand": "hp",
+        "memory": "256 GB",
+        "ram": "4 GB"
+      }
+    },
+    {
+      "name": "HP Pavilion 15",
+      "brand": "hp",
+      "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-HP-Pavilion-15-eh0041ur-300x300.jpg",
+      "price": 1259,
+      "id": 34,
+      "memory": "256 GB",
+      "ram": "4 GB",
+      "category": "laptops",
+      "filterItems": {
+        "brand": "hp",
+        "memory": "256 GB",
+        "ram": "4 GB"
+      }
+    },
+    {
+      "name": "Acer Aspire",
+      "brand": "acer",
+      "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-Acer-A315-57G-15.6-FHD-Core-i3-1005G1-NV-MX330-2GB-4GB-1000-GB-DOS-4-300x300.jpg",
+      "price": 1149,
+      "id": 36,
+      "memory": "1 TB",
+      "ram": "4 GB",
+      "category": "laptops",
+      "filterItems": {
+        "brand": "acer",
+        "memory": "1 TB",
+        "ram": "4 GB"
+      }
+    },
+    {
+      "name": "Acer TravelMate",
+      "brand": "acer",
+      "img": "https://texnomart.az/wp-content/uploads/2021/02/texnomart-Acer-TravelMate-TMP259-M-zxgeltv41sruw2jo937n-300x300.jpg",
+      "price": 799,
+      "id": 37,
+      "memory": "512 GB",
+      "ram": "4 GB",
+      "category": "laptops",
+      "filterItems": {
+        "brand": "acer",
+        "memory": "512 GB",
+        "ram": "4 GB"
+      }
+    },
+    {
+      "name": "Acer Aspire 3",
+      "brand": "acer",
+      "img": "https://texnomart.az/wp-content/uploads/2021/02/Acer-Aspire-3-A315-57G-NX.HZRER_.005-N-all-300x300.jpg",
+      "price": 1199,
+      "id": 38,
+      "memory": "1 TB",
+      "ram": "4 GB",
+      "category": "laptops",
+      "filterItems": {
+        "brand": "acer",
+        "memory": "1 TB",
+        "ram": "4 GB"
+      }
+    },
+    {
+      "name": "HP 250",
+      "brand": "hp",
+      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Notebook-HP-250-G8-Core-i5-1035G1-tvs70eqz8km3f14olbij-300x300.jpg",
+      "price": 1449,
+      "id": 39,
+      "category": "laptops",
+      "memory": "500 GB",
+      "ram": "4 GB",
+      "filterItems": {
+        "brand": "hp",
+        "memory": "500 GB",
+        "ram": "4 GB"
+      }
+    },
+    {
+      "name": "HP 250",
+      "brand": "hp",
+      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Notebook-HP-250-G8-Core-i5-1035G1-tvs70eqz8km3f14olbij-300x300.jpg",
+      "price": 1449,
+      "id": 40,
+      "category": "laptops",
+      "memory": "500 GB",
+      "ram": "4 GB",
+      "filterItems": {
+        "brand": "hp",
+        "memory": "500 GB",
+        "ram": "4 GB"
+      }
+    }
+  ],
   "air-conditioners": [],
-  "televisions": {
-    "products": [
-      {
-        "name": "LG 55UQ81006LB.AMCN",
+  "televisions": [
+    {
+      "name": "LG 55UQ81006LB.AMCN",
+      "brand": "lg",
+      "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-43UQ81006LB.AMCN-7cwtvml0bf1i6parhj48-300x300.jpg",
+      "price": 1849,
+      "id": 41,
+      "category": "televisions",
+      "screenPermission": "4K UHD (3840 x 2160)",
+      "screenSize": "55 (140 sm)",
+      "filterItems": {
         "brand": "lg",
-        "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-43UQ81006LB.AMCN-7cwtvml0bf1i6parhj48-300x300.jpg",
-        "price": 1849,
-        "id": 41,
-        "category": "televisions",
         "screenPermission": "4K UHD (3840 x 2160)",
-        "screenSize": "55 (140 sm)",
-        "filterItems": {
-          "brand": "lg",
-          "screenPermission": "4K UHD (3840 x 2160)",
-          "screenSize": "55 (140 sm)"
-        }
-      },
-      {
-        "name": "Arçelik A55 B 820 B",
-        "brand": "arçelik",
-        "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A55-B-820-B-bc36euw4rjzhsklpfyi7-300x300.jpg",
-        "price": 1499,
-        "id": 49,
-        "category": "televisions",
-        "screenPermission": "4K UHD (3840 x 2160)",
-        "screenSize": "55 (139 sm)",
-        "filterItems": {
-          "brand": "arçelik",
-          "screenPermission": "4K UHD (3840 x 2160)",
-          "screenSize": "55 (139 sm)"
-        }
-      },
-      {
-        "name": "LG 32LM637BPLB.AMCB",
-        "brand": "lg",
-        "img": "https://texnomart.az/wp-content/uploads/2022/01/texnomart-LG-32LM637-ab2s0lyqvw9u4hgxk7r6-300x300.jpg",
-        "price": 599,
-        "id": 42,
-        "category": "televisions",
-        "screenPermission": "HD (1366 x 768)",
-        "screenSize": "32 (81 sm)",
-        "filterItems": {
-          "brand": "lg",
-          "screenPermission": "HD (1366 x 768)",
-          "screenSize": "32 (81 sm)"
-        }
-      },
-      {
-        "name": "Arçelik A43 B 685 A",
-        "brand": "arçelik",
-        "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A43-B-685-A-1-pa8fmjvtyzq15whlxneu-300x300.jpg",
-        "price": 999,
-        "id": 48,
-        "category": "televisions",
-        "screenPermission": "FHD (1920 x 1080)",
-        "screenSize": "43 (108 sm)",
-        "filterItems": {
-          "brand": "arçelik",
-          "screenPermission": "FHD (1920 x 1080)",
-          "screenSize": "43 (108 sm)"
-        }
-      },
-      {
-        "name": "LG 32LQ63006LA.AMCN",
-        "brand": "lg",
-        "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-32LQ63006LA.AMCN-zeqs0uwafg21ickl8ryx-300x300.jpg",
-        "price": 649,
-        "id": 45,
-        "category": "televisions",
-        "screenPermission": "FHD (1920 x 1080)",
-        "screenSize": "32 (81 sm)",
-        "filterItems": {
-          "brand": "lg",
-          "screenPermission": "FHD (1920 x 1080)",
-          "screenSize": "32 (81 sm)"
-        }
-      },
-      {
-        "name": "LG 43LM5772PLA.AMCB",
-        "brand": "lg",
-        "img": "https://texnomart.az/wp-content/uploads/2021/08/Televizor-LG-43LM5772PLA-300x300.jpg",
-        "price": 1049,
-        "id": 43,
-        "category": "televisions",
-        "screenPermission": "FHD (1920 x 1080)",
-        "screenSize": "43 (109 sm)",
-        "filterItems": {
-          "brand": "lg",
-          "screenPermission": "FHD (1920 x 1080)",
-          "screenSize": "43 (109 sm)"
-        }
-      },
-      {
-        "name": "LG 55NANO816QA.AMCN",
-        "brand": "lg",
-        "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-LG-50NANO816QA.AMCN-ehpfui0gk32or1qyz6ca.jpg",
-        "price": 2099,
-        "id": 44,
-        "category": "televisions",
-        "screenPermission": "4K UHD (3840 x 2160)",
-        "screenSize": "55 (140 sm)",
-        "filterItems": {
-          "brand": "lg",
-          "screenPermission": "4K UHD (3840 x 2160)",
-          "screenSize": "55 (140 sm)"
-        }
-      },
-      {
-        "name": "Arçelik A32 A 675 A",
-        "brand": "arçelik",
-        "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-32LQ63006LA.AMCN-zeqs0uwafg21ickl8ryx-300x300.jpg",
-        "price": 649,
-        "id": 46,
-        "category": "televisions",
-        "screenPermission": "HD (1366 x 768)",
-        "screenSize": "32 (81 sm)",
-        "filterItems": {
-          "brand": "arçelik",
-          "screenPermission": "HD (1366 x 768)",
-          "screenSize": "32 (81 sm)"
-        }
-      },
-      {
-        "name": "Arçelik A65 B 880 B",
-        "brand": "arçelik",
-        "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A-B-880-B-1-xbn8ufmrytck4eg79hjl-300x300.jpg",
-        "price": 1999,
-        "id": 47,
-        "category": "televisions",
-        "screenPermission": "4K UHD (3840 x 2160)",
-        "screenSize": "65 (165 sm)",
-        "filterItems": {
-          "brand": "arçelik",
-          "screenPermission": "4K UHD (3840 x 2160)",
-          "screenSize": "65 (165 sm)"
-        }
-      },
-      {
-        "name": "Arçelik A40M 5870 5B",
-        "brand": "arçelik",
-        "img": "https://texnomart.az/wp-content/uploads/2020/11/texnomart-Arcelik-A40M-5870-5B-mx1e2favz96lbnspuojg-300x300.jpg",
-        "price": 499,
-        "id": 50,
-        "category": "televisions",
-        "screenPermission": "FHD (1920 x 1080)",
-        "screenSize": "40 (102 sm)",
-        "filterItems": {
-          "brand": "arçelik",
-          "screenPermission": "FHD (1920 x 1080)",
-          "screenSize": "40 (102 sm)"
-        }
+        "screenSize": "55 (140 sm)"
       }
-    ],
-    "info": {
-      "title": "Televizorlar",
-      "description": "Texnologiya inkişaf etdikcə, televizor modelləri də sürətli dəyişir. Artıq lampalı televizorlar çoxdan aktuallıqlarını itirib, onların yerinə nazik TV-lər keçərək interyerə gözəllik, asudə vaxta isə əyləncə qatmaq üçün istehsal olunur. Oyunlar oynamaq, serial və filmlər izləmək üçün televizordan istifadə edə bilərsiniz. Televizor almaq məsuliyyətli işdir. Bu avadanlıqdan evin hər bir üzvünün istifadə edəcəyini nəzərə alaraq onların da ehtiyaclarının ödənməsi mütləqdir. Gənc nəsil internetə çıxışı olan smart TV-lərə üstünlük verir. Bu televizorlar sayəsində yalnız kabel TV kanallarına deyil, həm də internetdən onlayn TV-lər izləmək mümkündür. Müasir dövrdə televizorların funksionallıqları genişdir. Müxtəlif çeşiddə brend markaların televizorlarını almaq üçün “Texnomart”a gəlməyiniz ən doğru seçimdir. Texnoloji inkişaf sayəsində LED ekran Plazma televizorlar meydana çıxdı. Bu tip ekranlı televizorlar rəngləri daha dəqiq və keyfiyyətli ötürərək dərin və dolğun görüntü sərgiləyir.",
-      "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-televizorlar-08sxkua5byc9e6gh2mt1.jpg"
+    },
+    {
+      "name": "Arçelik A55 B 820 B",
+      "brand": "arçelik",
+      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A55-B-820-B-bc36euw4rjzhsklpfyi7-300x300.jpg",
+      "price": 1499,
+      "id": 49,
+      "category": "televisions",
+      "screenPermission": "4K UHD (3840 x 2160)",
+      "screenSize": "55 (139 sm)",
+      "filterItems": {
+        "brand": "arçelik",
+        "screenPermission": "4K UHD (3840 x 2160)",
+        "screenSize": "55 (139 sm)"
+      }
+    },
+    {
+      "name": "LG 32LM637BPLB.AMCB",
+      "brand": "lg",
+      "img": "https://texnomart.az/wp-content/uploads/2022/01/texnomart-LG-32LM637-ab2s0lyqvw9u4hgxk7r6-300x300.jpg",
+      "price": 599,
+      "id": 42,
+      "category": "televisions",
+      "screenPermission": "HD (1366 x 768)",
+      "screenSize": "32 (81 sm)",
+      "filterItems": {
+        "brand": "lg",
+        "screenPermission": "HD (1366 x 768)",
+        "screenSize": "32 (81 sm)"
+      }
+    },
+    {
+      "name": "Arçelik A43 B 685 A",
+      "brand": "arçelik",
+      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A43-B-685-A-1-pa8fmjvtyzq15whlxneu-300x300.jpg",
+      "price": 999,
+      "id": 48,
+      "category": "televisions",
+      "screenPermission": "FHD (1920 x 1080)",
+      "screenSize": "43 (108 sm)",
+      "filterItems": {
+        "brand": "arçelik",
+        "screenPermission": "FHD (1920 x 1080)",
+        "screenSize": "43 (108 sm)"
+      }
+    },
+    {
+      "name": "LG 32LQ63006LA.AMCN",
+      "brand": "lg",
+      "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-32LQ63006LA.AMCN-zeqs0uwafg21ickl8ryx-300x300.jpg",
+      "price": 649,
+      "id": 45,
+      "category": "televisions",
+      "screenPermission": "FHD (1920 x 1080)",
+      "screenSize": "32 (81 sm)",
+      "filterItems": {
+        "brand": "lg",
+        "screenPermission": "FHD (1920 x 1080)",
+        "screenSize": "32 (81 sm)"
+      }
+    },
+    {
+      "name": "LG 43LM5772PLA.AMCB",
+      "brand": "lg",
+      "img": "https://texnomart.az/wp-content/uploads/2021/08/Televizor-LG-43LM5772PLA-300x300.jpg",
+      "price": 1049,
+      "id": 43,
+      "category": "televisions",
+      "screenPermission": "FHD (1920 x 1080)",
+      "screenSize": "43 (109 sm)",
+      "filterItems": {
+        "brand": "lg",
+        "screenPermission": "FHD (1920 x 1080)",
+        "screenSize": "43 (109 sm)"
+      }
+    },
+    {
+      "name": "LG 55NANO816QA.AMCN",
+      "brand": "lg",
+      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-LG-50NANO816QA.AMCN-ehpfui0gk32or1qyz6ca.jpg",
+      "price": 2099,
+      "id": 44,
+      "category": "televisions",
+      "screenPermission": "4K UHD (3840 x 2160)",
+      "screenSize": "55 (140 sm)",
+      "filterItems": {
+        "brand": "lg",
+        "screenPermission": "4K UHD (3840 x 2160)",
+        "screenSize": "55 (140 sm)"
+      }
+    },
+    {
+      "name": "Arçelik A32 A 675 A",
+      "brand": "arçelik",
+      "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-32LQ63006LA.AMCN-zeqs0uwafg21ickl8ryx-300x300.jpg",
+      "price": 649,
+      "id": 46,
+      "category": "televisions",
+      "screenPermission": "HD (1366 x 768)",
+      "screenSize": "32 (81 sm)",
+      "filterItems": {
+        "brand": "arçelik",
+        "screenPermission": "HD (1366 x 768)",
+        "screenSize": "32 (81 sm)"
+      }
+    },
+    {
+      "name": "Arçelik A65 B 880 B",
+      "brand": "arçelik",
+      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A-B-880-B-1-xbn8ufmrytck4eg79hjl-300x300.jpg",
+      "price": 1999,
+      "id": 47,
+      "category": "televisions",
+      "screenPermission": "4K UHD (3840 x 2160)",
+      "screenSize": "65 (165 sm)",
+      "filterItems": {
+        "brand": "arçelik",
+        "screenPermission": "4K UHD (3840 x 2160)",
+        "screenSize": "65 (165 sm)"
+      }
+    },
+    {
+      "name": "Arçelik A40M 5870 5B",
+      "brand": "arçelik",
+      "img": "https://texnomart.az/wp-content/uploads/2020/11/texnomart-Arcelik-A40M-5870-5B-mx1e2favz96lbnspuojg-300x300.jpg",
+      "price": 499,
+      "id": 50,
+      "category": "televisions",
+      "screenPermission": "FHD (1920 x 1080)",
+      "screenSize": "40 (102 sm)",
+      "filterItems": {
+        "brand": "arçelik",
+        "screenPermission": "FHD (1920 x 1080)",
+        "screenSize": "40 (102 sm)"
+      }
     }
-  },
+  ],
   "washing-machines": [],
   "allProducts": [
     {
