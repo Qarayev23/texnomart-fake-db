@@ -278,10 +278,10 @@
       "price": 649,
       "id": 21,
       "brand": "samsung",
-      "operationTime": "40 saat",
+      "operation_time": "40 saat",
       "filterItems": {
         "brand": "samsung",
-        "operationTime": "40 saat"
+        "operation_time": "40 saat"
       },
       "category": "smartwatches"
     },
@@ -291,10 +291,10 @@
       "price": 399,
       "id": 22,
       "brand": "samsung",
-      "operationTime": "40 saat",
+      "operation_time": "40 saat",
       "filterItems": {
         "brand": "samsung",
-        "operationTime": "40 saat"
+        "operation_time": "40 saat"
       },
       "category": "smartwatches"
     },
@@ -304,10 +304,10 @@
       "price": 699,
       "id": 23,
       "brand": "samsung",
-      "operationTime": "40 saat",
+      "operation_time": "40 saat",
       "filterItems": {
         "brand": "samsung",
-        "operationTime": "40 saat"
+        "operation_time": "40 saat"
       },
       "category": "smartwatches"
     },
@@ -317,10 +317,10 @@
       "price": 589,
       "id": 24,
       "brand": "samsung",
-      "operationTime": "40 saat",
+      "operation_time": "40 saat",
       "filterItems": {
         "brand": "samsung",
-        "operationTime": "40 saat"
+        "operation_time": "40 saat"
       },
       "category": "smartwatches"
     },
@@ -330,10 +330,10 @@
       "price": 449,
       "id": 25,
       "brand": "samsung",
-      "operationTime": "40 saat",
+      "operation_time": "40 saat",
       "filterItems": {
         "brand": "samsung",
-        "operationTime": "40 saat"
+        "operation_time": "40 saat"
       },
       "category": "smartwatches"
     },
@@ -343,10 +343,10 @@
       "price": 119,
       "id": 26,
       "brand": "huawei",
-      "operationTime": "240 saat",
+      "operation_time": "240 saat",
       "filterItems": {
         "brand": "huawei",
-        "operationTime": "240 saat"
+        "operation_time": "240 saat"
       },
       "category": "smartwatches"
     },
@@ -356,10 +356,10 @@
       "price": 579,
       "id": 27,
       "brand": "huawei",
-      "operationTime": "336 saat",
+      "operation_time": "336 saat",
       "filterItems": {
         "brand": "huawei",
-        "operationTime": "336 saat"
+        "operation_time": "336 saat"
       },
       "category": "smartwatches"
     },
@@ -369,10 +369,10 @@
       "price": 399,
       "id": 28,
       "brand": "huawei",
-      "operationTime": "336 saat",
+      "operation_time": "336 saat",
       "filterItems": {
         "brand": "huawei",
-        "operationTime": "336 saat"
+        "operation_time": "336 saat"
       },
       "category": "smartwatches"
     },
@@ -382,10 +382,10 @@
       "price": 139,
       "id": 29,
       "brand": "huawei",
-      "operationTime": "240 saat",
+      "operation_time": "240 saat",
       "filterItems": {
         "brand": "huawei",
-        "operationTime": "240 saat"
+        "operation_time": "240 saat"
       },
       "category": "smartwatches"
     },
@@ -395,10 +395,10 @@
       "price": 149,
       "id": 35,
       "brand": "xiaomi",
-      "operationTime": "240 saat",
+      "operation_time": "240 saat",
       "filterItems": {
         "brand": "xiaomi",
-        "operationTime": "240 saat"
+        "operation_time": "240 saat"
       },
       "category": "smartwatches"
     }
@@ -715,12 +715,12 @@
       "price": 1849,
       "id": 41,
       "category": "televisions",
-      "screenPermission": "4K UHD (3840 x 2160)",
-      "screenSize": "55 (140 sm)",
+      "screen_permission": "4K UHD (3840 x 2160)",
+      "screen_size": "55 (140 sm)",
       "filterItems": {
         "brand": "lg",
-        "screenPermission": "4K UHD (3840 x 2160)",
-        "screenSize": "55 (140 sm)"
+        "screen_permission": "4K UHD (3840 x 2160)",
+        "screen_size": "55 (140 sm)"
       }
     },
     {
@@ -730,12 +730,12 @@
       "price": 1499,
       "id": 49,
       "category": "televisions",
-      "screenPermission": "4K UHD (3840 x 2160)",
-      "screenSize": "55 (139 sm)",
+      "screen_permission": "4K UHD (3840 x 2160)",
+      "screen_size": "55 (139 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screenPermission": "4K UHD (3840 x 2160)",
-        "screenSize": "55 (139 sm)"
+        "screen_permission": "4K UHD (3840 x 2160)",
+        "screen_size": "55 (139 sm)"
       }
     },
     {
@@ -745,12 +745,12 @@
       "price": 599,
       "id": 42,
       "category": "televisions",
-      "screenPermission": "HD (1366 x 768)",
-      "screenSize": "32 (81 sm)",
+      "screen_permission": "HD (1366 x 768)",
+      "screen_size": "32 (81 sm)",
       "filterItems": {
         "brand": "lg",
-        "screenPermission": "HD (1366 x 768)",
-        "screenSize": "32 (81 sm)"
+        "screen_permission": "HD (1366 x 768)",
+        "screen_size": "32 (81 sm)"
       }
     },
     {
@@ -760,12 +760,12 @@
       "price": 999,
       "id": 48,
       "category": "televisions",
-      "screenPermission": "FHD (1920 x 1080)",
-      "screenSize": "43 (108 sm)",
+      "screen_permission": "FHD (1920 x 1080)",
+      "screen_size": "43 (108 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screenPermission": "FHD (1920 x 1080)",
-        "screenSize": "43 (108 sm)"
+        "screen_permission": "FHD (1920 x 1080)",
+        "screen_size": "43 (108 sm)"
       }
     },
     {
@@ -775,12 +775,12 @@
       "price": 649,
       "id": 45,
       "category": "televisions",
-      "screenPermission": "FHD (1920 x 1080)",
-      "screenSize": "32 (81 sm)",
+      "screen_permission": "FHD (1920 x 1080)",
+      "screen_size": "32 (81 sm)",
       "filterItems": {
         "brand": "lg",
-        "screenPermission": "FHD (1920 x 1080)",
-        "screenSize": "32 (81 sm)"
+        "screen_permission": "FHD (1920 x 1080)",
+        "screen_size": "32 (81 sm)"
       }
     },
     {
@@ -790,12 +790,12 @@
       "price": 1049,
       "id": 43,
       "category": "televisions",
-      "screenPermission": "FHD (1920 x 1080)",
-      "screenSize": "43 (109 sm)",
+      "screen_permission": "FHD (1920 x 1080)",
+      "screen_size": "43 (109 sm)",
       "filterItems": {
         "brand": "lg",
-        "screenPermission": "FHD (1920 x 1080)",
-        "screenSize": "43 (109 sm)"
+        "screen_permission": "FHD (1920 x 1080)",
+        "screen_size": "43 (109 sm)"
       }
     },
     {
@@ -805,12 +805,12 @@
       "price": 2099,
       "id": 44,
       "category": "televisions",
-      "screenPermission": "4K UHD (3840 x 2160)",
-      "screenSize": "55 (140 sm)",
+      "screen_permission": "4K UHD (3840 x 2160)",
+      "screen_size": "55 (140 sm)",
       "filterItems": {
         "brand": "lg",
-        "screenPermission": "4K UHD (3840 x 2160)",
-        "screenSize": "55 (140 sm)"
+        "screen_permission": "4K UHD (3840 x 2160)",
+        "screen_size": "55 (140 sm)"
       }
     },
     {
@@ -820,12 +820,12 @@
       "price": 649,
       "id": 46,
       "category": "televisions",
-      "screenPermission": "HD (1366 x 768)",
-      "screenSize": "32 (81 sm)",
+      "screen_permission": "HD (1366 x 768)",
+      "screen_size": "32 (81 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screenPermission": "HD (1366 x 768)",
-        "screenSize": "32 (81 sm)"
+        "screen_permission": "HD (1366 x 768)",
+        "screen_size": "32 (81 sm)"
       }
     },
     {
@@ -835,12 +835,12 @@
       "price": 1999,
       "id": 47,
       "category": "televisions",
-      "screenPermission": "4K UHD (3840 x 2160)",
-      "screenSize": "65 (165 sm)",
+      "screen_permission": "4K UHD (3840 x 2160)",
+      "screen_size": "65 (165 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screenPermission": "4K UHD (3840 x 2160)",
-        "screenSize": "65 (165 sm)"
+        "screen_permission": "4K UHD (3840 x 2160)",
+        "screen_size": "65 (165 sm)"
       }
     },
     {
@@ -850,12 +850,12 @@
       "price": 499,
       "id": 50,
       "category": "televisions",
-      "screenPermission": "FHD (1920 x 1080)",
-      "screenSize": "40 (102 sm)",
+      "screen_permission": "FHD (1920 x 1080)",
+      "screen_size": "40 (102 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screenPermission": "FHD (1920 x 1080)",
-        "screenSize": "40 (102 sm)"
+        "screen_permission": "FHD (1920 x 1080)",
+        "screen_size": "40 (102 sm)"
       }
     }
   ],
@@ -1288,10 +1288,10 @@
       "price": 649,
       "id": 21,
       "brand": "samsung",
-      "operationTime": "40 saat",
+      "operation_time": "40 saat",
       "filterItems": {
         "brand": "samsung",
-        "operationTime": "40 saat"
+        "operation_time": "40 saat"
       },
       "category": "smartwatches"
     },
@@ -1301,10 +1301,10 @@
       "price": 399,
       "id": 22,
       "brand": "samsung",
-      "operationTime": "40 saat",
+      "operation_time": "40 saat",
       "filterItems": {
         "brand": "samsung",
-        "operationTime": "40 saat"
+        "operation_time": "40 saat"
       },
       "category": "smartwatches"
     },
@@ -1314,10 +1314,10 @@
       "price": 699,
       "id": 23,
       "brand": "samsung",
-      "operationTime": "40 saat",
+      "operation_time": "40 saat",
       "filterItems": {
         "brand": "samsung",
-        "operationTime": "40 saat"
+        "operation_time": "40 saat"
       },
       "category": "smartwatches"
     },
@@ -1327,10 +1327,10 @@
       "price": 589,
       "id": 24,
       "brand": "samsung",
-      "operationTime": "40 saat",
+      "operation_time": "40 saat",
       "filterItems": {
         "brand": "samsung",
-        "operationTime": "40 saat"
+        "operation_time": "40 saat"
       },
       "category": "smartwatches"
     },
@@ -1340,10 +1340,10 @@
       "price": 449,
       "id": 25,
       "brand": "samsung",
-      "operationTime": "40 saat",
+      "operation_time": "40 saat",
       "filterItems": {
         "brand": "samsung",
-        "operationTime": "40 saat"
+        "operation_time": "40 saat"
       },
       "category": "smartwatches"
     },
@@ -1353,10 +1353,10 @@
       "price": 119,
       "id": 26,
       "brand": "huawei",
-      "operationTime": "240 saat",
+      "operation_time": "240 saat",
       "filterItems": {
         "brand": "huawei",
-        "operationTime": "240 saat"
+        "operation_time": "240 saat"
       },
       "category": "smartwatches"
     },
@@ -1366,10 +1366,10 @@
       "price": 579,
       "id": 27,
       "brand": "huawei",
-      "operationTime": "336 saat",
+      "operation_time": "336 saat",
       "filterItems": {
         "brand": "huawei",
-        "operationTime": "336 saat"
+        "operation_time": "336 saat"
       },
       "category": "smartwatches"
     },
@@ -1379,10 +1379,10 @@
       "price": 399,
       "id": 28,
       "brand": "huawei",
-      "operationTime": "336 saat",
+      "operation_time": "336 saat",
       "filterItems": {
         "brand": "huawei",
-        "operationTime": "336 saat"
+        "operation_time": "336 saat"
       },
       "category": "smartwatches"
     },
@@ -1392,10 +1392,10 @@
       "price": 139,
       "id": 29,
       "brand": "huawei",
-      "operationTime": "240 saat",
+      "operation_time": "240 saat",
       "filterItems": {
         "brand": "huawei",
-        "operationTime": "240 saat"
+        "operation_time": "240 saat"
       },
       "category": "smartwatches"
     },
@@ -1480,10 +1480,10 @@
       "price": 149,
       "id": 35,
       "brand": "xiaomi",
-      "operationTime": "240 saat",
+      "operation_time": "240 saat",
       "filterItems": {
         "brand": "xiaomi",
-        "operationTime": "240 saat"
+        "operation_time": "240 saat"
       },
       "category": "smartwatches"
     },
@@ -1569,12 +1569,12 @@
       "price": 1849,
       "id": 41,
       "category": "televisions",
-      "screenPermission": "4K UHD (3840 x 2160)",
-      "screenSize": "55 (140 sm)",
+      "screen_permission": "4K UHD (3840 x 2160)",
+      "screen_size": "55 (140 sm)",
       "filterItems": {
         "brand": "lg",
-        "screenPermission": "4K UHD (3840 x 2160)",
-        "screenSize": "55 (140 sm)"
+        "screen_permission": "4K UHD (3840 x 2160)",
+        "screen_size": "55 (140 sm)"
       }
     },
     {
@@ -1584,12 +1584,12 @@
       "price": 1499,
       "id": 49,
       "category": "televisions",
-      "screenPermission": "4K UHD (3840 x 2160)",
-      "screenSize": "55 (139 sm)",
+      "screen_permission": "4K UHD (3840 x 2160)",
+      "screen_size": "55 (139 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screenPermission": "4K UHD (3840 x 2160)",
-        "screenSize": "55 (139 sm)"
+        "screen_permission": "4K UHD (3840 x 2160)",
+        "screen_size": "55 (139 sm)"
       }
     },
     {
@@ -1599,12 +1599,12 @@
       "price": 599,
       "id": 42,
       "category": "televisions",
-      "screenPermission": "HD (1366 x 768)",
-      "screenSize": "32 (81 sm)",
+      "screen_permission": "HD (1366 x 768)",
+      "screen_size": "32 (81 sm)",
       "filterItems": {
         "brand": "lg",
-        "screenPermission": "HD (1366 x 768)",
-        "screenSize": "32 (81 sm)"
+        "screen_permission": "HD (1366 x 768)",
+        "screen_size": "32 (81 sm)"
       }
     },
     {
@@ -1614,12 +1614,12 @@
       "price": 999,
       "id": 48,
       "category": "televisions",
-      "screenPermission": "FHD (1920 x 1080)",
-      "screenSize": "43 (108 sm)",
+      "screen_permission": "FHD (1920 x 1080)",
+      "screen_size": "43 (108 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screenPermission": "FHD (1920 x 1080)",
-        "screenSize": "43 (108 sm)"
+        "screen_permission": "FHD (1920 x 1080)",
+        "screen_size": "43 (108 sm)"
       }
     },
     {
@@ -1629,12 +1629,12 @@
       "price": 649,
       "id": 45,
       "category": "televisions",
-      "screenPermission": "FHD (1920 x 1080)",
-      "screenSize": "32 (81 sm)",
+      "screen_permission": "FHD (1920 x 1080)",
+      "screen_size": "32 (81 sm)",
       "filterItems": {
         "brand": "lg",
-        "screenPermission": "FHD (1920 x 1080)",
-        "screenSize": "32 (81 sm)"
+        "screen_permission": "FHD (1920 x 1080)",
+        "screen_size": "32 (81 sm)"
       }
     },
     {
@@ -1644,12 +1644,12 @@
       "price": 1049,
       "id": 43,
       "category": "televisions",
-      "screenPermission": "FHD (1920 x 1080)",
-      "screenSize": "43 (109 sm)",
+      "screen_permission": "FHD (1920 x 1080)",
+      "screen_size": "43 (109 sm)",
       "filterItems": {
         "brand": "lg",
-        "screenPermission": "FHD (1920 x 1080)",
-        "screenSize": "43 (109 sm)"
+        "screen_permission": "FHD (1920 x 1080)",
+        "screen_size": "43 (109 sm)"
       }
     },
     {
@@ -1659,12 +1659,12 @@
       "price": 2099,
       "id": 44,
       "category": "televisions",
-      "screenPermission": "4K UHD (3840 x 2160)",
-      "screenSize": "55 (140 sm)",
+      "screen_permission": "4K UHD (3840 x 2160)",
+      "screen_size": "55 (140 sm)",
       "filterItems": {
         "brand": "lg",
-        "screenPermission": "4K UHD (3840 x 2160)",
-        "screenSize": "55 (140 sm)"
+        "screen_permission": "4K UHD (3840 x 2160)",
+        "screen_size": "55 (140 sm)"
       }
     },
     {
@@ -1674,12 +1674,12 @@
       "price": 649,
       "id": 46,
       "category": "televisions",
-      "screenPermission": "HD (1366 x 768)",
-      "screenSize": "32 (81 sm)",
+      "screen_permission": "HD (1366 x 768)",
+      "screen_size": "32 (81 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screenPermission": "HD (1366 x 768)",
-        "screenSize": "32 (81 sm)"
+        "screen_permission": "HD (1366 x 768)",
+        "screen_size": "32 (81 sm)"
       }
     },
     {
@@ -1689,12 +1689,12 @@
       "price": 1999,
       "id": 47,
       "category": "televisions",
-      "screenPermission": "4K UHD (3840 x 2160)",
-      "screenSize": "65 (165 sm)",
+      "screen_permission": "4K UHD (3840 x 2160)",
+      "screen_size": "65 (165 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screenPermission": "4K UHD (3840 x 2160)",
-        "screenSize": "65 (165 sm)"
+        "screen_permission": "4K UHD (3840 x 2160)",
+        "screen_size": "65 (165 sm)"
       }
     },
     {
@@ -1704,12 +1704,12 @@
       "price": 499,
       "id": 50,
       "category": "televisions",
-      "screenPermission": "FHD (1920 x 1080)",
-      "screenSize": "40 (102 sm)",
+      "screen_permission": "FHD (1920 x 1080)",
+      "screen_size": "40 (102 sm)",
       "filterItems": {
         "brand": "arçelik",
-        "screenPermission": "FHD (1920 x 1080)",
-        "screenSize": "40 (102 sm)"
+        "screen_permission": "FHD (1920 x 1080)",
+        "screen_size": "40 (102 sm)"
       }
     },
     {
@@ -2013,57 +2013,67 @@
       }
     }
   ],
-  "smartphonesInfo": {
+  "smartphones_info": {
     "title": "Smartfonlar",
     "description": "Məşhur brend smartfonlar üçün “Texnomart”a müraciət etmək ən doğrusudur. Mağazamızda ən son telefon modelləri ilə tanış olaraq onları sərfəli qiymətə əldə edə bilərsiniz. Müasir dövrdə telefonlardan yalnız zənglər üçün deyil, həm də şəkillər, videolar çəkmək və internetə daxil olmaq üçün istifadə edirlər. Telefonlar gündəlik həyatımızın ayrılmaz hissəsinə çevrilib. Mobil telefonlar, telefon modelləri, ən son model smartfonların funksiyaları ilə tanış olmaq üçün “Texnomart.az” saytına baş çəkin. Mobil telefon almaq dövrümüzün ən aktual alış-verişlərindəndir. Mobil telefonlar bir-birindən funksiya, dizayn və parametrlərinə görə fərqlənir. Dünyaca məşhur brend markalar hər kəsin büdcəsini nəzərə alaraq fərqli qiymət diapazonunda smartfonlar istehsal edir. Sərfəli qiymətə telefon yeniləmək istəyirsinizsə, “Texnomart”a baş çəkin. Kiçik büdcə ilə də keyfiyyətli smartfona sahib ola bilərsiniz. Səmərəli təkliflər və sərfəli qiymətdən faydalanmağa tələsin. Mobil telefonların növləri zamanla həm fiziki, həm də məzmun baxımından dəyişdi. Bu cihazlar günümüzün qabaqcıl xüsusiyyətlərini əldə etməmişdən əvvəl daha çox düyməli olan mobil telefonlar kimi qarşımıza çıxdılar. Düyməli telefonlar çox xüsusiyyətləri olmayan, bir neçə sadə oyunu ehtiva edən və mürəkkəb olmayan məhsullar olaraq həyatımıza rəng qatdı. Zamanla inkişaf edən bu cihazlar yaşadığımız dövrdə sensorlu mobil telefonlar olaraq həyatımızı asanlaşdırır. Cari dövrdəki mobil telefon növləri,istifadəsinə görə ilk çıxan mobil telefonlara görə olduqca fərqlidir.Bu gün istifadə sahələri dəyişdiyi üçün daha geniş bir ekrana sahib olan bu smartfonlar,keçmişdə müxtəlif fiziki xüsusiyyətlərə də sahib idi.Bunlara nümunə olaraq,sürüşdürülən və qapaqlı mobil telefonları göstərmək olar.Xüsusi ilə qatlanan telefonlar ən çox seçilənlər arasında idi. Telefon istehsalçıları son zamanlar istifadəçilərin çox bəyəndiyi bu funksiyanı yeni nəsil cihazlarda istifadə etməyə başlayıb. Mobil telefon tövsiyələri ilə bağlı rəyləri oxumaq, satın almadan əvvəl meyarlarınıza uyğun olan cihazı seçməyinizə kömək edəcək. Misal üçün; əgər smartfonu iş həyatında geniş şəkildə istifadə edirsinizsə, tutum və xüsusiyyətlər baxımından daha əhatəli bir cihaz seçimi sizin xeyrinizə olacaq.Bu səbəblə daha çox yaddaş tutumlu telefon daha çox işinizi asanlaşdıracaq.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-Smartfon-Samsung-Z-Fold-3-12-256-GB-silver-600x600-eoq7lvrn0gsawjy3fi8b.jpg"
   },
-  "laptopsInfo": {
+  "laptops_info": {
     "title": "Noutbuklar",
     "description": "Notbuk qiymətləri ilə maraqlanmaq üçün “Texnomart.az” saytına xoş gəlmisiniz. Notbuklar ən müasir kompüter cihazlarıdır. Stasionar, masaüstü kompüterlərdən əsas fərqi ölçüsündədir. Texnologiya inkişaf etdikcə kompüterlər və notbuklar da günü-gündən inkişaf edərək daha da yenilənir. Belə dəyişikliklər istifadəçilər üçün funksionallıq və qiymət diapazonu yaradaraq onlara seçim etmək imkanı verir. Notbuklardan fərqli peşə sahələrində istifadə olunur. Hər peşə sahəsinin iş yükünün tələblərinə uyğun funksionallıqda notbuk almaq mümkündür. Geniş çeşiddə notbuk seçimlərinə nəzər saldıqda anlamaq olur ki, artıq ən sadə sahələr üçün belə bu cihazlar mütləqdir. İnformasiya texnologiyaları sahəsində çalışan kompüter mühəndisi və ya ağır layihələr hazırlayan dizaynerlər üçün ən yüksək səviyyəli, güclü və keyfiyyətli notbuklar əldə etmək vacibdir. “Texnomart”da sizə sərfəli olan notbuku tapa biləcəksiniz.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-notebook-qyeum1lbra8s249j5xgz.jpg"
   },
-  "televisionsInfo": {
+  "televisions_info": {
     "title": "Televizorlar",
     "description": "Texnologiya inkişaf etdikcə, televizor modelləri də sürətli dəyişir. Artıq lampalı televizorlar çoxdan aktuallıqlarını itirib, onların yerinə nazik TV-lər keçərək interyerə gözəllik, asudə vaxta isə əyləncə qatmaq üçün istehsal olunur. Oyunlar oynamaq, serial və filmlər izləmək üçün televizordan istifadə edə bilərsiniz. Televizor almaq məsuliyyətli işdir. Bu avadanlıqdan evin hər bir üzvünün istifadə edəcəyini nəzərə alaraq onların da ehtiyaclarının ödənməsi mütləqdir. Gənc nəsil internetə çıxışı olan smart TV-lərə üstünlük verir. Bu televizorlar sayəsində yalnız kabel TV kanallarına deyil, həm də internetdən onlayn TV-lər izləmək mümkündür. Müasir dövrdə televizorların funksionallıqları genişdir. Müxtəlif çeşiddə brend markaların televizorlarını almaq üçün “Texnomart”a gəlməyiniz ən doğru seçimdir. Texnoloji inkişaf sayəsində LED ekran Plazma televizorlar meydana çıxdı. Bu tip ekranlı televizorlar rəngləri daha dəqiq və keyfiyyətli ötürərək dərin və dolğun görüntü sərgiləyir.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-televizorlar-08sxkua5byc9e6gh2mt1.jpg"
   },
-  "smartwatchesInfo": {
+  "smartwatches_info": {
     "title": "Smart saatlar",
     "description": "Son zamanlar dünyada məşhurlaşan sağlam həyat tərzi trendi gündəlik rutinimizə yeni qadcetlərdən istifadəni də gətirdi. Onlardan biri smart saatdır. Smart saat almaq və gündəlik olaraq istifadə etmək sizi aktiv həyat tərzinə sövq edəcək. Ölçülən addımların sayı sizi özünüzlə rəqabətə girərək hər gün daha çox piyada gəzməyə vadar edəcək. Smart saatlar bir-birindən dizaynına, parametrlərinə və funksionallıqlarına görə fərqlənir. Fitnes qolbaq və smart saatı səhv salmamaq vacibdir! Smart saat addım sayır, nəbzi ölçür, qandakı oksigenin miqdarını göstərir, zəngləri qəbul və ya imtina edir, bildirişləri ekranda göstərir və telefon əlinizin altında deyilsə, onları cavablandırmağa yardımçı olur. Telefonunuzu məkanda itirsəniz, smart saat vasitəsilə siqnal göndərərək tapa bilərsiniz. Smart saatlar həm də gur işıq verərək fənər rolunu oynaya bilər. Dünyanın bir çox tanınmış brendləri, məsələn, Xiaomi, Apple, Samsung və s. smart saatlar istehsal edirlər. Onların qiymət aralıqları fərqlidir və hər kəs öz büdcəsinə uyğun olanını seçə bilər.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-sm-r840nzsacis_1-bf4ukqjrnta9powxl7se.jpg"
   },
-  "samsungInfo": {
+  "washing_machines_info": {
+    "title": "Paltaryuyanlar",
+    "description": "Geniş çeşiddə paltaryuyan modelləri və qiymətləri ilə “Texnomart”da tanış ola bilərsiniz. Bu böyük məişət texnikası evdə əvəzolunmazdır. Paltaryuyan maşın həm tək yaşayanların, həm də böyük ailələrin çox köməyinə çatır. Müasir dövrdə həyatı paltaryuyan maşın olmadan təsəvvür etmək mümkün deyil. Dünya bazarında müxtəlif funksiyalara və tutuma malik brend paltaryuyan modelləri satılır. Paltaryuyan seçimində vacib məqamlardan biri büdcəniz və tələblərinizdir. Brend paltayuyanın qiyməti, keyfiyyəti və göstəricilərindən razı qalmaq üçün istəklərinizi dəqiq bilməlisiniz. Evdar xanımların köməyinə çatan paltaryuyan maşınların qiyməti tutumundan, funksiyalarından, fiziki, texniki parametrlərindən və enerji sərfiyyatından asılır. Dünya bazarında məhsullarını nümayiş etdirən aparıcı brendlər geniş çeşiddə paltaryuyanlar təklif edir. Paltaryuyan maşının xüsusilə zəruri olmasını körpə və azyaşlı uşaqların olduğu evlərdə müşahidə edirik. Bu cür evlərdə uşaq paltarları yumaq funksiyalı paltaryuyan maşının olması vacibdir. Həmin funksiya körpənin geyimini lazımlı temperaturda yuyaraq bir neçə dəfə yaxalayır, körpəni mikroblardan və yuyucu toza qarşı olan allergik reaksiyadan qoruyur. “Texnomart” sizə geniş çeşidli, LG, Samsung, Arçelik və s. kimi dünya brendlərinin təklif etdiyi paltaryuyan maşınları təqdim edir. Büdcəyə qənaət edərək düzgün seçim edin.",
+    "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-stiralnaya-mashina-samsung-wd10t654cbxlp-sf5rqkjecmlt2iphubox.jpg"
+  },
+  "air_conditioners_info": {
+    "title": "Kondisionerlər",
+    "description": "Kondisioner almaq məsuliyyətli işdir. Kondisionerlər məkanı soyutmaq və ya isitmək üçün istifadə olunan məişət avadanlığıdır. Bu cihazın düzgün işləməsi üçün onu məkanın sahəsinə uyğun olaraq almaq lazımdır. Kondisionerdən ilin istənilən vaxtı istifadə etmək mümkündür. Müasir dövrdə fərqli funksionallığa malik olan geniş kondisioner çeşidləri mövcuddur. Ucuz qiymətə split kondisioner almaq istəyənlər “Texnomart”a gəlsinlər. İsti yay aylarını kondisionerlərsiz təsəvvür etmək mümkün deyil. Kondisioner seçimi zamanı quraşdırılacaq məkanın sahəsini müəyyənləşdirmək, marka seçimi etmək və funksionallığa diqqət yetirmək lazımdır ki, arzuolunmaz funksiyalar üçün əlavə pul ödəməyəsiniz. Büdcənizi nəzərə almağınız mütləqdir.",
+    "img": "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-A24CMH-3.jpg"
+  },
+  "samsung_info": {
     "title": "Samsung",
     "description": "Cənubi Koreya şirkəti olan Samsung Electronics 1969-cu ildən dünya bazarına daxil olub. Uzun illərdir ki keyfiyyətli telefonlar, smartfonlar böyük və kiçik məişət texnikası istehsal edir. Samsung markalı telefon, smartfon, soyuducu, paltaryuyan, televizor, qabyuyan, mikrodalğalı soba, kondisioner və musiqi mərkəzi əldə etmək üçün “Texnomart”a gəlin. Samsung şirkəti bazarda ən çox seçim çeşidlərinə malik olan markalardan biridir. Bu şirkət hər büdcəni nəzərə alaraq ən ucuz modellərdən ən bahalılar və çoxfunksiyalı avadanlıqlaradək istehsal edir. İstəyinizə uyğun funksionallıqda və qiymətdə Samsung markalı məişət avadanlığı almaq üçün “Texnomart.az” saytına nəzər salmağınız kifayətdir.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-samsung-rz7y24sgfjtv6w9q1uab.jpg"
   },
-  "arçelikInfo": {
+  "arçelik_info": {
     "title": "Arçelik",
     "description": "Türkiyənin aparıcı məişət texnikası istehsal edən şirkəti, yerli və xarici bazarların nəhəngi sayılan Arçelik 1955-ci ildən fəaliyyət göstərir. Mərkəzi İstanbulda yerləşən Arçelik şirkəti nəinki bütün Türkiyəyə, hətta Azərbaycana belə öz məhsullarını idxal edərək satışa çıxarır. “Texnomart” Arçelik şirkətinin Azərbaycandakı rəsmi distribütorudur. Yüksək keyfiyyəti ilə seçilən bu şirkət daima texnologiyalarla ayaqlaşaraq yeni nəsil məişət texnikası istehsal edir. Arçelik paltaryuyan, qabyuyan, soyuducu, qaz plitələri, sobalar, dondurucular və digər məişətdə çox istifadə olunan texnikanı hər büdcəyə uyğun, geniş seçimlərlə satışa çıxarır.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-Arcelik-aoew365tzcmp89vfruyj.jpg"
   },
-  "lgInfo": {
+  "lg_info": {
     "title": "LG",
     "description": "Cənubi Koreya şirkəti olan LG Electronics 1947-ci ildən dünya bazarına daxil olub. Uzun illərdir keyfiyyətli böyük və kiçik məişət texnikası istehsal edir və hər evin sakinidir. LG markalı soyuducu, paltaryuyan, televizor, qabyuyan, mikrodalğalı soba, kondisioner və musiqi mərkəzi əldə etmək üçün “Texnomart”a gəlin. LG şirkəti bazarda ən çox seçim çeşidlərinə malik olan markalardan biridir. Bu şirkət hər büdcəni nəzərə alaraq ən ucuz modellərdən ən bahalılar və çoxfunksiyalı avadanlıqlaradək istehsal edir. İstəyinizə uyğun funksionallıqda və qiymətdə LG markalı məişət avadanlığı almaq üçün “Texnomart.az” saytına nəzər salmağınız kifayətdir.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-lg-s74ourbk0agc1hvwentz.jpg"
   },
-  "xiaomiInfo": {
+  "xiaomi_info": {
     "title": "Xiaomi",
     "description": "Xiaomi 2010-cu ildə Çində yaradılmış müasir texnologiyalar şirkətidir. Bu şirkət özünün keyfiyyətli, orijinal və aşağı qiymət seqmenti ilə məşhurdur. Yarandığı illər ərzində dayanmadan inkişaf edən Xiaomi brendi hazırda yalnız smartfonlar deyil, geniş kateqoriyalarda texnika istehsal edir. Smart saatlar, fitnes qolbağlar, ağıllı evlər geniş çeşiddə smartfonlar və TV tuner almaq üçün Xiaomi brendinə müraciət edin. Bu brendlə tanış olduqdan sonra aşağı qiymət və yüksək keyfiyyətdən həzz alacaqsınız.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-mi-5wy083lmihktnugb926s.jpg"
   },
-  "acerInfo": {
+  "acer_info": {
     "title": "Acer",
     "description": "2019-cu ildən etibarən mağazaların adı Texnomarta dəyişdirməklə Arçelik, Arnica və Supra markaları ilə yanaşı bir çox dünya markalarının: Samsung, Bosch, Scarlett, İndesit, Tefal, Siemens, Philips, Stinol, Hotpoint Ariston, LG və sair mallarının satışını həyata keçirir. Geniş çeşiddə mobil telefon, televizor və digər elektronika məhsulları və məişət avadanlıqların həm birdəfəlik, həm də hissə-hissə ödəmə şərtləri ilə təklif edilir. Bakıda 5, bölgələrdə isə 28 mağaza olmaqla geniş əraziyə yayılan “Texnomart” sərfəli satış şərtləri ilə hər zaman müştərilərin xidmətindədir.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-Acer-b5xzvmu872hqio61e3pk.jpg"
   },
-  "hpInfo": {
+  "hp_info": {
     "title": "HP",
     "description": "1939-cu il ABŞ-da təməli qoyulmuş Hewlett-Packard və ya HP şirkəti proqram və ya aparat təminatı ilə məşğul olan şirkətdir. Yəni, HP şirkəti informasiya texnologiyaları sahəsi üçün proqramlaşdırma və avadanlıq istehsalı işləri görməkdədir. HP kompüterlərini hər birimiz tanıyırıq və istifadə etmişik, lakin bu şirkətin yalnız PC kompüterlər və notbuklar deyil, həmçinin onların kompnentlərinin aparat oxunmasını təmin edən drayver proqramlarının yazılmasında da rolu vardır. HP şirkəti hazırda bir çox sahələr üçün faydalı məhsullar istehsal edir.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-hp-unv47gj6rysc312tz0h9.jpg"
   },
-  "huaweiInfo": {
+  "huawei_info": {
     "title": "Huawei",
     "description": "2019-cu ildən etibarən mağazaların adı Texnomarta dəyişdirməklə Arçelik, Arnica və Supra markaları ilə yanaşı bir çox dünya markalarının: Samsung, Bosch, Scarlett, İndesit, Tefal, Siemens, Philips, Stinol, Hotpoint Ariston, LG və sair mallarının satışını həyata keçirir. Geniş çeşiddə mobil telefon, televizor və digər elektronika məhsulları və məişət avadanlıqların həm birdəfəlik, həm də hissə-hissə ödəmə şərtləri ilə təklif edilir. Bakıda 5, bölgələrdə isə 28 mağaza olmaqla geniş əraziyə yayılan “Texnomart” sərfəli satış şərtləri ilə hər zaman müştərilərin xidmətindədir.",
     "img": "https://texnomart.az/wp-content/uploads/2023/01/texnomart-Huawei-logo-kyt6xobfw1e4sjzh3cpq.jpg"
