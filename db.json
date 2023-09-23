@@ -555,7 +555,158 @@
       }
     }
   ],
-  "air-conditioners": [],
+  "air_conditioners": [
+    {
+      "name": "Kondisioner Arçelik AMFDA 090",
+      "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
+      "category": "air_conditioners",
+      "brand": "arçelik",
+      "area": "30 - 35 m²",
+      "engine_type": "sadə",
+      "filterItems": {
+        "brand": "arçelik",
+        "area": "30 - 35 m²",
+        "engine_type": "sadə"
+      },
+      "price": 799,
+      "id": 51
+    },
+    {
+      "name": "Kondisioner LG A12CMH",
+      "img": "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-A12CMH-300x300.jpg",
+      "category": "air_conditioners",
+      "brand": "lg",
+      "area": "40 - 45 m²",
+      "engine_type": "inverter",
+      "filterItems": {
+        "brand": "lg",
+        "area": "40 - 45 m²",
+        "engine_type": "inverter"
+      },
+      "price": 1880,
+      "id": 56
+    },
+    {
+      "name": "Kondisioner Artel Art-12HGE32",
+      "img": "https://texnomart.az/wp-content/uploads/2022/07/texnomart-Artel-Art-12HGE32-071uloqexmfbrhp9ytj6-300x300.jpg",
+      "category": "air_conditioners",
+      "brand": "artel",
+      "area": "30 - 35 m²",
+      "engine_type": "sadə",
+      "filterItems": {
+        "brand": "artel",
+        "area": "30 - 35 m²",
+        "engine_type": "sadə"
+      },
+      "price": 899,
+      "id": 58
+    },
+    {
+      "name": "Kondisioner Arçelik 09325",
+      "img": "https://texnomart.az/wp-content/uploads/2020/11/8866311100-LO1-20180501-231326-300x300.png",
+      "category": "air_conditioners",
+      "brand": "arçelik",
+      "area": "30 - 35 m²",
+      "engine_type": "inverter",
+      "filterItems": {
+        "brand": "arçelik",
+        "area": "30 - 35 m²",
+        "engine_type": "inverter"
+      },
+      "price": 1299,
+      "id": 52
+    },
+    {
+      "name": "Kondisioner LG I18CGH",
+      "img": "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-I18CGH.NGGH-KIT-300x300.jpg",
+      "category": "air_conditioners",
+      "brand": "lg",
+      "area": "50 - 60 m²",
+      "engine_type": "inverter",
+      "filterItems": {
+        "brand": "lg",
+        "area": "50 - 60 m²",
+        "engine_type": "inverter"
+      },
+      "price": 1960,
+      "id": 57
+    },
+    {
+      "name": "Kondisioner Arçelik AMFDA 120-121",
+      "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
+      "category": "air_conditioners",
+      "brand": "arçelik",
+      "area": "40 - 45 m²",
+      "engine_type": "sadə",
+      "filterItems": {
+        "brand": "arçelik",
+        "area": "40 - 45 m²",
+        "engine_type": "sadə"
+      },
+      "price": 899,
+      "id": 53
+    },
+    {
+      "name": "Kondisioner Arçelik 18325",
+      "img": "https://texnomart.az/wp-content/uploads/2020/11/8866271100-LO1-20180501-232912-1-300x300.png",
+      "category": "air_conditioners",
+      "brand": "arçelik",
+      "area": "60 - 65 m²",
+      "engine_type": "inverter",
+      "filterItems": {
+        "brand": "arçelik",
+        "area": "60 - 65 m²",
+        "engine_type": "inverter"
+      },
+      "price": 1899,
+      "id": 54
+    },
+    {
+      "name": "Kondisioner Arçelik AMFDA 180",
+      "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
+      "category": "air_conditioners",
+      "brand": "arçelik",
+      "area": "60 - 65 m²",
+      "engine_type": "sadə",
+      "filterItems": {
+        "brand": "arçelik",
+        "area": "60 - 65 m²",
+        "engine_type": "sadə"
+      },
+      "price": 1399,
+      "id": 55
+    },
+    {
+      "name": "Kondisioner Artel ART-18HME48",
+      "img": "https://texnomart.az/wp-content/uploads/2021/06/Artel-Montana-ART-18HM-300x300.jpg",
+      "category": "air_conditioners",
+      "brand": "artel",
+      "area": "60 - 65 m²",
+      "engine_type": "sadə",
+      "filterItems": {
+        "brand": "artel",
+        "area": "60 - 65 m²",
+        "engine_type": "sadə"
+      },
+      "price": 1099,
+      "id": 59
+    },
+    {
+      "name": "Kondisioner Artel Art-12HME32",
+      "img": "https://texnomart.az/wp-content/uploads/2021/06/Artel-Montana-ART-12HM-300x300.jpg",
+      "category": "air_conditioners",
+      "brand": "artel",
+      "area": "30 - 40 m²",
+      "engine_type": "inverter",
+      "filterItems": {
+        "brand": "artel",
+        "area": "30 - 40 m²",
+        "engine_type": "inverter"
+      },
+      "price": 899,
+      "id": 60
+    }
+  ],
   "televisions": [
     {
       "name": "LG 55UQ81006LB.AMCN",
@@ -708,7 +859,158 @@
       }
     }
   ],
-  "washing-machines": [],
+  "washing_machines": [
+    {
+      "name": "Paltaryuyan Arçelik AWL 5082 S",
+      "brand": "arçelik",
+      "img": "https://texnomart.az/wp-content/uploads/2021/01/Arcelik-AWL-5082-S-300x300.jpg",
+      "price": 549,
+      "id": 61,
+      "category": "washing_machines",
+      "management_type": "mexaniki",
+      "capacity": "5 kq",
+      "filterItems": {
+        "brand": "arçelik",
+        "management_type": "mexaniki",
+        "capacity": "5 kq"
+      }
+    },
+    {
+      "name": "Paltaryuyan Arçelik 8103 YP",
+      "brand": "arçelik",
+      "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-8103-YP-7oqcpfzi190v345e6r8b-300x300.jpg",
+      "price": 999,
+      "id": 62,
+      "category": "washing_machines",
+      "management_type": "sensor",
+      "capacity": "8 kq",
+      "filterItems": {
+        "brand": "arçelik",
+        "management_type": "sensor",
+        "capacity": "8 kq"
+      }
+    },
+    {
+      "name": "Paltaryuyan Arçelik 2202 YACM",
+      "brand": "arçelik",
+      "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-2202-YACM-9wm86loeh1bk7nrxaug0-300x300.jpg",
+      "price": 1199,
+      "id": 63,
+      "category": "washing_machines",
+      "management_type": "elektron",
+      "capacity": "8 kq",
+      "filterItems": {
+        "brand": "arçelik",
+        "management_type": "elektron",
+        "capacity": "8 kq"
+      }
+    },
+    {
+      "name": "Paltaryuyan Arçelik 9103 YPS",
+      "brand": "arçelik",
+      "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-9103-YPS-1lo7ezpwjhamf0sigt59-300x300.jpg",
+      "price": 1349,
+      "id": 64,
+      "category": "washing_machines",
+      "management_type": "sensor",
+      "capacity": "9 kq",
+      "filterItems": {
+        "brand": "arçelik",
+        "management_type": "sensor",
+        "capacity": "9 kq"
+      }
+    },
+    {
+      "name": "Paltaryuyan Arçelik 6100 C",
+      "brand": "arçelik",
+      "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Arcelik-AWX-6211-W-k5hrzl7tqn0f4pci1bxw-300x300.jpg",
+      "price": 599,
+      "id": 65,
+      "category": "washing_machines",
+      "management_type": "mexaniki",
+      "capacity": "6 kq",
+      "filterItems": {
+        "brand": "arçelik",
+        "management_type": "mexaniki",
+        "capacity": "6 kq"
+      }
+    },
+    {
+      "name": "Paltaryuyan Beko WSRE 6512 PRW",
+      "brand": "beko",
+      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WSRE-6512-PRW-qiw8v67t2hjcf0ap9g4e-300x300.jpg",
+      "price": 779,
+      "id": 66,
+      "category": "washing_machines",
+      "management_type": "elektron",
+      "capacity": "6 kq",
+      "filterItems": {
+        "brand": "beko",
+        "management_type": "elektron",
+        "capacity": "6 kq"
+      }
+    },
+    {
+      "name": "Paltaryuyan Beko WTV 8636 XS",
+      "brand": "beko",
+      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-beko-WTV-8636-XS-hb2au1rcp6miv7g0l3ky-300x300.jpg",
+      "price": 1199,
+      "id": 67,
+      "category": "washing_machines",
+      "management_type": "sensor",
+      "capacity": "8 kq",
+      "filterItems": {
+        "brand": "beko",
+        "management_type": "sensor",
+        "capacity": "8 kq"
+      }
+    },
+    {
+      "name": "paltaryuyan Beko WITC 7612 B0W Nova",
+      "brand": "beko",
+      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WITC-7612-B0W-Nova-02uhewkbvo43a7gysrti-300x300.jpg",
+      "price": 1099,
+      "id": 68,
+      "category": "washing_machines",
+      "management_type": "elektron",
+      "capacity": "7 kq",
+      "filterItems": {
+        "brand": "beko",
+        "management_type": "elektron",
+        "capacity": "7 kq"
+      }
+    },
+    {
+      "name": "Paltaryuyan Beko WSRE 7512 PRA",
+      "brand": "beko",
+      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WSRE-7512-PRA-tqezb05r48iacn3k2lpv-300x300.jpg",
+      "price": 959,
+      "id": 69,
+      "category": "washing_machines",
+      "management_type": "sensor",
+      "capacity": "7 kq",
+      "filterItems": {
+        "brand": "beko",
+        "management_type": "sensor",
+        "capacity": "7 kq"
+      }
+    },
+    {
+      "name": "Paltaryuyan Beko WTV 8636 XS",
+      "brand": "beko",
+      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-beko-WTV-8636-XS-hb2au1rcp6miv7g0l3ky-300x300.jpg",
+      "price": 1199,
+      "id": 70,
+      "category": "washing_machines",
+      "management_type": "elektron",
+      "capacity": "8 kq",
+      "filterItems": {
+        "brand": "beko",
+        "management_type": "elektron",
+        "capacity": "8 kq"
+      }
+    }
+  ],
   "allProducts": [
     {
       "name": "Samsung Galaxy J2 Prime",
@@ -1409,6 +1711,306 @@
         "screenPermission": "FHD (1920 x 1080)",
         "screenSize": "40 (102 sm)"
       }
+    },
+    {
+      "name": "Kondisioner Arçelik AMFDA 090",
+      "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
+      "category": "air_conditioners",
+      "brand": "arçelik",
+      "area": "30 - 35 m²",
+      "engine_type": "sadə",
+      "filterItems": {
+        "brand": "arçelik",
+        "area": "30 - 35 m²",
+        "engine_type": "sadə"
+      },
+      "price": 799,
+      "id": 51
+    },
+    {
+      "name": "Kondisioner LG A12CMH",
+      "img": "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-A12CMH-300x300.jpg",
+      "category": "air_conditioners",
+      "brand": "lg",
+      "area": "40 - 45 m²",
+      "engine_type": "inverter",
+      "filterItems": {
+        "brand": "lg",
+        "area": "40 - 45 m²",
+        "engine_type": "inverter"
+      },
+      "price": 1880,
+      "id": 56
+    },
+    {
+      "name": "Kondisioner Artel Art-12HGE32",
+      "img": "https://texnomart.az/wp-content/uploads/2022/07/texnomart-Artel-Art-12HGE32-071uloqexmfbrhp9ytj6-300x300.jpg",
+      "category": "air_conditioners",
+      "brand": "artel",
+      "area": "30 - 35 m²",
+      "engine_type": "sadə",
+      "filterItems": {
+        "brand": "artel",
+        "area": "30 - 35 m²",
+        "engine_type": "sadə"
+      },
+      "price": 899,
+      "id": 58
+    },
+    {
+      "name": "Kondisioner Arçelik 09325",
+      "img": "https://texnomart.az/wp-content/uploads/2020/11/8866311100-LO1-20180501-231326-300x300.png",
+      "category": "air_conditioners",
+      "brand": "arçelik",
+      "area": "30 - 35 m²",
+      "engine_type": "inverter",
+      "filterItems": {
+        "brand": "arçelik",
+        "area": "30 - 35 m²",
+        "engine_type": "inverter"
+      },
+      "price": 1299,
+      "id": 52
+    },
+    {
+      "name": "Kondisioner LG I18CGH",
+      "img": "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-I18CGH.NGGH-KIT-300x300.jpg",
+      "category": "air_conditioners",
+      "brand": "lg",
+      "area": "50 - 60 m²",
+      "engine_type": "inverter",
+      "filterItems": {
+        "brand": "lg",
+        "area": "50 - 60 m²",
+        "engine_type": "inverter"
+      },
+      "price": 1960,
+      "id": 57
+    },
+    {
+      "name": "Kondisioner Arçelik AMFDA 120-121",
+      "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
+      "category": "air_conditioners",
+      "brand": "arçelik",
+      "area": "40 - 45 m²",
+      "engine_type": "sadə",
+      "filterItems": {
+        "brand": "arçelik",
+        "area": "40 - 45 m²",
+        "engine_type": "sadə"
+      },
+      "price": 899,
+      "id": 53
+    },
+    {
+      "name": "Kondisioner Arçelik 18325",
+      "img": "https://texnomart.az/wp-content/uploads/2020/11/8866271100-LO1-20180501-232912-1-300x300.png",
+      "category": "air_conditioners",
+      "brand": "arçelik",
+      "area": "60 - 65 m²",
+      "engine_type": "inverter",
+      "filterItems": {
+        "brand": "arçelik",
+        "area": "60 - 65 m²",
+        "engine_type": "inverter"
+      },
+      "price": 1899,
+      "id": 54
+    },
+    {
+      "name": "Kondisioner Arçelik AMFDA 180",
+      "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
+      "category": "air_conditioners",
+      "brand": "arçelik",
+      "area": "60 - 65 m²",
+      "engine_type": "sadə",
+      "filterItems": {
+        "brand": "arçelik",
+        "area": "60 - 65 m²",
+        "engine_type": "sadə"
+      },
+      "price": 1399,
+      "id": 55
+    },
+    {
+      "name": "Kondisioner Artel ART-18HME48",
+      "img": "https://texnomart.az/wp-content/uploads/2021/06/Artel-Montana-ART-18HM-300x300.jpg",
+      "category": "air_conditioners",
+      "brand": "artel",
+      "area": "60 - 65 m²",
+      "engine_type": "sadə",
+      "filterItems": {
+        "brand": "artel",
+        "area": "60 - 65 m²",
+        "engine_type": "sadə"
+      },
+      "price": 1099,
+      "id": 59
+    },
+    {
+      "name": "Kondisioner Artel Art-12HME32",
+      "img": "https://texnomart.az/wp-content/uploads/2021/06/Artel-Montana-ART-12HM-300x300.jpg",
+      "category": "air_conditioners",
+      "brand": "artel",
+      "area": "30 - 40 m²",
+      "engine_type": "inverter",
+      "filterItems": {
+        "brand": "artel",
+        "area": "30 - 40 m²",
+        "engine_type": "inverter"
+      },
+      "price": 899,
+      "id": 60
+    },
+    {
+      "name": "Paltaryuyan Arçelik AWL 5082 S",
+      "brand": "arçelik",
+      "img": "https://texnomart.az/wp-content/uploads/2021/01/Arcelik-AWL-5082-S-300x300.jpg",
+      "price": 549,
+      "id": 61,
+      "category": "washing_machines",
+      "management_type": "mexaniki",
+      "capacity": "5 kq",
+      "filterItems": {
+        "brand": "arçelik",
+        "management_type": "mexaniki",
+        "capacity": "5 kq"
+      }
+    },
+    {
+      "name": "Paltaryuyan Arçelik 8103 YP",
+      "brand": "arçelik",
+      "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-8103-YP-7oqcpfzi190v345e6r8b-300x300.jpg",
+      "price": 999,
+      "id": 62,
+      "category": "washing_machines",
+      "management_type": "sensor",
+      "capacity": "8 kq",
+      "filterItems": {
+        "brand": "arçelik",
+        "management_type": "sensor",
+        "capacity": "8 kq"
+      }
+    },
+    {
+      "name": "Paltaryuyan Arçelik 2202 YACM",
+      "brand": "arçelik",
+      "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-2202-YACM-9wm86loeh1bk7nrxaug0-300x300.jpg",
+      "price": 1199,
+      "id": 63,
+      "category": "washing_machines",
+      "management_type": "elektron",
+      "capacity": "8 kq",
+      "filterItems": {
+        "brand": "arçelik",
+        "management_type": "elektron",
+        "capacity": "8 kq"
+      }
+    },
+    {
+      "name": "Paltaryuyan Arçelik 9103 YPS",
+      "brand": "arçelik",
+      "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-9103-YPS-1lo7ezpwjhamf0sigt59-300x300.jpg",
+      "price": 1349,
+      "id": 64,
+      "category": "washing_machines",
+      "management_type": "sensor",
+      "capacity": "9 kq",
+      "filterItems": {
+        "brand": "arçelik",
+        "management_type": "sensor",
+        "capacity": "9 kq"
+      }
+    },
+    {
+      "name": "Paltaryuyan Arçelik 6100 C",
+      "brand": "arçelik",
+      "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Arcelik-AWX-6211-W-k5hrzl7tqn0f4pci1bxw-300x300.jpg",
+      "price": 599,
+      "id": 65,
+      "category": "washing_machines",
+      "management_type": "mexaniki",
+      "capacity": "6 kq",
+      "filterItems": {
+        "brand": "arçelik",
+        "management_type": "mexaniki",
+        "capacity": "6 kq"
+      }
+    },
+    {
+      "name": "Paltaryuyan Beko WSRE 6512 PRW",
+      "brand": "beko",
+      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WSRE-6512-PRW-qiw8v67t2hjcf0ap9g4e-300x300.jpg",
+      "price": 779,
+      "id": 66,
+      "category": "washing_machines",
+      "management_type": "elektron",
+      "capacity": "6 kq",
+      "filterItems": {
+        "brand": "beko",
+        "management_type": "elektron",
+        "capacity": "6 kq"
+      }
+    },
+    {
+      "name": "Paltaryuyan Beko WTV 8636 XS",
+      "brand": "beko",
+      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-beko-WTV-8636-XS-hb2au1rcp6miv7g0l3ky-300x300.jpg",
+      "price": 1199,
+      "id": 67,
+      "category": "washing_machines",
+      "management_type": "sensor",
+      "capacity": "8 kq",
+      "filterItems": {
+        "brand": "beko",
+        "management_type": "sensor",
+        "capacity": "8 kq"
+      }
+    },
+    {
+      "name": "paltaryuyan Beko WITC 7612 B0W Nova",
+      "brand": "beko",
+      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WITC-7612-B0W-Nova-02uhewkbvo43a7gysrti-300x300.jpg",
+      "price": 1099,
+      "id": 68,
+      "category": "washing_machines",
+      "management_type": "elektron",
+      "capacity": "7 kq",
+      "filterItems": {
+        "brand": "beko",
+        "management_type": "elektron",
+        "capacity": "7 kq"
+      }
+    },
+    {
+      "name": "Paltaryuyan Beko WSRE 7512 PRA",
+      "brand": "beko",
+      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WSRE-7512-PRA-tqezb05r48iacn3k2lpv-300x300.jpg",
+      "price": 959,
+      "id": 69,
+      "category": "washing_machines",
+      "management_type": "sensor",
+      "capacity": "7 kq",
+      "filterItems": {
+        "brand": "beko",
+        "management_type": "sensor",
+        "capacity": "7 kq"
+      }
+    },
+    {
+      "name": "Paltaryuyan Beko WTV 8636 XS",
+      "brand": "beko",
+      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-beko-WTV-8636-XS-hb2au1rcp6miv7g0l3ky-300x300.jpg",
+      "price": 1199,
+      "id": 70,
+      "category": "washing_machines",
+      "management_type": "elektron",
+      "capacity": "8 kq",
+      "filterItems": {
+        "brand": "beko",
+        "management_type": "elektron",
+        "capacity": "8 kq"
+      }
     }
   ],
   "smartphonesInfo": {
@@ -1436,7 +2038,7 @@
     "description": "Cənubi Koreya şirkəti olan Samsung Electronics 1969-cu ildən dünya bazarına daxil olub. Uzun illərdir ki keyfiyyətli telefonlar, smartfonlar böyük və kiçik məişət texnikası istehsal edir. Samsung markalı telefon, smartfon, soyuducu, paltaryuyan, televizor, qabyuyan, mikrodalğalı soba, kondisioner və musiqi mərkəzi əldə etmək üçün “Texnomart”a gəlin. Samsung şirkəti bazarda ən çox seçim çeşidlərinə malik olan markalardan biridir. Bu şirkət hər büdcəni nəzərə alaraq ən ucuz modellərdən ən bahalılar və çoxfunksiyalı avadanlıqlaradək istehsal edir. İstəyinizə uyğun funksionallıqda və qiymətdə Samsung markalı məişət avadanlığı almaq üçün “Texnomart.az” saytına nəzər salmağınız kifayətdir.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-samsung-rz7y24sgfjtv6w9q1uab.jpg"
   },
-  "arcelikInfo": {
+  "arçelikInfo": {
     "title": "Arçelik",
     "description": "Türkiyənin aparıcı məişət texnikası istehsal edən şirkəti, yerli və xarici bazarların nəhəngi sayılan Arçelik 1955-ci ildən fəaliyyət göstərir. Mərkəzi İstanbulda yerləşən Arçelik şirkəti nəinki bütün Türkiyəyə, hətta Azərbaycana belə öz məhsullarını idxal edərək satışa çıxarır. “Texnomart” Arçelik şirkətinin Azərbaycandakı rəsmi distribütorudur. Yüksək keyfiyyəti ilə seçilən bu şirkət daima texnologiyalarla ayaqlaşaraq yeni nəsil məişət texnikası istehsal edir. Arçelik paltaryuyan, qabyuyan, soyuducu, qaz plitələri, sobalar, dondurucular və digər məişətdə çox istifadə olunan texnikanı hər büdcəyə uyğun, geniş seçimlərlə satışa çıxarır.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-Arcelik-aoew365tzcmp89vfruyj.jpg"
