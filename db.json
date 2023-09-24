@@ -403,13 +403,13 @@
       "category": "smart-saatlar"
     }
   ],
-  "laptops": [
+  "noutbuklar": [
     {
       "name": "Acer Nitro 5",
       "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-Acer-Nitro-5-AN515-57-54QC-3t95yesjozcw7miq6a1k.jpg",
       "price": 2799,
       "id": 30,
-      "category": "laptops",
+      "category": "noutbuklar",
       "brand": "acer",
       "memory": "512 GB",
       "ram": "8 GB",
@@ -425,7 +425,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-Acer-EX215-31-NX.EFTER_.00P-N-1-300x300.jpg",
       "price": 819,
       "id": 31,
-      "category": "laptops",
+      "category": "noutbuklar",
       "memory": "256 GB",
       "ram": "4 GB",
       "filterItems": {
@@ -442,7 +442,7 @@
       "memory": "512 GB",
       "ram": "16 GB",
       "id": 32,
-      "category": "laptops",
+      "category": "noutbuklar",
       "filterItems": {
         "brand": "hp",
         "memory": "512 GB",
@@ -455,7 +455,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/02/texnomart-Notebook-HP-255-AMD-Athlon-G8-2W1D4EA-1lnpqsa38r7oz4t06bck-300x300.jpg",
       "price": 829,
       "id": 33,
-      "category": "laptops",
+      "category": "noutbuklar",
       "memory": "256 GB",
       "ram": "4 GB",
       "filterItems": {
@@ -472,7 +472,7 @@
       "id": 34,
       "memory": "256 GB",
       "ram": "4 GB",
-      "category": "laptops",
+      "category": "noutbuklar",
       "filterItems": {
         "brand": "hp",
         "memory": "256 GB",
@@ -487,7 +487,7 @@
       "id": 36,
       "memory": "1 TB",
       "ram": "4 GB",
-      "category": "laptops",
+      "category": "noutbuklar",
       "filterItems": {
         "brand": "acer",
         "memory": "1 TB",
@@ -502,7 +502,7 @@
       "id": 37,
       "memory": "512 GB",
       "ram": "4 GB",
-      "category": "laptops",
+      "category": "noutbuklar",
       "filterItems": {
         "brand": "acer",
         "memory": "512 GB",
@@ -517,7 +517,7 @@
       "id": 38,
       "memory": "1 TB",
       "ram": "4 GB",
-      "category": "laptops",
+      "category": "noutbuklar",
       "filterItems": {
         "brand": "acer",
         "memory": "1 TB",
@@ -530,7 +530,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Notebook-HP-250-G8-Core-i5-1035G1-tvs70eqz8km3f14olbij-300x300.jpg",
       "price": 1449,
       "id": 39,
-      "category": "laptops",
+      "category": "noutbuklar",
       "memory": "500 GB",
       "ram": "4 GB",
       "filterItems": {
@@ -545,7 +545,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Notebook-HP-250-G8-Core-i5-1035G1-tvs70eqz8km3f14olbij-300x300.jpg",
       "price": 1449,
       "id": 40,
-      "category": "laptops",
+      "category": "noutbuklar",
       "memory": "500 GB",
       "ram": "4 GB",
       "filterItems": {
@@ -555,11 +555,11 @@
       }
     }
   ],
-  "air_conditioners": [
+  "kondisonerlər": [
     {
       "name": "Kondisioner Arçelik AMFDA 090",
       "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "arçelik",
       "area": "30 - 35 m²",
       "engine_type": "sadə",
@@ -574,7 +574,7 @@
     {
       "name": "Kondisioner LG A12CMH",
       "img": "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-A12CMH-300x300.jpg",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "lg",
       "area": "40 - 45 m²",
       "engine_type": "inverter",
@@ -589,7 +589,7 @@
     {
       "name": "Kondisioner Artel Art-12HGE32",
       "img": "https://texnomart.az/wp-content/uploads/2022/07/texnomart-Artel-Art-12HGE32-071uloqexmfbrhp9ytj6-300x300.jpg",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "artel",
       "area": "30 - 35 m²",
       "engine_type": "sadə",
@@ -604,7 +604,7 @@
     {
       "name": "Kondisioner Arçelik 09325",
       "img": "https://texnomart.az/wp-content/uploads/2020/11/8866311100-LO1-20180501-231326-300x300.png",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "arçelik",
       "area": "30 - 35 m²",
       "engine_type": "inverter",
@@ -619,7 +619,7 @@
     {
       "name": "Kondisioner LG I18CGH",
       "img": "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-I18CGH.NGGH-KIT-300x300.jpg",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "lg",
       "area": "50 - 60 m²",
       "engine_type": "inverter",
@@ -634,7 +634,7 @@
     {
       "name": "Kondisioner Arçelik AMFDA 120-121",
       "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "arçelik",
       "area": "40 - 45 m²",
       "engine_type": "sadə",
@@ -649,7 +649,7 @@
     {
       "name": "Kondisioner Arçelik 18325",
       "img": "https://texnomart.az/wp-content/uploads/2020/11/8866271100-LO1-20180501-232912-1-300x300.png",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "arçelik",
       "area": "60 - 65 m²",
       "engine_type": "inverter",
@@ -664,7 +664,7 @@
     {
       "name": "Kondisioner Arçelik AMFDA 180",
       "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "arçelik",
       "area": "60 - 65 m²",
       "engine_type": "sadə",
@@ -679,7 +679,7 @@
     {
       "name": "Kondisioner Artel ART-18HME48",
       "img": "https://texnomart.az/wp-content/uploads/2021/06/Artel-Montana-ART-18HM-300x300.jpg",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "artel",
       "area": "60 - 65 m²",
       "engine_type": "sadə",
@@ -694,7 +694,7 @@
     {
       "name": "Kondisioner Artel Art-12HME32",
       "img": "https://texnomart.az/wp-content/uploads/2021/06/Artel-Montana-ART-12HM-300x300.jpg",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "artel",
       "area": "30 - 40 m²",
       "engine_type": "inverter",
@@ -707,14 +707,14 @@
       "id": 60
     }
   ],
-  "televisions": [
+  "televizorlar": [
     {
       "name": "LG 55UQ81006LB.AMCN",
       "brand": "lg",
       "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-43UQ81006LB.AMCN-7cwtvml0bf1i6parhj48-300x300.jpg",
       "price": 1849,
       "id": 41,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "4K UHD (3840 x 2160)",
       "screen_size": "55 (140 sm)",
       "filterItems": {
@@ -729,7 +729,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A55-B-820-B-bc36euw4rjzhsklpfyi7-300x300.jpg",
       "price": 1499,
       "id": 49,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "4K UHD (3840 x 2160)",
       "screen_size": "55 (139 sm)",
       "filterItems": {
@@ -744,7 +744,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/01/texnomart-LG-32LM637-ab2s0lyqvw9u4hgxk7r6-300x300.jpg",
       "price": 599,
       "id": 42,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "HD (1366 x 768)",
       "screen_size": "32 (81 sm)",
       "filterItems": {
@@ -759,7 +759,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A43-B-685-A-1-pa8fmjvtyzq15whlxneu-300x300.jpg",
       "price": 999,
       "id": 48,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "FHD (1920 x 1080)",
       "screen_size": "43 (108 sm)",
       "filterItems": {
@@ -774,7 +774,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-32LQ63006LA.AMCN-zeqs0uwafg21ickl8ryx-300x300.jpg",
       "price": 649,
       "id": 45,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "FHD (1920 x 1080)",
       "screen_size": "32 (81 sm)",
       "filterItems": {
@@ -789,7 +789,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Televizor-LG-43LM5772PLA-300x300.jpg",
       "price": 1049,
       "id": 43,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "FHD (1920 x 1080)",
       "screen_size": "43 (109 sm)",
       "filterItems": {
@@ -804,7 +804,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-LG-50NANO816QA.AMCN-ehpfui0gk32or1qyz6ca.jpg",
       "price": 2099,
       "id": 44,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "4K UHD (3840 x 2160)",
       "screen_size": "55 (140 sm)",
       "filterItems": {
@@ -819,7 +819,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-32LQ63006LA.AMCN-zeqs0uwafg21ickl8ryx-300x300.jpg",
       "price": 649,
       "id": 46,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "HD (1366 x 768)",
       "screen_size": "32 (81 sm)",
       "filterItems": {
@@ -834,7 +834,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A-B-880-B-1-xbn8ufmrytck4eg79hjl-300x300.jpg",
       "price": 1999,
       "id": 47,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "4K UHD (3840 x 2160)",
       "screen_size": "65 (165 sm)",
       "filterItems": {
@@ -849,7 +849,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2020/11/texnomart-Arcelik-A40M-5870-5B-mx1e2favz96lbnspuojg-300x300.jpg",
       "price": 499,
       "id": 50,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "FHD (1920 x 1080)",
       "screen_size": "40 (102 sm)",
       "filterItems": {
@@ -859,14 +859,14 @@
       }
     }
   ],
-  "washing_machines": [
+  "paltar-yuyanlar": [
     {
       "name": "Paltaryuyan Arçelik AWL 5082 S",
       "brand": "arçelik",
       "img": "https://texnomart.az/wp-content/uploads/2021/01/Arcelik-AWL-5082-S-300x300.jpg",
       "price": 549,
       "id": 61,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "mexaniki",
       "capacity": "5 kq",
       "filterItems": {
@@ -881,7 +881,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-8103-YP-7oqcpfzi190v345e6r8b-300x300.jpg",
       "price": 999,
       "id": 62,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "sensor",
       "capacity": "8 kq",
       "filterItems": {
@@ -896,7 +896,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-2202-YACM-9wm86loeh1bk7nrxaug0-300x300.jpg",
       "price": 1199,
       "id": 63,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "elektron",
       "capacity": "8 kq",
       "filterItems": {
@@ -911,7 +911,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-9103-YPS-1lo7ezpwjhamf0sigt59-300x300.jpg",
       "price": 1349,
       "id": 64,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "sensor",
       "capacity": "9 kq",
       "filterItems": {
@@ -926,7 +926,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Arcelik-AWX-6211-W-k5hrzl7tqn0f4pci1bxw-300x300.jpg",
       "price": 599,
       "id": 65,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "mexaniki",
       "capacity": "6 kq",
       "filterItems": {
@@ -941,7 +941,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WSRE-6512-PRW-qiw8v67t2hjcf0ap9g4e-300x300.jpg",
       "price": 779,
       "id": 66,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "elektron",
       "capacity": "6 kq",
       "filterItems": {
@@ -956,7 +956,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-beko-WTV-8636-XS-hb2au1rcp6miv7g0l3ky-300x300.jpg",
       "price": 1199,
       "id": 67,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "sensor",
       "capacity": "8 kq",
       "filterItems": {
@@ -971,7 +971,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WITC-7612-B0W-Nova-02uhewkbvo43a7gysrti-300x300.jpg",
       "price": 1099,
       "id": 68,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "elektron",
       "capacity": "7 kq",
       "filterItems": {
@@ -986,7 +986,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WSRE-7512-PRA-tqezb05r48iacn3k2lpv-300x300.jpg",
       "price": 959,
       "id": 69,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "sensor",
       "capacity": "7 kq",
       "filterItems": {
@@ -1001,7 +1001,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-beko-WTV-8636-XS-hb2au1rcp6miv7g0l3ky-300x300.jpg",
       "price": 1199,
       "id": 70,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "elektron",
       "capacity": "8 kq",
       "filterItems": {
@@ -1404,7 +1404,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-Acer-Nitro-5-AN515-57-54QC-3t95yesjozcw7miq6a1k.jpg",
       "price": 2799,
       "id": 30,
-      "category": "laptops",
+      "category": "noutbuklar",
       "brand": "acer",
       "memory": "512 GB",
       "ram": "8 GB",
@@ -1420,7 +1420,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-Acer-EX215-31-NX.EFTER_.00P-N-1-300x300.jpg",
       "price": 819,
       "id": 31,
-      "category": "laptops",
+      "category": "noutbuklar",
       "memory": "256 GB",
       "ram": "4 GB",
       "filterItems": {
@@ -1437,7 +1437,7 @@
       "memory": "512 GB",
       "ram": "16 GB",
       "id": 32,
-      "category": "laptops",
+      "category": "noutbuklar",
       "filterItems": {
         "brand": "hp",
         "memory": "512 GB",
@@ -1450,7 +1450,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/02/texnomart-Notebook-HP-255-AMD-Athlon-G8-2W1D4EA-1lnpqsa38r7oz4t06bck-300x300.jpg",
       "price": 829,
       "id": 33,
-      "category": "laptops",
+      "category": "noutbuklar",
       "memory": "256 GB",
       "ram": "4 GB",
       "filterItems": {
@@ -1467,7 +1467,7 @@
       "id": 34,
       "memory": "256 GB",
       "ram": "4 GB",
-      "category": "laptops",
+      "category": "noutbuklar",
       "filterItems": {
         "brand": "hp",
         "memory": "256 GB",
@@ -1495,7 +1495,7 @@
       "id": 36,
       "memory": "1 TB",
       "ram": "4 GB",
-      "category": "laptops",
+      "category": "noutbuklar",
       "filterItems": {
         "brand": "acer",
         "memory": "1 TB",
@@ -1510,7 +1510,7 @@
       "id": 37,
       "memory": "512 GB",
       "ram": "4 GB",
-      "category": "laptops",
+      "category": "noutbuklar",
       "filterItems": {
         "brand": "acer",
         "memory": "512 GB",
@@ -1525,7 +1525,7 @@
       "id": 38,
       "memory": "1 TB",
       "ram": "4 GB",
-      "category": "laptops",
+      "category": "noutbuklar",
       "filterItems": {
         "brand": "acer",
         "memory": "1 TB",
@@ -1538,7 +1538,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Notebook-HP-250-G8-Core-i5-1035G1-tvs70eqz8km3f14olbij-300x300.jpg",
       "price": 1449,
       "id": 39,
-      "category": "laptops",
+      "category": "noutbuklar",
       "memory": "500 GB",
       "ram": "4 GB",
       "filterItems": {
@@ -1553,7 +1553,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Notebook-HP-250-G8-Core-i5-1035G1-tvs70eqz8km3f14olbij-300x300.jpg",
       "price": 1449,
       "id": 40,
-      "category": "laptops",
+      "category": "noutbuklar",
       "memory": "500 GB",
       "ram": "4 GB",
       "filterItems": {
@@ -1568,7 +1568,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-43UQ81006LB.AMCN-7cwtvml0bf1i6parhj48-300x300.jpg",
       "price": 1849,
       "id": 41,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "4K UHD (3840 x 2160)",
       "screen_size": "55 (140 sm)",
       "filterItems": {
@@ -1583,7 +1583,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A55-B-820-B-bc36euw4rjzhsklpfyi7-300x300.jpg",
       "price": 1499,
       "id": 49,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "4K UHD (3840 x 2160)",
       "screen_size": "55 (139 sm)",
       "filterItems": {
@@ -1598,7 +1598,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/01/texnomart-LG-32LM637-ab2s0lyqvw9u4hgxk7r6-300x300.jpg",
       "price": 599,
       "id": 42,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "HD (1366 x 768)",
       "screen_size": "32 (81 sm)",
       "filterItems": {
@@ -1613,7 +1613,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A43-B-685-A-1-pa8fmjvtyzq15whlxneu-300x300.jpg",
       "price": 999,
       "id": 48,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "FHD (1920 x 1080)",
       "screen_size": "43 (108 sm)",
       "filterItems": {
@@ -1628,7 +1628,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-32LQ63006LA.AMCN-zeqs0uwafg21ickl8ryx-300x300.jpg",
       "price": 649,
       "id": 45,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "FHD (1920 x 1080)",
       "screen_size": "32 (81 sm)",
       "filterItems": {
@@ -1643,7 +1643,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Televizor-LG-43LM5772PLA-300x300.jpg",
       "price": 1049,
       "id": 43,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "FHD (1920 x 1080)",
       "screen_size": "43 (109 sm)",
       "filterItems": {
@@ -1658,7 +1658,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-LG-50NANO816QA.AMCN-ehpfui0gk32or1qyz6ca.jpg",
       "price": 2099,
       "id": 44,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "4K UHD (3840 x 2160)",
       "screen_size": "55 (140 sm)",
       "filterItems": {
@@ -1673,7 +1673,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-32LQ63006LA.AMCN-zeqs0uwafg21ickl8ryx-300x300.jpg",
       "price": 649,
       "id": 46,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "HD (1366 x 768)",
       "screen_size": "32 (81 sm)",
       "filterItems": {
@@ -1688,7 +1688,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A-B-880-B-1-xbn8ufmrytck4eg79hjl-300x300.jpg",
       "price": 1999,
       "id": 47,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "4K UHD (3840 x 2160)",
       "screen_size": "65 (165 sm)",
       "filterItems": {
@@ -1703,7 +1703,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2020/11/texnomart-Arcelik-A40M-5870-5B-mx1e2favz96lbnspuojg-300x300.jpg",
       "price": 499,
       "id": 50,
-      "category": "televisions",
+      "category": "televizorlar",
       "screen_permission": "FHD (1920 x 1080)",
       "screen_size": "40 (102 sm)",
       "filterItems": {
@@ -1715,7 +1715,7 @@
     {
       "name": "Kondisioner Arçelik AMFDA 090",
       "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "arçelik",
       "area": "30 - 35 m²",
       "engine_type": "sadə",
@@ -1730,7 +1730,7 @@
     {
       "name": "Kondisioner LG A12CMH",
       "img": "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-A12CMH-300x300.jpg",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "lg",
       "area": "40 - 45 m²",
       "engine_type": "inverter",
@@ -1745,7 +1745,7 @@
     {
       "name": "Kondisioner Artel Art-12HGE32",
       "img": "https://texnomart.az/wp-content/uploads/2022/07/texnomart-Artel-Art-12HGE32-071uloqexmfbrhp9ytj6-300x300.jpg",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "artel",
       "area": "30 - 35 m²",
       "engine_type": "sadə",
@@ -1760,7 +1760,7 @@
     {
       "name": "Kondisioner Arçelik 09325",
       "img": "https://texnomart.az/wp-content/uploads/2020/11/8866311100-LO1-20180501-231326-300x300.png",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "arçelik",
       "area": "30 - 35 m²",
       "engine_type": "inverter",
@@ -1775,7 +1775,7 @@
     {
       "name": "Kondisioner LG I18CGH",
       "img": "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-I18CGH.NGGH-KIT-300x300.jpg",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "lg",
       "area": "50 - 60 m²",
       "engine_type": "inverter",
@@ -1790,7 +1790,7 @@
     {
       "name": "Kondisioner Arçelik AMFDA 120-121",
       "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "arçelik",
       "area": "40 - 45 m²",
       "engine_type": "sadə",
@@ -1805,7 +1805,7 @@
     {
       "name": "Kondisioner Arçelik 18325",
       "img": "https://texnomart.az/wp-content/uploads/2020/11/8866271100-LO1-20180501-232912-1-300x300.png",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "arçelik",
       "area": "60 - 65 m²",
       "engine_type": "inverter",
@@ -1820,7 +1820,7 @@
     {
       "name": "Kondisioner Arçelik AMFDA 180",
       "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "arçelik",
       "area": "60 - 65 m²",
       "engine_type": "sadə",
@@ -1835,7 +1835,7 @@
     {
       "name": "Kondisioner Artel ART-18HME48",
       "img": "https://texnomart.az/wp-content/uploads/2021/06/Artel-Montana-ART-18HM-300x300.jpg",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "artel",
       "area": "60 - 65 m²",
       "engine_type": "sadə",
@@ -1850,7 +1850,7 @@
     {
       "name": "Kondisioner Artel Art-12HME32",
       "img": "https://texnomart.az/wp-content/uploads/2021/06/Artel-Montana-ART-12HM-300x300.jpg",
-      "category": "air_conditioners",
+      "category": "kondisonerlər",
       "brand": "artel",
       "area": "30 - 40 m²",
       "engine_type": "inverter",
@@ -1868,7 +1868,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/01/Arcelik-AWL-5082-S-300x300.jpg",
       "price": 549,
       "id": 61,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "mexaniki",
       "capacity": "5 kq",
       "filterItems": {
@@ -1883,7 +1883,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-8103-YP-7oqcpfzi190v345e6r8b-300x300.jpg",
       "price": 999,
       "id": 62,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "sensor",
       "capacity": "8 kq",
       "filterItems": {
@@ -1898,7 +1898,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-2202-YACM-9wm86loeh1bk7nrxaug0-300x300.jpg",
       "price": 1199,
       "id": 63,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "elektron",
       "capacity": "8 kq",
       "filterItems": {
@@ -1913,7 +1913,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-9103-YPS-1lo7ezpwjhamf0sigt59-300x300.jpg",
       "price": 1349,
       "id": 64,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "sensor",
       "capacity": "9 kq",
       "filterItems": {
@@ -1928,7 +1928,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Arcelik-AWX-6211-W-k5hrzl7tqn0f4pci1bxw-300x300.jpg",
       "price": 599,
       "id": 65,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "mexaniki",
       "capacity": "6 kq",
       "filterItems": {
@@ -1943,7 +1943,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WSRE-6512-PRW-qiw8v67t2hjcf0ap9g4e-300x300.jpg",
       "price": 779,
       "id": 66,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "elektron",
       "capacity": "6 kq",
       "filterItems": {
@@ -1958,7 +1958,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-beko-WTV-8636-XS-hb2au1rcp6miv7g0l3ky-300x300.jpg",
       "price": 1199,
       "id": 67,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "sensor",
       "capacity": "8 kq",
       "filterItems": {
@@ -1973,7 +1973,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WITC-7612-B0W-Nova-02uhewkbvo43a7gysrti-300x300.jpg",
       "price": 1099,
       "id": 68,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "elektron",
       "capacity": "7 kq",
       "filterItems": {
@@ -1988,7 +1988,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WSRE-7512-PRA-tqezb05r48iacn3k2lpv-300x300.jpg",
       "price": 959,
       "id": 69,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "sensor",
       "capacity": "7 kq",
       "filterItems": {
@@ -2003,7 +2003,7 @@
       "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-beko-WTV-8636-XS-hb2au1rcp6miv7g0l3ky-300x300.jpg",
       "price": 1199,
       "id": 70,
-      "category": "washing_machines",
+      "category": "paltar-yuyanlar",
       "management_type": "elektron",
       "capacity": "8 kq",
       "filterItems": {
@@ -2018,12 +2018,12 @@
     "description": "Məşhur brend smartfonlar üçün “Texnomart”a müraciət etmək ən doğrusudur. Mağazamızda ən son telefon modelləri ilə tanış olaraq onları sərfəli qiymətə əldə edə bilərsiniz. Müasir dövrdə telefonlardan yalnız zənglər üçün deyil, həm də şəkillər, videolar çəkmək və internetə daxil olmaq üçün istifadə edirlər. Telefonlar gündəlik həyatımızın ayrılmaz hissəsinə çevrilib. Mobil telefonlar, telefon modelləri, ən son model smartfonların funksiyaları ilə tanış olmaq üçün “Texnomart.az” saytına baş çəkin. Mobil telefon almaq dövrümüzün ən aktual alış-verişlərindəndir. Mobil telefonlar bir-birindən funksiya, dizayn və parametrlərinə görə fərqlənir. Dünyaca məşhur brend markalar hər kəsin büdcəsini nəzərə alaraq fərqli qiymət diapazonunda smartfonlar istehsal edir. Sərfəli qiymətə telefon yeniləmək istəyirsinizsə, “Texnomart”a baş çəkin. Kiçik büdcə ilə də keyfiyyətli smartfona sahib ola bilərsiniz. Səmərəli təkliflər və sərfəli qiymətdən faydalanmağa tələsin. Mobil telefonların növləri zamanla həm fiziki, həm də məzmun baxımından dəyişdi. Bu cihazlar günümüzün qabaqcıl xüsusiyyətlərini əldə etməmişdən əvvəl daha çox düyməli olan mobil telefonlar kimi qarşımıza çıxdılar. Düyməli telefonlar çox xüsusiyyətləri olmayan, bir neçə sadə oyunu ehtiva edən və mürəkkəb olmayan məhsullar olaraq həyatımıza rəng qatdı. Zamanla inkişaf edən bu cihazlar yaşadığımız dövrdə sensorlu mobil telefonlar olaraq həyatımızı asanlaşdırır. Cari dövrdəki mobil telefon növləri,istifadəsinə görə ilk çıxan mobil telefonlara görə olduqca fərqlidir.Bu gün istifadə sahələri dəyişdiyi üçün daha geniş bir ekrana sahib olan bu smartfonlar,keçmişdə müxtəlif fiziki xüsusiyyətlərə də sahib idi.Bunlara nümunə olaraq,sürüşdürülən və qapaqlı mobil telefonları göstərmək olar.Xüsusi ilə qatlanan telefonlar ən çox seçilənlər arasında idi. Telefon istehsalçıları son zamanlar istifadəçilərin çox bəyəndiyi bu funksiyanı yeni nəsil cihazlarda istifadə etməyə başlayıb. Mobil telefon tövsiyələri ilə bağlı rəyləri oxumaq, satın almadan əvvəl meyarlarınıza uyğun olan cihazı seçməyinizə kömək edəcək. Misal üçün; əgər smartfonu iş həyatında geniş şəkildə istifadə edirsinizsə, tutum və xüsusiyyətlər baxımından daha əhatəli bir cihaz seçimi sizin xeyrinizə olacaq.Bu səbəblə daha çox yaddaş tutumlu telefon daha çox işinizi asanlaşdıracaq.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-Smartfon-Samsung-Z-Fold-3-12-256-GB-silver-600x600-eoq7lvrn0gsawjy3fi8b.jpg"
   },
-  "laptops_info": {
+  "noutbuklar_info": {
     "title": "Noutbuklar",
     "description": "Notbuk qiymətləri ilə maraqlanmaq üçün “Texnomart.az” saytına xoş gəlmisiniz. Notbuklar ən müasir kompüter cihazlarıdır. Stasionar, masaüstü kompüterlərdən əsas fərqi ölçüsündədir. Texnologiya inkişaf etdikcə kompüterlər və notbuklar da günü-gündən inkişaf edərək daha da yenilənir. Belə dəyişikliklər istifadəçilər üçün funksionallıq və qiymət diapazonu yaradaraq onlara seçim etmək imkanı verir. Notbuklardan fərqli peşə sahələrində istifadə olunur. Hər peşə sahəsinin iş yükünün tələblərinə uyğun funksionallıqda notbuk almaq mümkündür. Geniş çeşiddə notbuk seçimlərinə nəzər saldıqda anlamaq olur ki, artıq ən sadə sahələr üçün belə bu cihazlar mütləqdir. İnformasiya texnologiyaları sahəsində çalışan kompüter mühəndisi və ya ağır layihələr hazırlayan dizaynerlər üçün ən yüksək səviyyəli, güclü və keyfiyyətli notbuklar əldə etmək vacibdir. “Texnomart”da sizə sərfəli olan notbuku tapa biləcəksiniz.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-notebook-qyeum1lbra8s249j5xgz.jpg"
   },
-  "televisions_info": {
+  "televizorlar_info": {
     "title": "Televizorlar",
     "description": "Texnologiya inkişaf etdikcə, televizor modelləri də sürətli dəyişir. Artıq lampalı televizorlar çoxdan aktuallıqlarını itirib, onların yerinə nazik TV-lər keçərək interyerə gözəllik, asudə vaxta isə əyləncə qatmaq üçün istehsal olunur. Oyunlar oynamaq, serial və filmlər izləmək üçün televizordan istifadə edə bilərsiniz. Televizor almaq məsuliyyətli işdir. Bu avadanlıqdan evin hər bir üzvünün istifadə edəcəyini nəzərə alaraq onların da ehtiyaclarının ödənməsi mütləqdir. Gənc nəsil internetə çıxışı olan smart TV-lərə üstünlük verir. Bu televizorlar sayəsində yalnız kabel TV kanallarına deyil, həm də internetdən onlayn TV-lər izləmək mümkündür. Müasir dövrdə televizorların funksionallıqları genişdir. Müxtəlif çeşiddə brend markaların televizorlarını almaq üçün “Texnomart”a gəlməyiniz ən doğru seçimdir. Texnoloji inkişaf sayəsində LED ekran Plazma televizorlar meydana çıxdı. Bu tip ekranlı televizorlar rəngləri daha dəqiq və keyfiyyətli ötürərək dərin və dolğun görüntü sərgiləyir.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-televizorlar-08sxkua5byc9e6gh2mt1.jpg"
@@ -2033,12 +2033,12 @@
     "description": "Son zamanlar dünyada məşhurlaşan sağlam həyat tərzi trendi gündəlik rutinimizə yeni qadcetlərdən istifadəni də gətirdi. Onlardan biri smart saatdır. Smart saat almaq və gündəlik olaraq istifadə etmək sizi aktiv həyat tərzinə sövq edəcək. Ölçülən addımların sayı sizi özünüzlə rəqabətə girərək hər gün daha çox piyada gəzməyə vadar edəcək. Smart saatlar bir-birindən dizaynına, parametrlərinə və funksionallıqlarına görə fərqlənir. Fitnes qolbaq və smart saatı səhv salmamaq vacibdir! Smart saat addım sayır, nəbzi ölçür, qandakı oksigenin miqdarını göstərir, zəngləri qəbul və ya imtina edir, bildirişləri ekranda göstərir və telefon əlinizin altında deyilsə, onları cavablandırmağa yardımçı olur. Telefonunuzu məkanda itirsəniz, smart saat vasitəsilə siqnal göndərərək tapa bilərsiniz. Smart saatlar həm də gur işıq verərək fənər rolunu oynaya bilər. Dünyanın bir çox tanınmış brendləri, məsələn, Xiaomi, Apple, Samsung və s. smart saatlar istehsal edirlər. Onların qiymət aralıqları fərqlidir və hər kəs öz büdcəsinə uyğun olanını seçə bilər.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-sm-r840nzsacis_1-bf4ukqjrnta9powxl7se.jpg"
   },
-  "washing_machines_info": {
+  "paltar-yuyanlar_info": {
     "title": "Paltaryuyanlar",
     "description": "Geniş çeşiddə paltaryuyan modelləri və qiymətləri ilə “Texnomart”da tanış ola bilərsiniz. Bu böyük məişət texnikası evdə əvəzolunmazdır. Paltaryuyan maşın həm tək yaşayanların, həm də böyük ailələrin çox köməyinə çatır. Müasir dövrdə həyatı paltaryuyan maşın olmadan təsəvvür etmək mümkün deyil. Dünya bazarında müxtəlif funksiyalara və tutuma malik brend paltaryuyan modelləri satılır. Paltaryuyan seçimində vacib məqamlardan biri büdcəniz və tələblərinizdir. Brend paltayuyanın qiyməti, keyfiyyəti və göstəricilərindən razı qalmaq üçün istəklərinizi dəqiq bilməlisiniz. Evdar xanımların köməyinə çatan paltaryuyan maşınların qiyməti tutumundan, funksiyalarından, fiziki, texniki parametrlərindən və enerji sərfiyyatından asılır. Dünya bazarında məhsullarını nümayiş etdirən aparıcı brendlər geniş çeşiddə paltaryuyanlar təklif edir. Paltaryuyan maşının xüsusilə zəruri olmasını körpə və azyaşlı uşaqların olduğu evlərdə müşahidə edirik. Bu cür evlərdə uşaq paltarları yumaq funksiyalı paltaryuyan maşının olması vacibdir. Həmin funksiya körpənin geyimini lazımlı temperaturda yuyaraq bir neçə dəfə yaxalayır, körpəni mikroblardan və yuyucu toza qarşı olan allergik reaksiyadan qoruyur. “Texnomart” sizə geniş çeşidli, LG, Samsung, Arçelik və s. kimi dünya brendlərinin təklif etdiyi paltaryuyan maşınları təqdim edir. Büdcəyə qənaət edərək düzgün seçim edin.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-stiralnaya-mashina-samsung-wd10t654cbxlp-sf5rqkjecmlt2iphubox.jpg"
   },
-  "air_conditioners_info": {
+  "kondisonerlər_info": {
     "title": "Kondisionerlər",
     "description": "Kondisioner almaq məsuliyyətli işdir. Kondisionerlər məkanı soyutmaq və ya isitmək üçün istifadə olunan məişət avadanlığıdır. Bu cihazın düzgün işləməsi üçün onu məkanın sahəsinə uyğun olaraq almaq lazımdır. Kondisionerdən ilin istənilən vaxtı istifadə etmək mümkündür. Müasir dövrdə fərqli funksionallığa malik olan geniş kondisioner çeşidləri mövcuddur. Ucuz qiymətə split kondisioner almaq istəyənlər “Texnomart”a gəlsinlər. İsti yay aylarını kondisionerlərsiz təsəvvür etmək mümkün deyil. Kondisioner seçimi zamanı quraşdırılacaq məkanın sahəsini müəyyənləşdirmək, marka seçimi etmək və funksionallığa diqqət yetirmək lazımdır ki, arzuolunmaz funksiyalar üçün əlavə pul ödəməyəsiniz. Büdcənizi nəzərə almağınız mütləqdir.",
     "img": "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-A24CMH-3.jpg"
