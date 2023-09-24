@@ -271,7 +271,7 @@
       "id": 17
     }
   ],
-  "smartwatches": [
+  "smart-saatlar": [
     {
       "name": "Samsung Galaxy Watch 5",
       "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Samsung-Galaxy-Watch-5-44mm-gray-14cw6q9lhsf8yp57oizk-300x300.jpg",
@@ -283,7 +283,7 @@
         "brand": "samsung",
         "operation_time": "40 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Samsung Galaxy Watch 4",
@@ -296,7 +296,7 @@
         "brand": "samsung",
         "operation_time": "40 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Samsung Galaxy 4 Classic 46mm",
@@ -309,7 +309,7 @@
         "brand": "samsung",
         "operation_time": "40 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Samsung Galaxy 4 Classic 42mm",
@@ -322,7 +322,7 @@
         "brand": "samsung",
         "operation_time": "40 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Samsung Galaxy Watch 4 44mm",
@@ -335,7 +335,7 @@
         "brand": "samsung",
         "operation_time": "40 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Huawei Band 7",
@@ -348,7 +348,7 @@
         "brand": "huawei",
         "operation_time": "240 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Huawei GT 3 46mm Active",
@@ -361,7 +361,7 @@
         "brand": "huawei",
         "operation_time": "336 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Huawei GT 2 Sport 46mm",
@@ -374,7 +374,7 @@
         "brand": "huawei",
         "operation_time": "336 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Huawei Band 6",
@@ -387,7 +387,7 @@
         "brand": "huawei",
         "operation_time": "240 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Xiaomi Redmi Watch 2",
@@ -400,7 +400,7 @@
         "brand": "xiaomi",
         "operation_time": "240 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     }
   ],
   "laptops": [
@@ -1293,7 +1293,7 @@
         "brand": "samsung",
         "operation_time": "40 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Samsung Galaxy Watch 4",
@@ -1306,7 +1306,7 @@
         "brand": "samsung",
         "operation_time": "40 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Samsung Galaxy 4 Classic 46mm",
@@ -1319,7 +1319,7 @@
         "brand": "samsung",
         "operation_time": "40 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Samsung Galaxy 4 Classic 42mm",
@@ -1332,7 +1332,7 @@
         "brand": "samsung",
         "operation_time": "40 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Samsung Galaxy Watch 4 44mm",
@@ -1345,7 +1345,7 @@
         "brand": "samsung",
         "operation_time": "40 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Huawei Band 7",
@@ -1358,7 +1358,7 @@
         "brand": "huawei",
         "operation_time": "240 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Huawei GT 3 46mm Active",
@@ -1371,7 +1371,7 @@
         "brand": "huawei",
         "operation_time": "336 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Huawei GT 2 Sport 46mm",
@@ -1384,7 +1384,7 @@
         "brand": "huawei",
         "operation_time": "336 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Huawei Band 6",
@@ -1397,7 +1397,7 @@
         "brand": "huawei",
         "operation_time": "240 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Acer Nitro 5",
@@ -1485,7 +1485,7 @@
         "brand": "xiaomi",
         "operation_time": "240 saat"
       },
-      "category": "smartwatches"
+      "category": "smart-saatlar"
     },
     {
       "name": "Acer Aspire",
@@ -2028,7 +2028,7 @@
     "description": "Texnologiya inkişaf etdikcə, televizor modelləri də sürətli dəyişir. Artıq lampalı televizorlar çoxdan aktuallıqlarını itirib, onların yerinə nazik TV-lər keçərək interyerə gözəllik, asudə vaxta isə əyləncə qatmaq üçün istehsal olunur. Oyunlar oynamaq, serial və filmlər izləmək üçün televizordan istifadə edə bilərsiniz. Televizor almaq məsuliyyətli işdir. Bu avadanlıqdan evin hər bir üzvünün istifadə edəcəyini nəzərə alaraq onların da ehtiyaclarının ödənməsi mütləqdir. Gənc nəsil internetə çıxışı olan smart TV-lərə üstünlük verir. Bu televizorlar sayəsində yalnız kabel TV kanallarına deyil, həm də internetdən onlayn TV-lər izləmək mümkündür. Müasir dövrdə televizorların funksionallıqları genişdir. Müxtəlif çeşiddə brend markaların televizorlarını almaq üçün “Texnomart”a gəlməyiniz ən doğru seçimdir. Texnoloji inkişaf sayəsində LED ekran Plazma televizorlar meydana çıxdı. Bu tip ekranlı televizorlar rəngləri daha dəqiq və keyfiyyətli ötürərək dərin və dolğun görüntü sərgiləyir.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-televizorlar-08sxkua5byc9e6gh2mt1.jpg"
   },
-  "smartwatches_info": {
+  "smart-saatlar_info": {
     "title": "Smart saatlar",
     "description": "Son zamanlar dünyada məşhurlaşan sağlam həyat tərzi trendi gündəlik rutinimizə yeni qadcetlərdən istifadəni də gətirdi. Onlardan biri smart saatdır. Smart saat almaq və gündəlik olaraq istifadə etmək sizi aktiv həyat tərzinə sövq edəcək. Ölçülən addımların sayı sizi özünüzlə rəqabətə girərək hər gün daha çox piyada gəzməyə vadar edəcək. Smart saatlar bir-birindən dizaynına, parametrlərinə və funksionallıqlarına görə fərqlənir. Fitnes qolbaq və smart saatı səhv salmamaq vacibdir! Smart saat addım sayır, nəbzi ölçür, qandakı oksigenin miqdarını göstərir, zəngləri qəbul və ya imtina edir, bildirişləri ekranda göstərir və telefon əlinizin altında deyilsə, onları cavablandırmağa yardımçı olur. Telefonunuzu məkanda itirsəniz, smart saat vasitəsilə siqnal göndərərək tapa bilərsiniz. Smart saatlar həm də gur işıq verərək fənər rolunu oynaya bilər. Dünyanın bir çox tanınmış brendləri, məsələn, Xiaomi, Apple, Samsung və s. smart saatlar istehsal edirlər. Onların qiymət aralıqları fərqlidir və hər kəs öz büdcəsinə uyğun olanını seçə bilər.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-sm-r840nzsacis_1-bf4ukqjrnta9powxl7se.jpg"
