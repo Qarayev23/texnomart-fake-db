@@ -1,8 +1,8 @@
 {
-  "smartphones": [
+  "smartfonlar": [
     {
       "name": "Samsung Galaxy J2 Prime",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-J2-Prime-Black.jpg",
       "price": 149,
       "brand": "samsung",
@@ -18,7 +18,7 @@
     {
       "name": "Xiaomi Redmi 9 Purple",
       "img": "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-7ymvbgu04qepj61koc8a-300x300.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "32 GB",
       "ram": "3 GB",
@@ -33,7 +33,7 @@
     {
       "name": "Xiaomi Redmi Note 11 Pro",
       "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-jkycruxoi43mvg1wel76.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "256 GB",
       "ram": "8 GB",
@@ -48,7 +48,7 @@
     {
       "name": "Samsung Galaxy S22",
       "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-Galaxy-S22-Pink-Gold-lrv6ejxq94in8h530pko-600x600.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "samsung",
       "memory": "128 GB",
       "ram": "8 GB",
@@ -63,7 +63,7 @@
     {
       "name": "Samsung Z Flip 3",
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-1-1-600x600.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "samsung",
       "memory": "256 GB",
       "ram": "8 GB",
@@ -78,7 +78,7 @@
     {
       "name": "Xiaomi 12 Lite",
       "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-koq25umiy0c7npxza1jl.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "256 GB",
       "ram": "8 GB",
@@ -93,7 +93,7 @@
     {
       "name": "Samsung A03S",
       "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-u92a6inhk17vyfxmpc3l-600x600.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "samsung",
       "memory": "64 GB",
       "ram": "4 GB",
@@ -108,7 +108,7 @@
     {
       "name": "Xiaomi Poco F4 Pro",
       "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-silver-9z34vkejrt86oixspman.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "256 GB",
       "ram": "8 GB",
@@ -123,7 +123,7 @@
     {
       "name": "Xiaomi Redmi Note 9S",
       "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9S-blue-all-600x600.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "64 GB",
       "ram": "4 GB",
@@ -138,7 +138,7 @@
     {
       "name": "Xiaomi Poco X3",
       "img": "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-all-1-600x600.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "128 GB",
       "ram": "6 GB",
@@ -153,7 +153,7 @@
     {
       "name": "Xiaomi POCO X3 Pro",
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-600x600.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "256 GB",
       "ram": "6 GB",
@@ -177,7 +177,7 @@
         "memory": "16 GB",
         "ram": "2 GB"
       },
-      "category": "smartphones",
+      "category": "smartfonlar",
       "id": 11
     },
     {
@@ -192,7 +192,7 @@
         "memory": "32 GB",
         "ram": "3 GB"
       },
-      "category": "smartphones",
+      "category": "smartfonlar",
       "id": 12
     },
     {
@@ -207,7 +207,7 @@
         "memory": "128 GB",
         "ram": "8 GB"
       },
-      "category": "smartphones",
+      "category": "smartfonlar",
       "id": 13
     },
     {
@@ -222,7 +222,7 @@
         "memory": "256 GB",
         "ram": "8 GB"
       },
-      "category": "smartphones",
+      "category": "smartfonlar",
       "id": 14
     },
     {
@@ -237,7 +237,7 @@
         "memory": "128 GB",
         "ram": "4 GB"
       },
-      "category": "smartphones",
+      "category": "smartfonlar",
       "id": 15
     },
     {
@@ -252,7 +252,7 @@
         "memory": "64 GB",
         "ram": "4 GB"
       },
-      "category": "smartphones",
+      "category": "smartfonlar",
       "id": 16
     },
     {
@@ -267,7 +267,7 @@
         "memory": "64 GB",
         "ram": "3 GB"
       },
-      "category": "smartphones",
+      "category": "smartfonlar",
       "id": 17
     }
   ],
@@ -1014,7 +1014,7 @@
   "allProducts": [
     {
       "name": "Samsung Galaxy J2 Prime",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-J2-Prime-Black.jpg",
       "price": 149,
       "brand": "samsung",
@@ -1030,7 +1030,7 @@
     {
       "name": "Xiaomi Redmi 9 Purple",
       "img": "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-7ymvbgu04qepj61koc8a-300x300.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "32 GB",
       "ram": "3 GB",
@@ -1045,7 +1045,7 @@
     {
       "name": "Xiaomi Redmi Note 11 Pro",
       "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-jkycruxoi43mvg1wel76.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "256 GB",
       "ram": "8 GB",
@@ -1060,7 +1060,7 @@
     {
       "name": "Samsung Galaxy S22",
       "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-Galaxy-S22-Pink-Gold-lrv6ejxq94in8h530pko-600x600.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "samsung",
       "memory": "128 GB",
       "ram": "8 GB",
@@ -1075,7 +1075,7 @@
     {
       "name": "Samsung Z Flip 3",
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-1-1-600x600.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "samsung",
       "memory": "256 GB",
       "ram": "8 GB",
@@ -1090,7 +1090,7 @@
     {
       "name": "Xiaomi 12 Lite",
       "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-koq25umiy0c7npxza1jl.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "256 GB",
       "ram": "8 GB",
@@ -1105,7 +1105,7 @@
     {
       "name": "Samsung A03S",
       "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-u92a6inhk17vyfxmpc3l-600x600.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "samsung",
       "memory": "64 GB",
       "ram": "4 GB",
@@ -1120,7 +1120,7 @@
     {
       "name": "Xiaomi Poco F4 Pro",
       "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-silver-9z34vkejrt86oixspman.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "256 GB",
       "ram": "8 GB",
@@ -1135,7 +1135,7 @@
     {
       "name": "Xiaomi Redmi Note 9S",
       "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9S-blue-all-600x600.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "64 GB",
       "ram": "4 GB",
@@ -1150,7 +1150,7 @@
     {
       "name": "Xiaomi Poco X3",
       "img": "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-all-1-600x600.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "128 GB",
       "ram": "6 GB",
@@ -1165,7 +1165,7 @@
     {
       "name": "Xiaomi POCO X3 Pro",
       "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-600x600.jpg",
-      "category": "smartphones",
+      "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "256 GB",
       "ram": "6 GB",
@@ -1189,7 +1189,7 @@
         "memory": "16 GB",
         "ram": "2 GB"
       },
-      "category": "smartphones",
+      "category": "smartfonlar",
       "id": 11
     },
     {
@@ -1204,7 +1204,7 @@
         "memory": "32 GB",
         "ram": "3 GB"
       },
-      "category": "smartphones",
+      "category": "smartfonlar",
       "id": 12
     },
     {
@@ -1219,7 +1219,7 @@
         "memory": "128 GB",
         "ram": "8 GB"
       },
-      "category": "smartphones",
+      "category": "smartfonlar",
       "id": 13
     },
     {
@@ -1234,7 +1234,7 @@
         "memory": "256 GB",
         "ram": "8 GB"
       },
-      "category": "smartphones",
+      "category": "smartfonlar",
       "id": 14
     },
     {
@@ -1249,7 +1249,7 @@
         "memory": "128 GB",
         "ram": "4 GB"
       },
-      "category": "smartphones",
+      "category": "smartfonlar",
       "id": 15
     },
     {
@@ -1264,7 +1264,7 @@
         "memory": "64 GB",
         "ram": "4 GB"
       },
-      "category": "smartphones",
+      "category": "smartfonlar",
       "id": 16
     },
     {
@@ -1279,7 +1279,7 @@
         "memory": "64 GB",
         "ram": "3 GB"
       },
-      "category": "smartphones",
+      "category": "smartfonlar",
       "id": 17
     },
     {
@@ -2013,7 +2013,7 @@
       }
     }
   ],
-  "smartphones_info": {
+  "smartfonlar_info": {
     "title": "Smartfonlar",
     "description": "Məşhur brend smartfonlar üçün “Texnomart”a müraciət etmək ən doğrusudur. Mağazamızda ən son telefon modelləri ilə tanış olaraq onları sərfəli qiymətə əldə edə bilərsiniz. Müasir dövrdə telefonlardan yalnız zənglər üçün deyil, həm də şəkillər, videolar çəkmək və internetə daxil olmaq üçün istifadə edirlər. Telefonlar gündəlik həyatımızın ayrılmaz hissəsinə çevrilib. Mobil telefonlar, telefon modelləri, ən son model smartfonların funksiyaları ilə tanış olmaq üçün “Texnomart.az” saytına baş çəkin. Mobil telefon almaq dövrümüzün ən aktual alış-verişlərindəndir. Mobil telefonlar bir-birindən funksiya, dizayn və parametrlərinə görə fərqlənir. Dünyaca məşhur brend markalar hər kəsin büdcəsini nəzərə alaraq fərqli qiymət diapazonunda smartfonlar istehsal edir. Sərfəli qiymətə telefon yeniləmək istəyirsinizsə, “Texnomart”a baş çəkin. Kiçik büdcə ilə də keyfiyyətli smartfona sahib ola bilərsiniz. Səmərəli təkliflər və sərfəli qiymətdən faydalanmağa tələsin. Mobil telefonların növləri zamanla həm fiziki, həm də məzmun baxımından dəyişdi. Bu cihazlar günümüzün qabaqcıl xüsusiyyətlərini əldə etməmişdən əvvəl daha çox düyməli olan mobil telefonlar kimi qarşımıza çıxdılar. Düyməli telefonlar çox xüsusiyyətləri olmayan, bir neçə sadə oyunu ehtiva edən və mürəkkəb olmayan məhsullar olaraq həyatımıza rəng qatdı. Zamanla inkişaf edən bu cihazlar yaşadığımız dövrdə sensorlu mobil telefonlar olaraq həyatımızı asanlaşdırır. Cari dövrdəki mobil telefon növləri,istifadəsinə görə ilk çıxan mobil telefonlara görə olduqca fərqlidir.Bu gün istifadə sahələri dəyişdiyi üçün daha geniş bir ekrana sahib olan bu smartfonlar,keçmişdə müxtəlif fiziki xüsusiyyətlərə də sahib idi.Bunlara nümunə olaraq,sürüşdürülən və qapaqlı mobil telefonları göstərmək olar.Xüsusi ilə qatlanan telefonlar ən çox seçilənlər arasında idi. Telefon istehsalçıları son zamanlar istifadəçilərin çox bəyəndiyi bu funksiyanı yeni nəsil cihazlarda istifadə etməyə başlayıb. Mobil telefon tövsiyələri ilə bağlı rəyləri oxumaq, satın almadan əvvəl meyarlarınıza uyğun olan cihazı seçməyinizə kömək edəcək. Misal üçün; əgər smartfonu iş həyatında geniş şəkildə istifadə edirsinizsə, tutum və xüsusiyyətlər baxımından daha əhatəli bir cihaz seçimi sizin xeyrinizə olacaq.Bu səbəblə daha çox yaddaş tutumlu telefon daha çox işinizi asanlaşdıracaq.",
     "img": "https://texnomart.az/wp-content/uploads/2021/10/texnomart-Smartfon-Samsung-Z-Fold-3-12-256-GB-silver-600x600-eoq7lvrn0gsawjy3fi8b.jpg"
