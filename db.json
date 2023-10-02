@@ -3,7 +3,12 @@
     {
       "name": "Samsung Galaxy J2 Prime",
       "category": "smartfonlar",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-J2-Prime-Black.jpg",
+      "img": [
+        "https://www.soliton.az/images/articles/2016/11/22/65352.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-J2-Prime-Black.jpg",
+        "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j2-prime-2016.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4sjzxjWiPoVoWjEAAzLZRnIr93l1jIEnJQ&usqp=CAU"
+      ],
       "price": 149,
       "brand": "samsung",
       "memory": "8 GB",
@@ -17,7 +22,12 @@
     },
     {
       "name": "Xiaomi Redmi 9 Purple",
-      "img": "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-7ymvbgu04qepj61koc8a-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-7ymvbgu04qepj61koc8a-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-1-l0z9v28cs634mtexjguo-100x100.jpg",
+        "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-2-j7lcqbhrf9weknxaig03-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-3-e3vw16jtzfpmbkurl5hs-600x600.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "32 GB",
@@ -32,7 +42,12 @@
     },
     {
       "name": "Xiaomi Redmi Note 11 Pro",
-      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-jkycruxoi43mvg1wel76.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-jkycruxoi43mvg1wel76.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-1-burxa7so5fj84mqzk1vc.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-2-z8ehcywl197krgax3tf4.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-3-b4x6tazw1m7hukryo5cf.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "256 GB",
@@ -47,7 +62,12 @@
     },
     {
       "name": "Samsung Galaxy S22",
-      "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-Galaxy-S22-Pink-Gold-lrv6ejxq94in8h530pko-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-Galaxy-S22-Pink-Gold-lrv6ejxq94in8h530pko-600x600.jpg",
+        "https://image-us.samsung.com/us/smartphones/galaxy-s22/images/gallery/R0_Exclusive-Violet/FLRC-214-R0-Violet-02-PDP-GALLERY-1600x1200.jpg?$product-details-jpg$",
+        "https://image-us.samsung.com/us/smartphones/galaxy-s22/images/gallery/R0_Exclusive-Violet/FLRC-214-R0-Violet-03-PDP-GALLERY-1600x1200.jpg?$product-details-jpg$",
+        "https://image-us.samsung.com/us/smartphones/galaxy-s22/images/gallery/R0_Exclusive-Violet/FLRC-214-R0-Violet-04-PDP-GALLERY-1600x1200.jpg?$product-details-jpg$"
+      ],
       "category": "smartfonlar",
       "brand": "samsung",
       "memory": "128 GB",
@@ -62,7 +82,12 @@
     },
     {
       "name": "Samsung Z Flip 3",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-1-1-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-1-1-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-1-2-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-3-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-9-600x600.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "samsung",
       "memory": "256 GB",
@@ -77,7 +102,12 @@
     },
     {
       "name": "Xiaomi 12 Lite",
-      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-koq25umiy0c7npxza1jl.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-koq25umiy0c7npxza1jl.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-1-c4sazv10mkj5qw83hitf.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-2-e5y4iq1wts2olzcx8juh.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-4-9cnwxzoeypt30ki612au.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "256 GB",
@@ -92,7 +122,12 @@
     },
     {
       "name": "Samsung A03S",
-      "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-u92a6inhk17vyfxmpc3l-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-u92a6inhk17vyfxmpc3l-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-1-lvtezp46uhysr1aqicow-100x100.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-3-ky3qnu2gbjx46ph5wzfv-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-4-jsbo0iqvrpyc64nhg5a9-600x600.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "samsung",
       "memory": "64 GB",
@@ -107,7 +142,12 @@
     },
     {
       "name": "Xiaomi Poco F4 Pro",
-      "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-silver-9z34vkejrt86oixspman.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-silver-9z34vkejrt86oixspman.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-Night-Black-1-euymstp8jrq5l97ib3vc.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-silver-1-ac1no3tj8ylrpxvbsghw.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-silver-9z34vkejrt86oixspman.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "256 GB",
@@ -122,7 +162,12 @@
     },
     {
       "name": "Xiaomi Redmi Note 9S",
-      "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9S-blue-all-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9S-blue-all-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Redmi-Note-9S-4-64-GB-Aurora-Blue-1-s6qcj2e1z3lxp08nym5f-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Redmi-Note-9S-4-64-GB-Aurora-Blue-2-0rsqfawop2h746ngb5k3-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Redmi-Note-9S-4-64-GB-Aurora-Blue-3-ise9j1oax60khbtr2w87-600x600.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "64 GB",
@@ -137,7 +182,12 @@
     },
     {
       "name": "Xiaomi Poco X3",
-      "img": "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-all-1-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-all-1-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-front-1-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-back-2-1-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-back-1-600x600.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "128 GB",
@@ -152,7 +202,12 @@
     },
     {
       "name": "Xiaomi POCO X3 Pro",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-1-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-2-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-3-600x600.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "256 GB",
@@ -167,7 +222,12 @@
     },
     {
       "name": "Samsung Galaxy A01",
-      "img": "https://texnomart.az/wp-content/uploads/2020/11/Samsung-Galaxy-A01-Red-all-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/11/Samsung-Galaxy-A01-Red-all-600x600.jpg",
+        "https://www.soliton.az/images/articles/2020/07/07/20200707111959557_c1_1.jpg",
+        "https://www.soliton.az/images/articles/2020/07/07/20200707111959557_c1_2.jpg",
+        "https://texnomart.az/wp-content/uploads/2020/11/Samsung-Galaxy-A01-Red-all-600x600.jpg"
+      ],
       "price": 239,
       "brand": "samsung",
       "memory": "16 GB",
@@ -182,7 +242,12 @@
     },
     {
       "name": "Samsung A12",
-      "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-A12-32-GB-SM-A125-blue-all-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/02/Samsung-A12-32-GB-SM-A125-blue-all-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Smartfon-Samsung-A12A127-128GB-Blue-1-rms1qa9pi2jwhoyk4gb3-100x100.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Smartfon-Samsung-A12A127-128GB-Blue-2-xi32phszo5f0jtybe86l-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Smartfon-Samsung-A12A127-128GB-Blue-3-goje392sarw51kulqhm6-600x600.jpg"
+      ],
       "price": 329,
       "brand": "samsung",
       "memory": "32 GB",
@@ -197,7 +262,12 @@
     },
     {
       "name": "Samsung Galaxy S21",
-      "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-Galaxy-S21-SM-G991-Grey-all-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/02/Samsung-Galaxy-S21-SM-G991-Grey-all-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/01/texnomart-Samsung-Galaxy-S21FE-5G-gray-1-8ozagpqueyhtbvxfl39r-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/01/texnomart-Samsung-Galaxy-S21FE-5G-gray-3-tskjb7r65vial0efwg2p-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/01/texnomart-Samsung-Galaxy-S21FE-5G-gray-2-p5y71vgs0chreoin98m6-100x100.jpg"
+      ],
       "price": 1899,
       "brand": "samsung",
       "memory": "128 GB",
@@ -212,7 +282,12 @@
     },
     {
       "name": "Samsung Galaxy Note 20",
-      "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-Note-20-SM-N980-bronze-all-2-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-Note-20-SM-N980-bronze-all-2-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-Note-20-SM-N980-bronze-back-1-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-Note-20-SM-N980-bronze-front-1-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-Note-20-SM-N980-bronze-front-2jpg-1-600x600.jpg"
+      ],
       "price": 1799,
       "brand": "samsung",
       "memory": "256 GB",
@@ -227,7 +302,12 @@
     },
     {
       "name": "Smartfon Samsung A52",
-      "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A52-DS-SM-A525-violet-all-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A52-DS-SM-A525-violet-all-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A52-DS-SM-A525-violet-front-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A52-DS-SM-A525-violet-back-2-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A52-DS-SM-A525-violet-back-600x600.jpg"
+      ],
       "price": 719,
       "brand": "samsung",
       "memory": "128 GB",
@@ -242,7 +322,12 @@
     },
     {
       "name": "Samsung Galaxy A32",
-      "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-all-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-all-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-front-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-back-2-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-back-600x600.jpg"
+      ],
       "price": 539,
       "brand": "samsung",
       "memory": "64 GB",
@@ -257,7 +342,12 @@
     },
     {
       "name": "Xiaomi Redmi Note 9",
-      "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9-green-all-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9-green-all-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Redmi-Note-9-Pro-green-front-2-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Redmi-Note-9-Pro-green-back-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Redmi-Note-9-Pro-green-all-2-600x600.jpg"
+      ],
       "price": 429,
       "brand": "xiaomi",
       "memory": "64 GB",
@@ -274,7 +364,12 @@
   "smart-saatlar": [
     {
       "name": "Samsung Galaxy Watch 5",
-      "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Samsung-Galaxy-Watch-5-44mm-gray-14cw6q9lhsf8yp57oizk-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Samsung-Galaxy-Watch-5-44mm-gray-14cw6q9lhsf8yp57oizk-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Samsung-Galaxy-Watch-5-40mm-Gray-1-3ch16mnvpqxbs52taz9w-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Samsung-Galaxy-Watch-5-40mm-Gray-2-l7uczkqfm9wyp5beh84x-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Samsung-Galaxy-Watch-5-44mm-gray-14cw6q9lhsf8yp57oizk-300x300.jpg"
+      ],
       "price": 649,
       "id": 21,
       "brand": "samsung",
@@ -287,7 +382,12 @@
     },
     {
       "name": "Samsung Galaxy Watch 4",
-      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-40mm-Black-umxprfkz4ge82c1n5wh0-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-40mm-Black-umxprfkz4ge82c1n5wh0-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-40mm-Black-2-q3txky6prw1slof4ig0z.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-40mm-Black-3-z0q6abhi7o8rvpnuf4jl.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-40mm-Black-4-29omczgk8r7lyt0hiqvb.jpg"
+      ],
       "price": 399,
       "id": 22,
       "brand": "samsung",
@@ -300,7 +400,12 @@
     },
     {
       "name": "Samsung Galaxy 4 Classic 46mm",
-      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-mc65x1uf04az7pkj9w3g-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-mc65x1uf04az7pkj9w3g-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-1-6znt7bmxsuyopcrk532e-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-2-nibqzf3clwjr1u50s8ov-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-3-uvhp5z0tw1o36kj8eixg-600x600.jpg"
+      ],
       "price": 699,
       "id": 23,
       "brand": "samsung",
@@ -313,7 +418,12 @@
     },
     {
       "name": "Samsung Galaxy 4 Classic 42mm",
-      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-mc65x1uf04az7pkj9w3g-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-mc65x1uf04az7pkj9w3g-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-1-6znt7bmxsuyopcrk532e-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-2-nibqzf3clwjr1u50s8ov-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-3-uvhp5z0tw1o36kj8eixg-600x600.jpg"
+      ],
       "price": 589,
       "id": 24,
       "brand": "samsung",
@@ -326,7 +436,12 @@
     },
     {
       "name": "Samsung Galaxy Watch 4 44mm",
-      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-44mm-Black-h8lqk69j1m3utn7syrgw-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-44mm-Black-h8lqk69j1m3utn7syrgw-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-1-6znt7bmxsuyopcrk532e-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-2-nibqzf3clwjr1u50s8ov-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-3-uvhp5z0tw1o36kj8eixg-600x600.jpg"
+      ],
       "price": 449,
       "id": 25,
       "brand": "samsung",
@@ -339,7 +454,12 @@
     },
     {
       "name": "Huawei Band 7",
-      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Huawei-Band-7-green-t52ib1uf09mgo68cqkv4.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Huawei-Band-7-green-t52ib1uf09mgo68cqkv4.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Huawei-Band-7-green-1-u0tsm1clevzfq258jg6h.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Huawei-Band-7-green-2-ij5xw2mlht37enp8ocau.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Huawei-Band-7-green-3-34hwscjf9r0mntqvpkb5.jpg"
+      ],
       "price": 119,
       "id": 26,
       "brand": "huawei",
@@ -352,7 +472,12 @@
     },
     {
       "name": "Huawei GT 3 46mm Active",
-      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-GT-3-46mm-Active-7yuafb48th0jip3vm1ke-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-GT-3-46mm-Active-7yuafb48th0jip3vm1ke-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-1-6znt7bmxsuyopcrk532e-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-2-nibqzf3clwjr1u50s8ov-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-3-uvhp5z0tw1o36kj8eixg-600x600.jpg"
+      ],
       "price": 579,
       "id": 27,
       "brand": "huawei",
@@ -365,7 +490,12 @@
     },
     {
       "name": "Huawei GT 2 Sport 46mm",
-      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-GT-2-Sport-46mm-Black-6nz8maxsk4yqr90vc2ob-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-GT-2-Sport-46mm-Black-6nz8maxsk4yqr90vc2ob-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-1-6znt7bmxsuyopcrk532e-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-2-nibqzf3clwjr1u50s8ov-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-3-uvhp5z0tw1o36kj8eixg-600x600.jpg"
+      ],
       "price": 399,
       "id": 28,
       "brand": "huawei",
@@ -378,7 +508,12 @@
     },
     {
       "name": "Huawei Band 6",
-      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-Band-6-Black-ybhxgnzf1w8ci45vql2r-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-Band-6-Black-ybhxgnzf1w8ci45vql2r-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-Band-6-Black-1-ft08ejpk1qomzbr4xsiw-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-Band-6-Black-2-uiz5qrkl0bex6nosafw3-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-Band-6-Black-ybhxgnzf1w8ci45vql2r-300x300.jpg"
+      ],
       "price": 139,
       "id": 29,
       "brand": "huawei",
@@ -391,7 +526,12 @@
     },
     {
       "name": "Xiaomi Redmi Watch 2",
-      "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Xiaomi-Redmi-Watch-2-Lite-Black-g0uyiqvt3oa1el76hzfs-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Xiaomi-Redmi-Watch-2-Lite-Black-g0uyiqvt3oa1el76hzfs-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Xiaomi-Redmi-Watch-2-Lite-Black-1-k1nthp85g2zfqjsb964m-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Xiaomi-Redmi-Watch-2-Lite-Black-2-cl8gvmruf43jqnyz1bt6-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Xiaomi-Redmi-Watch-2-Lite-Black-3-6j32u98eopyikm1t5hfs-600x600.jpg"
+      ],
       "price": 149,
       "id": 35,
       "brand": "xiaomi",
@@ -406,7 +546,9 @@
   "noutbuklar": [
     {
       "name": "Acer Nitro 5",
-      "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-Acer-Nitro-5-AN515-57-54QC-3t95yesjozcw7miq6a1k.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/11/texnomart-Acer-Nitro-5-AN515-57-54QC-3t95yesjozcw7miq6a1k.jpg"
+      ],
       "price": 2799,
       "id": 30,
       "category": "noutbuklar",
@@ -422,7 +564,9 @@
     {
       "name": "Acer EX215-31",
       "brand": "acer",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-Acer-EX215-31-NX.EFTER_.00P-N-1-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-Acer-EX215-31-NX.EFTER_.00P-N-1-300x300.jpg"
+      ],
       "price": 819,
       "id": 31,
       "category": "noutbuklar",
@@ -437,7 +581,9 @@
     {
       "name": "HP VICTUS 15",
       "brand": "hp",
-      "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-HP-VICTUS-15-FA0031DX-nowky0xl53ubca9rpjis.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/11/texnomart-HP-VICTUS-15-FA0031DX-nowky0xl53ubca9rpjis.jpg"
+      ],
       "price": 3219,
       "memory": "512 GB",
       "ram": "16 GB",
@@ -452,7 +598,9 @@
     {
       "name": "HP 255",
       "brand": "hp",
-      "img": "https://texnomart.az/wp-content/uploads/2022/02/texnomart-Notebook-HP-255-AMD-Athlon-G8-2W1D4EA-1lnpqsa38r7oz4t06bck-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/02/texnomart-Notebook-HP-255-AMD-Athlon-G8-2W1D4EA-1lnpqsa38r7oz4t06bck-300x300.jpg"
+      ],
       "price": 829,
       "id": 33,
       "category": "noutbuklar",
@@ -467,7 +615,9 @@
     {
       "name": "HP Pavilion 15",
       "brand": "hp",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-HP-Pavilion-15-eh0041ur-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-HP-Pavilion-15-eh0041ur-300x300.jpg"
+      ],
       "price": 1259,
       "id": 34,
       "memory": "256 GB",
@@ -482,7 +632,9 @@
     {
       "name": "Acer Aspire",
       "brand": "acer",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-Acer-A315-57G-15.6-FHD-Core-i3-1005G1-NV-MX330-2GB-4GB-1000-GB-DOS-4-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-Acer-A315-57G-15.6-FHD-Core-i3-1005G1-NV-MX330-2GB-4GB-1000-GB-DOS-4-300x300.jpg"
+      ],
       "price": 1149,
       "id": 36,
       "memory": "1 TB",
@@ -497,7 +649,9 @@
     {
       "name": "Acer TravelMate",
       "brand": "acer",
-      "img": "https://texnomart.az/wp-content/uploads/2021/02/texnomart-Acer-TravelMate-TMP259-M-zxgeltv41sruw2jo937n-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/02/texnomart-Acer-TravelMate-TMP259-M-zxgeltv41sruw2jo937n-300x300.jpg"
+      ],
       "price": 799,
       "id": 37,
       "memory": "512 GB",
@@ -512,7 +666,9 @@
     {
       "name": "Acer Aspire 3",
       "brand": "acer",
-      "img": "https://texnomart.az/wp-content/uploads/2021/02/Acer-Aspire-3-A315-57G-NX.HZRER_.005-N-all-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/02/Acer-Aspire-3-A315-57G-NX.HZRER_.005-N-all-300x300.jpg"
+      ],
       "price": 1199,
       "id": 38,
       "memory": "1 TB",
@@ -527,7 +683,9 @@
     {
       "name": "HP 250",
       "brand": "hp",
-      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Notebook-HP-250-G8-Core-i5-1035G1-tvs70eqz8km3f14olbij-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Notebook-HP-250-G8-Core-i5-1035G1-tvs70eqz8km3f14olbij-300x300.jpg"
+      ],
       "price": 1449,
       "id": 39,
       "category": "noutbuklar",
@@ -542,7 +700,9 @@
     {
       "name": "HP 250",
       "brand": "hp",
-      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Notebook-HP-250-G8-Core-i5-1035G1-tvs70eqz8km3f14olbij-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Notebook-HP-250-G8-Core-i5-1035G1-tvs70eqz8km3f14olbij-300x300.jpg"
+      ],
       "price": 1449,
       "id": 40,
       "category": "noutbuklar",
@@ -558,7 +718,9 @@
   "kondisonerler": [
     {
       "name": "Kondisioner Arçelik AMFDA 090",
-      "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg"
+      ],
       "category": "kondisonerler",
       "brand": "arçelik",
       "area": "30 - 35 m²",
@@ -573,7 +735,9 @@
     },
     {
       "name": "Kondisioner LG A12CMH",
-      "img": "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-A12CMH-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-A12CMH-300x300.jpg"
+      ],
       "category": "kondisonerler",
       "brand": "lg",
       "area": "40 - 45 m²",
@@ -588,7 +752,9 @@
     },
     {
       "name": "Kondisioner Artel Art-12HGE32",
-      "img": "https://texnomart.az/wp-content/uploads/2022/07/texnomart-Artel-Art-12HGE32-071uloqexmfbrhp9ytj6-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/07/texnomart-Artel-Art-12HGE32-071uloqexmfbrhp9ytj6-300x300.jpg"
+      ],
       "category": "kondisonerler",
       "brand": "artel",
       "area": "30 - 35 m²",
@@ -603,7 +769,9 @@
     },
     {
       "name": "Kondisioner Arçelik 09325",
-      "img": "https://texnomart.az/wp-content/uploads/2020/11/8866311100-LO1-20180501-231326-300x300.png",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/11/8866311100-LO1-20180501-231326-300x300.png"
+      ],
       "category": "kondisonerler",
       "brand": "arçelik",
       "area": "30 - 35 m²",
@@ -618,7 +786,9 @@
     },
     {
       "name": "Kondisioner LG I18CGH",
-      "img": "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-I18CGH.NGGH-KIT-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-I18CGH.NGGH-KIT-300x300.jpg"
+      ],
       "category": "kondisonerler",
       "brand": "lg",
       "area": "50 - 60 m²",
@@ -633,7 +803,9 @@
     },
     {
       "name": "Kondisioner Arçelik AMFDA 120-121",
-      "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg"
+      ],
       "category": "kondisonerler",
       "brand": "arçelik",
       "area": "40 - 45 m²",
@@ -648,7 +820,9 @@
     },
     {
       "name": "Kondisioner Arçelik 18325",
-      "img": "https://texnomart.az/wp-content/uploads/2020/11/8866271100-LO1-20180501-232912-1-300x300.png",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/11/8866271100-LO1-20180501-232912-1-300x300.png"
+      ],
       "category": "kondisonerler",
       "brand": "arçelik",
       "area": "60 - 65 m²",
@@ -663,7 +837,9 @@
     },
     {
       "name": "Kondisioner Arçelik AMFDA 180",
-      "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg"
+      ],
       "category": "kondisonerler",
       "brand": "arçelik",
       "area": "60 - 65 m²",
@@ -678,7 +854,9 @@
     },
     {
       "name": "Kondisioner Artel ART-18HME48",
-      "img": "https://texnomart.az/wp-content/uploads/2021/06/Artel-Montana-ART-18HM-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/06/Artel-Montana-ART-18HM-300x300.jpg"
+      ],
       "category": "kondisonerler",
       "brand": "artel",
       "area": "60 - 65 m²",
@@ -693,7 +871,9 @@
     },
     {
       "name": "Kondisioner Artel Art-12HME32",
-      "img": "https://texnomart.az/wp-content/uploads/2021/06/Artel-Montana-ART-12HM-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/06/Artel-Montana-ART-12HM-300x300.jpg"
+      ],
       "category": "kondisonerler",
       "brand": "artel",
       "area": "30 - 40 m²",
@@ -711,7 +891,9 @@
     {
       "name": "LG 55UQ81006LB.AMCN",
       "brand": "lg",
-      "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-43UQ81006LB.AMCN-7cwtvml0bf1i6parhj48-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-43UQ81006LB.AMCN-7cwtvml0bf1i6parhj48-300x300.jpg"
+      ],
       "price": 1849,
       "id": 41,
       "category": "televizorlar",
@@ -726,7 +908,9 @@
     {
       "name": "Arçelik A55 B 820 B",
       "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A55-B-820-B-bc36euw4rjzhsklpfyi7-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A55-B-820-B-bc36euw4rjzhsklpfyi7-300x300.jpg"
+      ],
       "price": 1499,
       "id": 49,
       "category": "televizorlar",
@@ -741,7 +925,9 @@
     {
       "name": "LG 32LM637BPLB.AMCB",
       "brand": "lg",
-      "img": "https://texnomart.az/wp-content/uploads/2022/01/texnomart-LG-32LM637-ab2s0lyqvw9u4hgxk7r6-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/01/texnomart-LG-32LM637-ab2s0lyqvw9u4hgxk7r6-300x300.jpg"
+      ],
       "price": 599,
       "id": 42,
       "category": "televizorlar",
@@ -756,7 +942,9 @@
     {
       "name": "Arçelik A43 B 685 A",
       "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A43-B-685-A-1-pa8fmjvtyzq15whlxneu-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A43-B-685-A-1-pa8fmjvtyzq15whlxneu-300x300.jpg"
+      ],
       "price": 999,
       "id": 48,
       "category": "televizorlar",
@@ -771,7 +959,9 @@
     {
       "name": "LG 32LQ63006LA.AMCN",
       "brand": "lg",
-      "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-32LQ63006LA.AMCN-zeqs0uwafg21ickl8ryx-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-32LQ63006LA.AMCN-zeqs0uwafg21ickl8ryx-300x300.jpg"
+      ],
       "price": 649,
       "id": 45,
       "category": "televizorlar",
@@ -786,7 +976,9 @@
     {
       "name": "LG 43LM5772PLA.AMCB",
       "brand": "lg",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Televizor-LG-43LM5772PLA-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/08/Televizor-LG-43LM5772PLA-300x300.jpg"
+      ],
       "price": 1049,
       "id": 43,
       "category": "televizorlar",
@@ -801,7 +993,9 @@
     {
       "name": "LG 55NANO816QA.AMCN",
       "brand": "lg",
-      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-LG-50NANO816QA.AMCN-ehpfui0gk32or1qyz6ca.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-LG-50NANO816QA.AMCN-ehpfui0gk32or1qyz6ca.jpg"
+      ],
       "price": 2099,
       "id": 44,
       "category": "televizorlar",
@@ -816,7 +1010,9 @@
     {
       "name": "Arçelik A32 A 675 A",
       "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-32LQ63006LA.AMCN-zeqs0uwafg21ickl8ryx-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-32LQ63006LA.AMCN-zeqs0uwafg21ickl8ryx-300x300.jpg"
+      ],
       "price": 649,
       "id": 46,
       "category": "televizorlar",
@@ -831,7 +1027,9 @@
     {
       "name": "Arçelik A65 B 880 B",
       "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A-B-880-B-1-xbn8ufmrytck4eg79hjl-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A-B-880-B-1-xbn8ufmrytck4eg79hjl-300x300.jpg"
+      ],
       "price": 1999,
       "id": 47,
       "category": "televizorlar",
@@ -846,7 +1044,9 @@
     {
       "name": "Arçelik A40M 5870 5B",
       "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2020/11/texnomart-Arcelik-A40M-5870-5B-mx1e2favz96lbnspuojg-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/11/texnomart-Arcelik-A40M-5870-5B-mx1e2favz96lbnspuojg-300x300.jpg"
+      ],
       "price": 499,
       "id": 50,
       "category": "televizorlar",
@@ -863,7 +1063,9 @@
     {
       "name": "Paltaryuyan Arçelik AWL 5082 S",
       "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2021/01/Arcelik-AWL-5082-S-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/01/Arcelik-AWL-5082-S-300x300.jpg"
+      ],
       "price": 549,
       "id": 61,
       "category": "paltar-yuyanlar",
@@ -878,7 +1080,9 @@
     {
       "name": "Paltaryuyan Arçelik 8103 YP",
       "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-8103-YP-7oqcpfzi190v345e6r8b-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-8103-YP-7oqcpfzi190v345e6r8b-300x300.jpg"
+      ],
       "price": 999,
       "id": 62,
       "category": "paltar-yuyanlar",
@@ -893,7 +1097,9 @@
     {
       "name": "Paltaryuyan Arçelik 2202 YACM",
       "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-2202-YACM-9wm86loeh1bk7nrxaug0-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-2202-YACM-9wm86loeh1bk7nrxaug0-300x300.jpg"
+      ],
       "price": 1199,
       "id": 63,
       "category": "paltar-yuyanlar",
@@ -908,7 +1114,9 @@
     {
       "name": "Paltaryuyan Arçelik 9103 YPS",
       "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-9103-YPS-1lo7ezpwjhamf0sigt59-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-9103-YPS-1lo7ezpwjhamf0sigt59-300x300.jpg"
+      ],
       "price": 1349,
       "id": 64,
       "category": "paltar-yuyanlar",
@@ -923,7 +1131,9 @@
     {
       "name": "Paltaryuyan Arçelik 6100 C",
       "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Arcelik-AWX-6211-W-k5hrzl7tqn0f4pci1bxw-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Arcelik-AWX-6211-W-k5hrzl7tqn0f4pci1bxw-300x300.jpg"
+      ],
       "price": 599,
       "id": 65,
       "category": "paltar-yuyanlar",
@@ -938,7 +1148,9 @@
     {
       "name": "Paltaryuyan Beko WSRE 6512 PRW",
       "brand": "beko",
-      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WSRE-6512-PRW-qiw8v67t2hjcf0ap9g4e-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WSRE-6512-PRW-qiw8v67t2hjcf0ap9g4e-300x300.jpg"
+      ],
       "price": 779,
       "id": 66,
       "category": "paltar-yuyanlar",
@@ -953,7 +1165,9 @@
     {
       "name": "Paltaryuyan Beko WTV 8636 XS",
       "brand": "beko",
-      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-beko-WTV-8636-XS-hb2au1rcp6miv7g0l3ky-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/04/texnomart-beko-WTV-8636-XS-hb2au1rcp6miv7g0l3ky-300x300.jpg"
+      ],
       "price": 1199,
       "id": 67,
       "category": "paltar-yuyanlar",
@@ -968,7 +1182,9 @@
     {
       "name": "paltaryuyan Beko WITC 7612 B0W Nova",
       "brand": "beko",
-      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WITC-7612-B0W-Nova-02uhewkbvo43a7gysrti-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WITC-7612-B0W-Nova-02uhewkbvo43a7gysrti-300x300.jpg"
+      ],
       "price": 1099,
       "id": 68,
       "category": "paltar-yuyanlar",
@@ -983,7 +1199,9 @@
     {
       "name": "Paltaryuyan Beko WSRE 7512 PRA",
       "brand": "beko",
-      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WSRE-7512-PRA-tqezb05r48iacn3k2lpv-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WSRE-7512-PRA-tqezb05r48iacn3k2lpv-300x300.jpg"
+      ],
       "price": 959,
       "id": 69,
       "category": "paltar-yuyanlar",
@@ -998,7 +1216,9 @@
     {
       "name": "Paltaryuyan Beko WTV 8636 XS",
       "brand": "beko",
-      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-beko-WTV-8636-XS-hb2au1rcp6miv7g0l3ky-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/04/texnomart-beko-WTV-8636-XS-hb2au1rcp6miv7g0l3ky-300x300.jpg"
+      ],
       "price": 1199,
       "id": 70,
       "category": "paltar-yuyanlar",
@@ -1015,21 +1235,31 @@
     {
       "name": "Samsung Galaxy J2 Prime",
       "category": "smartfonlar",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-J2-Prime-Black.jpg",
+      "img": [
+        "https://www.soliton.az/images/articles/2016/11/22/65352.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-J2-Prime-Black.jpg",
+        "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j2-prime-2016.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4sjzxjWiPoVoWjEAAzLZRnIr93l1jIEnJQ&usqp=CAU"
+      ],
       "price": 149,
       "brand": "samsung",
-      "memory": "8 gb",
+      "memory": "8 GB",
       "ram": "1.5 GB",
       "filterItems": {
         "brand": "samsung",
-        "memory": "8 gb",
-        "ram": 1.5
+        "memory": "8 GB",
+        "ram": "1.5 GB"
       },
       "id": 0
     },
     {
       "name": "Xiaomi Redmi 9 Purple",
-      "img": "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-7ymvbgu04qepj61koc8a-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-7ymvbgu04qepj61koc8a-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-1-l0z9v28cs634mtexjguo-100x100.jpg",
+        "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-2-j7lcqbhrf9weknxaig03-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Xiaomi-Redmi-9-3-32-GB-Purple-3-e3vw16jtzfpmbkurl5hs-600x600.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "32 GB",
@@ -1044,7 +1274,12 @@
     },
     {
       "name": "Xiaomi Redmi Note 11 Pro",
-      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-jkycruxoi43mvg1wel76.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-jkycruxoi43mvg1wel76.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-1-burxa7so5fj84mqzk1vc.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-2-z8ehcywl197krgax3tf4.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Smartfon-Xiaomi-Redmi-Note-11-Pro-Green-3-b4x6tazw1m7hukryo5cf.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "256 GB",
@@ -1059,7 +1294,12 @@
     },
     {
       "name": "Samsung Galaxy S22",
-      "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-Galaxy-S22-Pink-Gold-lrv6ejxq94in8h530pko-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-Galaxy-S22-Pink-Gold-lrv6ejxq94in8h530pko-600x600.jpg",
+        "https://image-us.samsung.com/us/smartphones/galaxy-s22/images/gallery/R0_Exclusive-Violet/FLRC-214-R0-Violet-02-PDP-GALLERY-1600x1200.jpg?$product-details-jpg$",
+        "https://image-us.samsung.com/us/smartphones/galaxy-s22/images/gallery/R0_Exclusive-Violet/FLRC-214-R0-Violet-03-PDP-GALLERY-1600x1200.jpg?$product-details-jpg$",
+        "https://image-us.samsung.com/us/smartphones/galaxy-s22/images/gallery/R0_Exclusive-Violet/FLRC-214-R0-Violet-04-PDP-GALLERY-1600x1200.jpg?$product-details-jpg$"
+      ],
       "category": "smartfonlar",
       "brand": "samsung",
       "memory": "128 GB",
@@ -1074,7 +1314,12 @@
     },
     {
       "name": "Samsung Z Flip 3",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-1-1-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-1-1-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-1-2-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-3-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Samsung-Z-Flip-3-8-256-GB-Black-9-600x600.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "samsung",
       "memory": "256 GB",
@@ -1089,7 +1334,12 @@
     },
     {
       "name": "Xiaomi 12 Lite",
-      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-koq25umiy0c7npxza1jl.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-koq25umiy0c7npxza1jl.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-1-c4sazv10mkj5qw83hitf.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-2-e5y4iq1wts2olzcx8juh.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Xiaomi-12-Lite-Green-4-9cnwxzoeypt30ki612au.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "256 GB",
@@ -1104,7 +1354,12 @@
     },
     {
       "name": "Samsung A03S",
-      "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-u92a6inhk17vyfxmpc3l-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-u92a6inhk17vyfxmpc3l-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-1-lvtezp46uhysr1aqicow-100x100.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-3-ky3qnu2gbjx46ph5wzfv-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Samsung-A03S-32GB-Black-4-jsbo0iqvrpyc64nhg5a9-600x600.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "samsung",
       "memory": "64 GB",
@@ -1119,7 +1374,12 @@
     },
     {
       "name": "Xiaomi Poco F4 Pro",
-      "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-silver-9z34vkejrt86oixspman.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-silver-9z34vkejrt86oixspman.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-Night-Black-1-euymstp8jrq5l97ib3vc.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-silver-1-ac1no3tj8ylrpxvbsghw.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Xiaomi-Poco-F4-Pro-silver-9z34vkejrt86oixspman.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "256 GB",
@@ -1134,7 +1394,12 @@
     },
     {
       "name": "Xiaomi Redmi Note 9S",
-      "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9S-blue-all-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9S-blue-all-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Redmi-Note-9S-4-64-GB-Aurora-Blue-1-s6qcj2e1z3lxp08nym5f-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Redmi-Note-9S-4-64-GB-Aurora-Blue-2-0rsqfawop2h746ngb5k3-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2020/12/texnomart-Redmi-Note-9S-4-64-GB-Aurora-Blue-3-ise9j1oax60khbtr2w87-600x600.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "64 GB",
@@ -1149,7 +1414,12 @@
     },
     {
       "name": "Xiaomi Poco X3",
-      "img": "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-all-1-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-all-1-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-front-1-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-back-2-1-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Poco-X3-128-GB-grey-back-1-600x600.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "128 GB",
@@ -1164,7 +1434,12 @@
     },
     {
       "name": "Xiaomi POCO X3 Pro",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-1-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-2-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/08/Smartfon-Xiaomi-POCO-X3-Pro-8-256GB-bronze-3-600x600.jpg"
+      ],
       "category": "smartfonlar",
       "brand": "xiaomi",
       "memory": "256 GB",
@@ -1179,7 +1454,12 @@
     },
     {
       "name": "Samsung Galaxy A01",
-      "img": "https://texnomart.az/wp-content/uploads/2020/11/Samsung-Galaxy-A01-Red-all-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/11/Samsung-Galaxy-A01-Red-all-600x600.jpg",
+        "https://www.soliton.az/images/articles/2020/07/07/20200707111959557_c1_1.jpg",
+        "https://www.soliton.az/images/articles/2020/07/07/20200707111959557_c1_2.jpg",
+        "https://texnomart.az/wp-content/uploads/2020/11/Samsung-Galaxy-A01-Red-all-600x600.jpg"
+      ],
       "price": 239,
       "brand": "samsung",
       "memory": "16 GB",
@@ -1194,7 +1474,12 @@
     },
     {
       "name": "Samsung A12",
-      "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-A12-32-GB-SM-A125-blue-all-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/02/Samsung-A12-32-GB-SM-A125-blue-all-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Smartfon-Samsung-A12A127-128GB-Blue-1-rms1qa9pi2jwhoyk4gb3-100x100.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Smartfon-Samsung-A12A127-128GB-Blue-2-xi32phszo5f0jtybe86l-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Smartfon-Samsung-A12A127-128GB-Blue-3-goje392sarw51kulqhm6-600x600.jpg"
+      ],
       "price": 329,
       "brand": "samsung",
       "memory": "32 GB",
@@ -1209,7 +1494,12 @@
     },
     {
       "name": "Samsung Galaxy S21",
-      "img": "https://texnomart.az/wp-content/uploads/2021/02/Samsung-Galaxy-S21-SM-G991-Grey-all-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/02/Samsung-Galaxy-S21-SM-G991-Grey-all-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/01/texnomart-Samsung-Galaxy-S21FE-5G-gray-1-8ozagpqueyhtbvxfl39r-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/01/texnomart-Samsung-Galaxy-S21FE-5G-gray-3-tskjb7r65vial0efwg2p-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/01/texnomart-Samsung-Galaxy-S21FE-5G-gray-2-p5y71vgs0chreoin98m6-100x100.jpg"
+      ],
       "price": 1899,
       "brand": "samsung",
       "memory": "128 GB",
@@ -1224,7 +1514,12 @@
     },
     {
       "name": "Samsung Galaxy Note 20",
-      "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-Note-20-SM-N980-bronze-all-2-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-Note-20-SM-N980-bronze-all-2-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-Note-20-SM-N980-bronze-back-1-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-Note-20-SM-N980-bronze-front-1-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-Note-20-SM-N980-bronze-front-2jpg-1-600x600.jpg"
+      ],
       "price": 1799,
       "brand": "samsung",
       "memory": "256 GB",
@@ -1239,7 +1534,12 @@
     },
     {
       "name": "Smartfon Samsung A52",
-      "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A52-DS-SM-A525-violet-all-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A52-DS-SM-A525-violet-all-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A52-DS-SM-A525-violet-front-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A52-DS-SM-A525-violet-back-2-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A52-DS-SM-A525-violet-back-600x600.jpg"
+      ],
       "price": 719,
       "brand": "samsung",
       "memory": "128 GB",
@@ -1254,7 +1554,12 @@
     },
     {
       "name": "Samsung Galaxy A32",
-      "img": "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-all-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-all-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-front-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-back-2-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/04/Samsung-Galaxy-A32-DS-SM-A325-64GB-Black-back-600x600.jpg"
+      ],
       "price": 539,
       "brand": "samsung",
       "memory": "64 GB",
@@ -1269,7 +1574,12 @@
     },
     {
       "name": "Xiaomi Redmi Note 9",
-      "img": "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9-green-all-600x600.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/12/Xiaomi-Redmi-Note-9-green-all-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Redmi-Note-9-Pro-green-front-2-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Redmi-Note-9-Pro-green-back-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/02/Xiaomi-Redmi-Note-9-Pro-green-all-2-600x600.jpg"
+      ],
       "price": 429,
       "brand": "xiaomi",
       "memory": "64 GB",
@@ -1284,7 +1594,12 @@
     },
     {
       "name": "Samsung Galaxy Watch 5",
-      "img": "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Samsung-Galaxy-Watch-5-44mm-gray-14cw6q9lhsf8yp57oizk-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Samsung-Galaxy-Watch-5-44mm-gray-14cw6q9lhsf8yp57oizk-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Samsung-Galaxy-Watch-5-40mm-Gray-1-3ch16mnvpqxbs52taz9w-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Samsung-Galaxy-Watch-5-40mm-Gray-2-l7uczkqfm9wyp5beh84x-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/09/texnomart-Samsung-Galaxy-Watch-5-44mm-gray-14cw6q9lhsf8yp57oizk-300x300.jpg"
+      ],
       "price": 649,
       "id": 21,
       "brand": "samsung",
@@ -1297,7 +1612,12 @@
     },
     {
       "name": "Samsung Galaxy Watch 4",
-      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-40mm-Black-umxprfkz4ge82c1n5wh0-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-40mm-Black-umxprfkz4ge82c1n5wh0-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-40mm-Black-2-q3txky6prw1slof4ig0z.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-40mm-Black-3-z0q6abhi7o8rvpnuf4jl.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-40mm-Black-4-29omczgk8r7lyt0hiqvb.jpg"
+      ],
       "price": 399,
       "id": 22,
       "brand": "samsung",
@@ -1310,7 +1630,12 @@
     },
     {
       "name": "Samsung Galaxy 4 Classic 46mm",
-      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-mc65x1uf04az7pkj9w3g-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-mc65x1uf04az7pkj9w3g-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-1-6znt7bmxsuyopcrk532e-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-2-nibqzf3clwjr1u50s8ov-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-3-uvhp5z0tw1o36kj8eixg-600x600.jpg"
+      ],
       "price": 699,
       "id": 23,
       "brand": "samsung",
@@ -1323,7 +1648,12 @@
     },
     {
       "name": "Samsung Galaxy 4 Classic 42mm",
-      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-mc65x1uf04az7pkj9w3g-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-mc65x1uf04az7pkj9w3g-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-1-6znt7bmxsuyopcrk532e-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-2-nibqzf3clwjr1u50s8ov-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-3-uvhp5z0tw1o36kj8eixg-600x600.jpg"
+      ],
       "price": 589,
       "id": 24,
       "brand": "samsung",
@@ -1336,7 +1666,12 @@
     },
     {
       "name": "Samsung Galaxy Watch 4 44mm",
-      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-44mm-Black-h8lqk69j1m3utn7syrgw-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-Watch-4-44mm-Black-h8lqk69j1m3utn7syrgw-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-1-6znt7bmxsuyopcrk532e-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-2-nibqzf3clwjr1u50s8ov-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-3-uvhp5z0tw1o36kj8eixg-600x600.jpg"
+      ],
       "price": 449,
       "id": 25,
       "brand": "samsung",
@@ -1349,7 +1684,12 @@
     },
     {
       "name": "Huawei Band 7",
-      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Huawei-Band-7-green-t52ib1uf09mgo68cqkv4.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Huawei-Band-7-green-t52ib1uf09mgo68cqkv4.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Huawei-Band-7-green-1-u0tsm1clevzfq258jg6h.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Huawei-Band-7-green-2-ij5xw2mlht37enp8ocau.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-Huawei-Band-7-green-3-34hwscjf9r0mntqvpkb5.jpg"
+      ],
       "price": 119,
       "id": 26,
       "brand": "huawei",
@@ -1362,7 +1702,12 @@
     },
     {
       "name": "Huawei GT 3 46mm Active",
-      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-GT-3-46mm-Active-7yuafb48th0jip3vm1ke-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-GT-3-46mm-Active-7yuafb48th0jip3vm1ke-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-1-6znt7bmxsuyopcrk532e-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-2-nibqzf3clwjr1u50s8ov-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-3-uvhp5z0tw1o36kj8eixg-600x600.jpg"
+      ],
       "price": 579,
       "id": 27,
       "brand": "huawei",
@@ -1375,7 +1720,12 @@
     },
     {
       "name": "Huawei GT 2 Sport 46mm",
-      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-GT-2-Sport-46mm-Black-6nz8maxsk4yqr90vc2ob-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-GT-2-Sport-46mm-Black-6nz8maxsk4yqr90vc2ob-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-1-6znt7bmxsuyopcrk532e-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-2-nibqzf3clwjr1u50s8ov-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Samsung-Galaxy-4-Classic-42mm-Black-3-uvhp5z0tw1o36kj8eixg-600x600.jpg"
+      ],
       "price": 399,
       "id": 28,
       "brand": "huawei",
@@ -1388,7 +1738,12 @@
     },
     {
       "name": "Huawei Band 6",
-      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-Band-6-Black-ybhxgnzf1w8ci45vql2r-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-Band-6-Black-ybhxgnzf1w8ci45vql2r-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-Band-6-Black-1-ft08ejpk1qomzbr4xsiw-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-Band-6-Black-2-uiz5qrkl0bex6nosafw3-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/04/texnomart-Huawei-Band-6-Black-ybhxgnzf1w8ci45vql2r-300x300.jpg"
+      ],
       "price": 139,
       "id": 29,
       "brand": "huawei",
@@ -1400,8 +1755,28 @@
       "category": "smart-saatlar"
     },
     {
+      "name": "Xiaomi Redmi Watch 2",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Xiaomi-Redmi-Watch-2-Lite-Black-g0uyiqvt3oa1el76hzfs-300x300.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Xiaomi-Redmi-Watch-2-Lite-Black-1-k1nthp85g2zfqjsb964m-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Xiaomi-Redmi-Watch-2-Lite-Black-2-cl8gvmruf43jqnyz1bt6-600x600.jpg",
+        "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Xiaomi-Redmi-Watch-2-Lite-Black-3-6j32u98eopyikm1t5hfs-600x600.jpg"
+      ],
+      "price": 149,
+      "id": 35,
+      "brand": "xiaomi",
+      "operation_time": "240 saat",
+      "filterItems": {
+        "brand": "xiaomi",
+        "operation_time": "240 saat"
+      },
+      "category": "smart-saatlar"
+    },
+    {
       "name": "Acer Nitro 5",
-      "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-Acer-Nitro-5-AN515-57-54QC-3t95yesjozcw7miq6a1k.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/11/texnomart-Acer-Nitro-5-AN515-57-54QC-3t95yesjozcw7miq6a1k.jpg"
+      ],
       "price": 2799,
       "id": 30,
       "category": "noutbuklar",
@@ -1417,7 +1792,9 @@
     {
       "name": "Acer EX215-31",
       "brand": "acer",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-Acer-EX215-31-NX.EFTER_.00P-N-1-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-Acer-EX215-31-NX.EFTER_.00P-N-1-300x300.jpg"
+      ],
       "price": 819,
       "id": 31,
       "category": "noutbuklar",
@@ -1432,7 +1809,9 @@
     {
       "name": "HP VICTUS 15",
       "brand": "hp",
-      "img": "https://texnomart.az/wp-content/uploads/2022/11/texnomart-HP-VICTUS-15-FA0031DX-nowky0xl53ubca9rpjis.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/11/texnomart-HP-VICTUS-15-FA0031DX-nowky0xl53ubca9rpjis.jpg"
+      ],
       "price": 3219,
       "memory": "512 GB",
       "ram": "16 GB",
@@ -1447,7 +1826,9 @@
     {
       "name": "HP 255",
       "brand": "hp",
-      "img": "https://texnomart.az/wp-content/uploads/2022/02/texnomart-Notebook-HP-255-AMD-Athlon-G8-2W1D4EA-1lnpqsa38r7oz4t06bck-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/02/texnomart-Notebook-HP-255-AMD-Athlon-G8-2W1D4EA-1lnpqsa38r7oz4t06bck-300x300.jpg"
+      ],
       "price": 829,
       "id": 33,
       "category": "noutbuklar",
@@ -1462,7 +1843,9 @@
     {
       "name": "HP Pavilion 15",
       "brand": "hp",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-HP-Pavilion-15-eh0041ur-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-HP-Pavilion-15-eh0041ur-300x300.jpg"
+      ],
       "price": 1259,
       "id": 34,
       "memory": "256 GB",
@@ -1475,22 +1858,11 @@
       }
     },
     {
-      "name": "Xiaomi Redmi Watch 2",
-      "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Xiaomi-Redmi-Watch-2-Lite-Black-g0uyiqvt3oa1el76hzfs-300x300.jpg",
-      "price": 149,
-      "id": 35,
-      "brand": "xiaomi",
-      "operation_time": "240 saat",
-      "filterItems": {
-        "brand": "xiaomi",
-        "operation_time": "240 saat"
-      },
-      "category": "smart-saatlar"
-    },
-    {
       "name": "Acer Aspire",
       "brand": "acer",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-Acer-A315-57G-15.6-FHD-Core-i3-1005G1-NV-MX330-2GB-4GB-1000-GB-DOS-4-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/08/Noutbuk-Acer-A315-57G-15.6-FHD-Core-i3-1005G1-NV-MX330-2GB-4GB-1000-GB-DOS-4-300x300.jpg"
+      ],
       "price": 1149,
       "id": 36,
       "memory": "1 TB",
@@ -1505,7 +1877,9 @@
     {
       "name": "Acer TravelMate",
       "brand": "acer",
-      "img": "https://texnomart.az/wp-content/uploads/2021/02/texnomart-Acer-TravelMate-TMP259-M-zxgeltv41sruw2jo937n-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/02/texnomart-Acer-TravelMate-TMP259-M-zxgeltv41sruw2jo937n-300x300.jpg"
+      ],
       "price": 799,
       "id": 37,
       "memory": "512 GB",
@@ -1520,7 +1894,9 @@
     {
       "name": "Acer Aspire 3",
       "brand": "acer",
-      "img": "https://texnomart.az/wp-content/uploads/2021/02/Acer-Aspire-3-A315-57G-NX.HZRER_.005-N-all-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/02/Acer-Aspire-3-A315-57G-NX.HZRER_.005-N-all-300x300.jpg"
+      ],
       "price": 1199,
       "id": 38,
       "memory": "1 TB",
@@ -1535,7 +1911,9 @@
     {
       "name": "HP 250",
       "brand": "hp",
-      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Notebook-HP-250-G8-Core-i5-1035G1-tvs70eqz8km3f14olbij-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Notebook-HP-250-G8-Core-i5-1035G1-tvs70eqz8km3f14olbij-300x300.jpg"
+      ],
       "price": 1449,
       "id": 39,
       "category": "noutbuklar",
@@ -1550,7 +1928,9 @@
     {
       "name": "HP 250",
       "brand": "hp",
-      "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Notebook-HP-250-G8-Core-i5-1035G1-tvs70eqz8km3f14olbij-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/12/texnomart-Notebook-HP-250-G8-Core-i5-1035G1-tvs70eqz8km3f14olbij-300x300.jpg"
+      ],
       "price": 1449,
       "id": 40,
       "category": "noutbuklar",
@@ -1563,158 +1943,10 @@
       }
     },
     {
-      "name": "LG 55UQ81006LB.AMCN",
-      "brand": "lg",
-      "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-43UQ81006LB.AMCN-7cwtvml0bf1i6parhj48-300x300.jpg",
-      "price": 1849,
-      "id": 41,
-      "category": "televizorlar",
-      "screen_permission": "4K UHD (3840 x 2160)",
-      "screen_size": "55 (140 sm)",
-      "filterItems": {
-        "brand": "lg",
-        "screen_permission": "4K UHD (3840 x 2160)",
-        "screen_size": "55 (140 sm)"
-      }
-    },
-    {
-      "name": "Arçelik A55 B 820 B",
-      "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A55-B-820-B-bc36euw4rjzhsklpfyi7-300x300.jpg",
-      "price": 1499,
-      "id": 49,
-      "category": "televizorlar",
-      "screen_permission": "4K UHD (3840 x 2160)",
-      "screen_size": "55 (139 sm)",
-      "filterItems": {
-        "brand": "arçelik",
-        "screen_permission": "4K UHD (3840 x 2160)",
-        "screen_size": "55 (139 sm)"
-      }
-    },
-    {
-      "name": "LG 32LM637BPLB.AMCB",
-      "brand": "lg",
-      "img": "https://texnomart.az/wp-content/uploads/2022/01/texnomart-LG-32LM637-ab2s0lyqvw9u4hgxk7r6-300x300.jpg",
-      "price": 599,
-      "id": 42,
-      "category": "televizorlar",
-      "screen_permission": "HD (1366 x 768)",
-      "screen_size": "32 (81 sm)",
-      "filterItems": {
-        "brand": "lg",
-        "screen_permission": "HD (1366 x 768)",
-        "screen_size": "32 (81 sm)"
-      }
-    },
-    {
-      "name": "Arçelik A43 B 685 A",
-      "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A43-B-685-A-1-pa8fmjvtyzq15whlxneu-300x300.jpg",
-      "price": 999,
-      "id": 48,
-      "category": "televizorlar",
-      "screen_permission": "FHD (1920 x 1080)",
-      "screen_size": "43 (108 sm)",
-      "filterItems": {
-        "brand": "arçelik",
-        "screen_permission": "FHD (1920 x 1080)",
-        "screen_size": "43 (108 sm)"
-      }
-    },
-    {
-      "name": "LG 32LQ63006LA.AMCN",
-      "brand": "lg",
-      "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-32LQ63006LA.AMCN-zeqs0uwafg21ickl8ryx-300x300.jpg",
-      "price": 649,
-      "id": 45,
-      "category": "televizorlar",
-      "screen_permission": "FHD (1920 x 1080)",
-      "screen_size": "32 (81 sm)",
-      "filterItems": {
-        "brand": "lg",
-        "screen_permission": "FHD (1920 x 1080)",
-        "screen_size": "32 (81 sm)"
-      }
-    },
-    {
-      "name": "LG 43LM5772PLA.AMCB",
-      "brand": "lg",
-      "img": "https://texnomart.az/wp-content/uploads/2021/08/Televizor-LG-43LM5772PLA-300x300.jpg",
-      "price": 1049,
-      "id": 43,
-      "category": "televizorlar",
-      "screen_permission": "FHD (1920 x 1080)",
-      "screen_size": "43 (109 sm)",
-      "filterItems": {
-        "brand": "lg",
-        "screen_permission": "FHD (1920 x 1080)",
-        "screen_size": "43 (109 sm)"
-      }
-    },
-    {
-      "name": "LG 55NANO816QA.AMCN",
-      "brand": "lg",
-      "img": "https://texnomart.az/wp-content/uploads/2022/10/texnomart-LG-50NANO816QA.AMCN-ehpfui0gk32or1qyz6ca.jpg",
-      "price": 2099,
-      "id": 44,
-      "category": "televizorlar",
-      "screen_permission": "4K UHD (3840 x 2160)",
-      "screen_size": "55 (140 sm)",
-      "filterItems": {
-        "brand": "lg",
-        "screen_permission": "4K UHD (3840 x 2160)",
-        "screen_size": "55 (140 sm)"
-      }
-    },
-    {
-      "name": "Arçelik A32 A 675 A",
-      "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-32LQ63006LA.AMCN-zeqs0uwafg21ickl8ryx-300x300.jpg",
-      "price": 649,
-      "id": 46,
-      "category": "televizorlar",
-      "screen_permission": "HD (1366 x 768)",
-      "screen_size": "32 (81 sm)",
-      "filterItems": {
-        "brand": "arçelik",
-        "screen_permission": "HD (1366 x 768)",
-        "screen_size": "32 (81 sm)"
-      }
-    },
-    {
-      "name": "Arçelik A65 B 880 B",
-      "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A-B-880-B-1-xbn8ufmrytck4eg79hjl-300x300.jpg",
-      "price": 1999,
-      "id": 47,
-      "category": "televizorlar",
-      "screen_permission": "4K UHD (3840 x 2160)",
-      "screen_size": "65 (165 sm)",
-      "filterItems": {
-        "brand": "arçelik",
-        "screen_permission": "4K UHD (3840 x 2160)",
-        "screen_size": "65 (165 sm)"
-      }
-    },
-    {
-      "name": "Arçelik A40M 5870 5B",
-      "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2020/11/texnomart-Arcelik-A40M-5870-5B-mx1e2favz96lbnspuojg-300x300.jpg",
-      "price": 499,
-      "id": 50,
-      "category": "televizorlar",
-      "screen_permission": "FHD (1920 x 1080)",
-      "screen_size": "40 (102 sm)",
-      "filterItems": {
-        "brand": "arçelik",
-        "screen_permission": "FHD (1920 x 1080)",
-        "screen_size": "40 (102 sm)"
-      }
-    },
-    {
       "name": "Kondisioner Arçelik AMFDA 090",
-      "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg"
+      ],
       "category": "kondisonerler",
       "brand": "arçelik",
       "area": "30 - 35 m²",
@@ -1729,7 +1961,9 @@
     },
     {
       "name": "Kondisioner LG A12CMH",
-      "img": "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-A12CMH-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-A12CMH-300x300.jpg"
+      ],
       "category": "kondisonerler",
       "brand": "lg",
       "area": "40 - 45 m²",
@@ -1744,7 +1978,9 @@
     },
     {
       "name": "Kondisioner Artel Art-12HGE32",
-      "img": "https://texnomart.az/wp-content/uploads/2022/07/texnomart-Artel-Art-12HGE32-071uloqexmfbrhp9ytj6-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/07/texnomart-Artel-Art-12HGE32-071uloqexmfbrhp9ytj6-300x300.jpg"
+      ],
       "category": "kondisonerler",
       "brand": "artel",
       "area": "30 - 35 m²",
@@ -1759,7 +1995,9 @@
     },
     {
       "name": "Kondisioner Arçelik 09325",
-      "img": "https://texnomart.az/wp-content/uploads/2020/11/8866311100-LO1-20180501-231326-300x300.png",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/11/8866311100-LO1-20180501-231326-300x300.png"
+      ],
       "category": "kondisonerler",
       "brand": "arçelik",
       "area": "30 - 35 m²",
@@ -1774,7 +2012,9 @@
     },
     {
       "name": "Kondisioner LG I18CGH",
-      "img": "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-I18CGH.NGGH-KIT-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/04/Kondisioner-LG-I18CGH.NGGH-KIT-300x300.jpg"
+      ],
       "category": "kondisonerler",
       "brand": "lg",
       "area": "50 - 60 m²",
@@ -1789,7 +2029,9 @@
     },
     {
       "name": "Kondisioner Arçelik AMFDA 120-121",
-      "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg"
+      ],
       "category": "kondisonerler",
       "brand": "arçelik",
       "area": "40 - 45 m²",
@@ -1804,7 +2046,9 @@
     },
     {
       "name": "Kondisioner Arçelik 18325",
-      "img": "https://texnomart.az/wp-content/uploads/2020/11/8866271100-LO1-20180501-232912-1-300x300.png",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/11/8866271100-LO1-20180501-232912-1-300x300.png"
+      ],
       "category": "kondisonerler",
       "brand": "arçelik",
       "area": "60 - 65 m²",
@@ -1819,7 +2063,9 @@
     },
     {
       "name": "Kondisioner Arçelik AMFDA 180",
-      "img": "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/01/texnomart-Arcelik-amfda-90-8gyk5x947a0msotnpwjq-300x300.jpg"
+      ],
       "category": "kondisonerler",
       "brand": "arçelik",
       "area": "60 - 65 m²",
@@ -1834,7 +2080,9 @@
     },
     {
       "name": "Kondisioner Artel ART-18HME48",
-      "img": "https://texnomart.az/wp-content/uploads/2021/06/Artel-Montana-ART-18HM-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/06/Artel-Montana-ART-18HM-300x300.jpg"
+      ],
       "category": "kondisonerler",
       "brand": "artel",
       "area": "60 - 65 m²",
@@ -1849,7 +2097,9 @@
     },
     {
       "name": "Kondisioner Artel Art-12HME32",
-      "img": "https://texnomart.az/wp-content/uploads/2021/06/Artel-Montana-ART-12HM-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/06/Artel-Montana-ART-12HM-300x300.jpg"
+      ],
       "category": "kondisonerler",
       "brand": "artel",
       "area": "30 - 40 m²",
@@ -1863,9 +2113,181 @@
       "id": 60
     },
     {
+      "name": "LG 55UQ81006LB.AMCN",
+      "brand": "lg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-43UQ81006LB.AMCN-7cwtvml0bf1i6parhj48-300x300.jpg"
+      ],
+      "price": 1849,
+      "id": 41,
+      "category": "televizorlar",
+      "screen_permission": "4K UHD (3840 x 2160)",
+      "screen_size": "55 (140 sm)",
+      "filterItems": {
+        "brand": "lg",
+        "screen_permission": "4K UHD (3840 x 2160)",
+        "screen_size": "55 (140 sm)"
+      }
+    },
+    {
+      "name": "Arçelik A55 B 820 B",
+      "brand": "arçelik",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A55-B-820-B-bc36euw4rjzhsklpfyi7-300x300.jpg"
+      ],
+      "price": 1499,
+      "id": 49,
+      "category": "televizorlar",
+      "screen_permission": "4K UHD (3840 x 2160)",
+      "screen_size": "55 (139 sm)",
+      "filterItems": {
+        "brand": "arçelik",
+        "screen_permission": "4K UHD (3840 x 2160)",
+        "screen_size": "55 (139 sm)"
+      }
+    },
+    {
+      "name": "LG 32LM637BPLB.AMCB",
+      "brand": "lg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/01/texnomart-LG-32LM637-ab2s0lyqvw9u4hgxk7r6-300x300.jpg"
+      ],
+      "price": 599,
+      "id": 42,
+      "category": "televizorlar",
+      "screen_permission": "HD (1366 x 768)",
+      "screen_size": "32 (81 sm)",
+      "filterItems": {
+        "brand": "lg",
+        "screen_permission": "HD (1366 x 768)",
+        "screen_size": "32 (81 sm)"
+      }
+    },
+    {
+      "name": "Arçelik A43 B 685 A",
+      "brand": "arçelik",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A43-B-685-A-1-pa8fmjvtyzq15whlxneu-300x300.jpg"
+      ],
+      "price": 999,
+      "id": 48,
+      "category": "televizorlar",
+      "screen_permission": "FHD (1920 x 1080)",
+      "screen_size": "43 (108 sm)",
+      "filterItems": {
+        "brand": "arçelik",
+        "screen_permission": "FHD (1920 x 1080)",
+        "screen_size": "43 (108 sm)"
+      }
+    },
+    {
+      "name": "LG 32LQ63006LA.AMCN",
+      "brand": "lg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-32LQ63006LA.AMCN-zeqs0uwafg21ickl8ryx-300x300.jpg"
+      ],
+      "price": 649,
+      "id": 45,
+      "category": "televizorlar",
+      "screen_permission": "FHD (1920 x 1080)",
+      "screen_size": "32 (81 sm)",
+      "filterItems": {
+        "brand": "lg",
+        "screen_permission": "FHD (1920 x 1080)",
+        "screen_size": "32 (81 sm)"
+      }
+    },
+    {
+      "name": "LG 43LM5772PLA.AMCB",
+      "brand": "lg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/08/Televizor-LG-43LM5772PLA-300x300.jpg"
+      ],
+      "price": 1049,
+      "id": 43,
+      "category": "televizorlar",
+      "screen_permission": "FHD (1920 x 1080)",
+      "screen_size": "43 (109 sm)",
+      "filterItems": {
+        "brand": "lg",
+        "screen_permission": "FHD (1920 x 1080)",
+        "screen_size": "43 (109 sm)"
+      }
+    },
+    {
+      "name": "LG 55NANO816QA.AMCN",
+      "brand": "lg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/10/texnomart-LG-50NANO816QA.AMCN-ehpfui0gk32or1qyz6ca.jpg"
+      ],
+      "price": 2099,
+      "id": 44,
+      "category": "televizorlar",
+      "screen_permission": "4K UHD (3840 x 2160)",
+      "screen_size": "55 (140 sm)",
+      "filterItems": {
+        "brand": "lg",
+        "screen_permission": "4K UHD (3840 x 2160)",
+        "screen_size": "55 (140 sm)"
+      }
+    },
+    {
+      "name": "Arçelik A32 A 675 A",
+      "brand": "arçelik",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/08/texnomart-LG-32LQ63006LA.AMCN-zeqs0uwafg21ickl8ryx-300x300.jpg"
+      ],
+      "price": 649,
+      "id": 46,
+      "category": "televizorlar",
+      "screen_permission": "HD (1366 x 768)",
+      "screen_size": "32 (81 sm)",
+      "filterItems": {
+        "brand": "arçelik",
+        "screen_permission": "HD (1366 x 768)",
+        "screen_size": "32 (81 sm)"
+      }
+    },
+    {
+      "name": "Arçelik A65 B 880 B",
+      "brand": "arçelik",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Arcelik-A-B-880-B-1-xbn8ufmrytck4eg79hjl-300x300.jpg"
+      ],
+      "price": 1999,
+      "id": 47,
+      "category": "televizorlar",
+      "screen_permission": "4K UHD (3840 x 2160)",
+      "screen_size": "65 (165 sm)",
+      "filterItems": {
+        "brand": "arçelik",
+        "screen_permission": "4K UHD (3840 x 2160)",
+        "screen_size": "65 (165 sm)"
+      }
+    },
+    {
+      "name": "Arçelik A40M 5870 5B",
+      "brand": "arçelik",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/11/texnomart-Arcelik-A40M-5870-5B-mx1e2favz96lbnspuojg-300x300.jpg"
+      ],
+      "price": 499,
+      "id": 50,
+      "category": "televizorlar",
+      "screen_permission": "FHD (1920 x 1080)",
+      "screen_size": "40 (102 sm)",
+      "filterItems": {
+        "brand": "arçelik",
+        "screen_permission": "FHD (1920 x 1080)",
+        "screen_size": "40 (102 sm)"
+      }
+    },
+    {
       "name": "Paltaryuyan Arçelik AWL 5082 S",
       "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2021/01/Arcelik-AWL-5082-S-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/01/Arcelik-AWL-5082-S-300x300.jpg"
+      ],
       "price": 549,
       "id": 61,
       "category": "paltar-yuyanlar",
@@ -1880,7 +2302,9 @@
     {
       "name": "Paltaryuyan Arçelik 8103 YP",
       "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-8103-YP-7oqcpfzi190v345e6r8b-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-8103-YP-7oqcpfzi190v345e6r8b-300x300.jpg"
+      ],
       "price": 999,
       "id": 62,
       "category": "paltar-yuyanlar",
@@ -1895,7 +2319,9 @@
     {
       "name": "Paltaryuyan Arçelik 2202 YACM",
       "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-2202-YACM-9wm86loeh1bk7nrxaug0-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-2202-YACM-9wm86loeh1bk7nrxaug0-300x300.jpg"
+      ],
       "price": 1199,
       "id": 63,
       "category": "paltar-yuyanlar",
@@ -1910,7 +2336,9 @@
     {
       "name": "Paltaryuyan Arçelik 9103 YPS",
       "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-9103-YPS-1lo7ezpwjhamf0sigt59-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2020/10/texnomart-Arcelik-9103-YPS-1lo7ezpwjhamf0sigt59-300x300.jpg"
+      ],
       "price": 1349,
       "id": 64,
       "category": "paltar-yuyanlar",
@@ -1925,7 +2353,9 @@
     {
       "name": "Paltaryuyan Arçelik 6100 C",
       "brand": "arçelik",
-      "img": "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Arcelik-AWX-6211-W-k5hrzl7tqn0f4pci1bxw-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2021/11/texnomart-Arcelik-AWX-6211-W-k5hrzl7tqn0f4pci1bxw-300x300.jpg"
+      ],
       "price": 599,
       "id": 65,
       "category": "paltar-yuyanlar",
@@ -1940,7 +2370,9 @@
     {
       "name": "Paltaryuyan Beko WSRE 6512 PRW",
       "brand": "beko",
-      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WSRE-6512-PRW-qiw8v67t2hjcf0ap9g4e-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WSRE-6512-PRW-qiw8v67t2hjcf0ap9g4e-300x300.jpg"
+      ],
       "price": 779,
       "id": 66,
       "category": "paltar-yuyanlar",
@@ -1955,7 +2387,9 @@
     {
       "name": "Paltaryuyan Beko WTV 8636 XS",
       "brand": "beko",
-      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-beko-WTV-8636-XS-hb2au1rcp6miv7g0l3ky-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/04/texnomart-beko-WTV-8636-XS-hb2au1rcp6miv7g0l3ky-300x300.jpg"
+      ],
       "price": 1199,
       "id": 67,
       "category": "paltar-yuyanlar",
@@ -1970,7 +2404,9 @@
     {
       "name": "paltaryuyan Beko WITC 7612 B0W Nova",
       "brand": "beko",
-      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WITC-7612-B0W-Nova-02uhewkbvo43a7gysrti-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WITC-7612-B0W-Nova-02uhewkbvo43a7gysrti-300x300.jpg"
+      ],
       "price": 1099,
       "id": 68,
       "category": "paltar-yuyanlar",
@@ -1985,7 +2421,9 @@
     {
       "name": "Paltaryuyan Beko WSRE 7512 PRA",
       "brand": "beko",
-      "img": "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WSRE-7512-PRA-tqezb05r48iacn3k2lpv-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/06/texnomart-Beko-WSRE-7512-PRA-tqezb05r48iacn3k2lpv-300x300.jpg"
+      ],
       "price": 959,
       "id": 69,
       "category": "paltar-yuyanlar",
@@ -2000,7 +2438,9 @@
     {
       "name": "Paltaryuyan Beko WTV 8636 XS",
       "brand": "beko",
-      "img": "https://texnomart.az/wp-content/uploads/2022/04/texnomart-beko-WTV-8636-XS-hb2au1rcp6miv7g0l3ky-300x300.jpg",
+      "img": [
+        "https://texnomart.az/wp-content/uploads/2022/04/texnomart-beko-WTV-8636-XS-hb2au1rcp6miv7g0l3ky-300x300.jpg"
+      ],
       "price": 1199,
       "id": 70,
       "category": "paltar-yuyanlar",
